@@ -1,0 +1,1062 @@
+{
+    "chunks": [
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 0.0,
+            "end": 28.0,
+            "text": " So let's talk about the first step of this course  The course is about placement preparation  I'll write down the placement prep  I want to tell you that I'll cover all the topics that I'll be covering  Let's be honest, there are many topics that are related to data structures"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 28.0,
+            "end": 53.0,
+            "text": " If I'm doing this, I'll have a lot of time and you'll want me to explain the topics that are important  I'll keep that in mind and read it  I'll keep it in the A or Linguistic or Graphs  I'll explain the whole course and I'll write an optimal course  I'll make an optimal course and make the maximum benefit of the course"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 53.0,
+            "end": 69.0,
+            "text": " Let's talk about the prerequisites of this course  I'll use the programming language in this course  I'll use C and C++  I'll tell you about C and C++  If you don't come to C++, you'll be able to use this course without any issues"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 69.0,
+            "end": 92.0,
+            "text": " I'll just read the only thing you'll be able to say about C++  I've read C++ in one video and I have one video which is a bit short  I've read C++ in one video and I've read some new operators and I've read the object orientation  So you'll have to read C++ as much as you want to  You'll have to do some small things about C"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 92.0,
+            "end": 109.0,
+            "text": " Like C, I have to get a new operator in C++  So I'll use this new operator  I'll tell you about the object orientation  If you don't come to C++, you'll be able to use C++  You'll have to use C++"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 109.0,
+            "end": 125.0,
+            "text": " The notes you'll be able to use in PDF  So you don't have to take the tension of the notes  So there's PDF, I'll give you all the notes in the description  And what I'll do here is I'll tell you about the data structure  What are the algorithms?"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 125.0,
+            "end": 137.0,
+            "text": " Let's read the data structure  I'll put the data structure here  I'll write the space in the dot  And I'll write the algorithms here  I've written the data structures"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 137.0,
+            "end": 150.0,
+            "text": " I'll change the pen in blue  Let's see if it'll work  What are the data structures?  The data structures are like you've read the array  You already know the data structures"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 150.0,
+            "end": 172.0,
+            "text": " You already know the data structure  The other thing is the difference between the two  First of all, I'll talk about the data structures  The data structures are made for efficient algorithm  They are made for efficient algorithm"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 172.0,
+            "end": 194.0,
+            "text": " You'll be able to make them for efficient algorithm  This means they are the way to arrange  I'll write the data in main memory  For efficient usage  I'll write the data in the main memory"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 194.0,
+            "end": 209.0,
+            "text": " I've written all these notes  You don't have to write the notes  This is the way to arrange the data in main memory  For efficient usage  I'll be a little bit excited to see what the algorithms are"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 209.0,
+            "end": 223.0,
+            "text": " I'll tell you the basic definition of data structure  Let's take examples of data structures  We have the links  Stack  Queue"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 223.0,
+            "end": 233.0,
+            "text": " Graphs  Pinary search trees  etc.  I'll read all of them  I'll tell you the steps"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 233.0,
+            "end": 243.0,
+            "text": " Follow the steps  I'll understand it in a very different way  I'll read all of them  I'll make a simple example  When you take the data structure"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 243.0,
+            "end": 258.0,
+            "text": " When you take the code, it's a simple example  People are preparing for placement  I'll try to make a little bit of a delay  But I'm happy that I've brought a course for you  Now, data structure is a way to arrange data in main memory"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 258.0,
+            "end": 270.0,
+            "text": " For efficient usage  What is algorithms?  The sequence of steps  To solve a given problem  It's a very simple definition"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 270.0,
+            "end": 278.0,
+            "text": " I've written in the notes  What is the problem of solving a given problem?  What is the problem of solving a given problem?  We have to make coffee  What do you do?"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 278.0,
+            "end": 284.0,
+            "text": " Let's make tea  Let's make tea  Let's add water  Let's add sugar  Let's add milk"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 284.0,
+            "end": 290.0,
+            "text": " Let's make tea  What is this?  It's an algorithm  If I tell you  What is an algorithm?"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 290.0,
+            "end": 302.0,
+            "text": " I'll say yes to the algorithm  Because you have solved some steps for this  What was the problem of solving a given problem?  Tea was drinking, it was drinking  What were the steps for solving it?"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 302.0,
+            "end": 307.0,
+            "text": " Step 1  Add water  Step 2  Add tea to the step 3  Add sugar"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 307.0,
+            "end": 313.0,
+            "text": " Don't add salt  Add milk after that  Add milk  When you open it  Add sugar"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 313.0,
+            "end": 323.0,
+            "text": " And tea is ready  What is this?  It's an algorithm  Similarly, when a computer is taking work  Who takes work from here?"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 323.0,
+            "end": 334.0,
+            "text": " When a computer is taking work  I'll say that I'll add water  Add sugar  Add milk  So I won't be able to say it"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 334.0,
+            "end": 348.0,
+            "text": " I'll explain it in the language  I'll explain it in the Gintamane  I'll implement an algorithm in those languages  I'll do CC++ here  But you can also use Python"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 348.0,
+            "end": 362.0,
+            "text": " To implement an algorithm  You can also use Java  Why did I use CC++ here?  The main motive of choosing COC++ is  When you use COC++"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 362.0,
+            "end": 373.0,
+            "text": " You'll understand the basic things  The simple programming language  You have to do everything  I have a problem with Python  If you read the algorithm"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 373.0,
+            "end": 386.0,
+            "text": " First of all, when you're preparing for the placement  You can also do the code in Java  If you follow the code  If you follow the code  If you follow the code"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 386.0,
+            "end": 394.0,
+            "text": " You can follow it in any problem  You can follow it in Java  But I'll write the algorithm  I'll write in CC++  But you can't write in Java"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 394.0,
+            "end": 403.0,
+            "text": " You can write in Java  I won't recommend Python  I won't recommend JavaScript  If you can use advanced user  But for beginners, you can use Java"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 403.0,
+            "end": 415.0,
+            "text": " Script or Python  And other programming languages  I'll say that CC won't be able to learn  If you read Python with CC  You'll be able to learn it"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 415.0,
+            "end": 424.0,
+            "text": " If you're a beginner  I'll tell you the experience  You can do it  You can also do algorithms  You can do everything"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 424.0,
+            "end": 437.0,
+            "text": " But CC++  I'll use CC++  I'll make a video with notes  You can find it on the channel  If you're a beginner"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 437.0,
+            "end": 447.0,
+            "text": " You can understand Java's nitty-gritty  You can do it  You won't be able to do it  We talked about data structures  We talked about algorithms"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 447.0,
+            "end": 456.0,
+            "text": " We used a computer science language  I've given you an example of making tea  You're right  If you're looking for a proper example  Write in the exam"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 456.0,
+            "end": 466.0,
+            "text": " And if you want to present it professionally  You'll have to present it  I'm taking an example  Sorting and array  Sorting and array"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 466.0,
+            "end": 476.0,
+            "text": " What's the meaning of this?  Like 1792  What's the output?  If you sort it out  1279"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 476.0,
+            "end": 486.0,
+            "text": " If you want to sort it in an increasing order  Then 1279 is the output  So you'll have some steps  What's the step to sort it out?  For those steps"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 486.0,
+            "end": 496.0,
+            "text": " They're the same algorithm  For sorting  Array  Array  So I've told you"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 496.0,
+            "end": 506.0,
+            "text": " What's the data structure?  What's the algorithm?  I've told you that  You'll have to switch the placement preparation  You'll have to switch the job"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 506.0,
+            "end": 516.0,
+            "text": " You'll have to give an interview  I'll tell you some of the interviews  First, I'll cover content  I'll explain how time is limited  When you're preparing for placement"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 516.0,
+            "end": 526.0,
+            "text": " I'll explain this  I'll structure it  I'll keep the value of your time  I'll structure this course  And these notes"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 526.0,
+            "end": 536.0,
+            "text": " If you look at them  I'll show you  I've written notes  You'll understand it in a good way  I've written all the definitions"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 536.0,
+            "end": 546.0,
+            "text": " I'll tell you  I've written about the memory  I'll discuss it in a good way  You don't need to write this  Because I've already written notes"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 546.0,
+            "end": 556.0,
+            "text": " But what I'll do here  I'll rub it  I'll clear the board  And I'll tell you one more thing  I've told you the course structure"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 556.0,
+            "end": 568.0,
+            "text": " I'll start the time complexity  And I've to tell you the data structure  And then I'll write the sequence  I'll do the order  I want to talk about the knowledge"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 568.0,
+            "end": 578.0,
+            "text": " I'll talk about them  Data base  Okay  And with that, the data warehouse  And you'll get to listen to it"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 578.0,
+            "end": 588.0,
+            "text": " And you'll get to know  And the interview says  What's this?  And a big data  What's the database?"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 588.0,
+            "end": 598.0,
+            "text": " We first saw the data structures  What was the data structures?  The arrangement of data  In main memory  In main memory, when I say"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 598.0,
+            "end": 608.0,
+            "text": " Main memory means  What's the main memory?  When I talk about main memory  It means  In your computer"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 608.0,
+            "end": 618.0,
+            "text": " There are 2, 4, 8, 16, and even some of them  There are more than  Some people  But normally, it's so much  So it means the main memory means"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 618.0,
+            "end": 628.0,
+            "text": " When I say main memory  So I'm referring to the RAM  So database, data warehouse  The data structure is  When the program is"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 628.0,
+            "end": 638.0,
+            "text": " You get to know  Some programs  Example of an Excel  Like Google Chrome  When you load it, where it is"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 638.0,
+            "end": 648.0,
+            "text": " In random memory, there is a RAM  And then  Something happens  When it is a program  If you are on the Windows"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 648.0,
+            "end": 658.0,
+            "text": " What will be the first time  When it is loaded  Then the RAM will be in  Something  The code of the program"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 658.0,
+            "end": 668.0,
+            "text": " The sequence of steps  To open a new tab  To download a new file  If there is a lot of Chrome in it  In main memory, the data will be played"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 668.0,
+            "end": 678.0,
+            "text": " With the data, it will be done  The operations will be done  And the arrangement  To make the optimal  This Chrome is responsible for the software"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 678.0,
+            "end": 688.0,
+            "text": " And to make the optimal  To use it  To make it less  If you have more RAM  Then you can use it on the computer"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 688.0,
+            "end": 698.0,
+            "text": " And then the entire folder  And the edge is here  And the new one is here  So they are standing behind  Where is Chrome.TXC"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 698.0,
+            "end": 708.0,
+            "text": " And they will create a problem  And we are in the market  So they are standing  So they will have to use the data structure  To load the program"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 708.0,
+            "end": 718.0,
+            "text": " And to do the same, we have to use the memory  To create a data structure  To load the program  To create a data structure  To load the program"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 718.0,
+            "end": 728.0,
+            "text": " To create a data structure  To create a data structure  But the data is not the same  It is the same  But what happens here"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 728.0,
+            "end": 740.0,
+            "text": " You can read the data  And retrieve the data  And update it  And delete it  So here is my defined group"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 740.0,
+            "end": 752.0,
+            "text": " I am going to use the notes  I am going to use it to open my own document  Collection of information in permanent storage for faster retrieval and updation  You will get PDF and description  So you can get the tension"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 752.0,
+            "end": 764.0,
+            "text": " And I have written the data warehouse definition  Management of huge amount of  Legacy data for better analysis  I will explain this  Management of huge amount of"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 764.0,
+            "end": 774.0,
+            "text": " Data of League of League.  What is League of League?  I will tell you about it.  Data waste is understood that in hard disk, many data stored,  To retrieve it, update it, in memory,"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 774.0,
+            "end": 788.0,
+            "text": " It is not here, we have to read it and update it.  You can use mySQL database, you can use MongoDB.  The database is, i.e. in hard disk,  It is in hard disk, because  Whatever data is in RAM,"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 788.0,
+            "end": 800.0,
+            "text": " Whatever data is in RAM,  It will end after the program is closed.  So, what we have to do is,  If we have to persist data for a long time,  What we have to do is,"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 800.0,
+            "end": 810.0,
+            "text": " We have to keep it in hard disk,  And we have to keep it in good condition,  For efficient, retrieval,  Abdation and deletion.  What we have to do is,"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 810.0,
+            "end": 820.0,
+            "text": " We have to use database,  And to make it design,  We have to read the database,  Which is outside this course,  We have to read the data structure algorithms,"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 820.0,
+            "end": 830.0,
+            "text": " Data is outside this course,  I will run a website,  I will run Facebook.com,  But I will run it,  Now, the Facebook.com,"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 830.0,
+            "end": 840.0,
+            "text": " It will end up with a lot of data,  You will upload a photo,  Your friend will be a big fan of you.  Your friend,  You have wished for a long time in 2009."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 840.0,
+            "end": 850.0,
+            "text": " If you are a big fan,  Then you will be able to do it in the next one.  So, that account, that data,  I will keep it in mind,  Because it is a data,"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 850.0,
+            "end": 860.0,
+            "text": " Which I will use later to analysis it,  To make it look like a data.  Okay?  Now, I have prepared some data,  And now,"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 860.0,
+            "end": 870.0,
+            "text": " 20,000, 20,000,  But I don't want to keep it in that database,  Because,  My access,  I will try to access it,"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 870.0,
+            "end": 880.0,
+            "text": " So, it will be slow,  Because I don't want to keep all the data on one place,  On my main system,  It is a very simple diagram,  I am making it very complicated,"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 880.0,
+            "end": 890.0,
+            "text": " But let's assume,  It interacts with one database,  So, what I will do,  I will keep fresh data,  And I will repeat the legacy data,"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 890.0,
+            "end": 900.0,
+            "text": " The legacy data will be the data,  Which should be kept in mind,  Because I want to keep the main system  At least,  I want to keep the data,"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 900.0,
+            "end": 914.0,
+            "text": " But I don't want to keep the data on my old data,  Because I want to analyze it,  I want to see how many people clicked on the profile,  Now, I clicked on the profile of your friend,  I want to take it from the main system,"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 914.0,
+            "end": 924.0,
+            "text": " From Facebook,  This data can be kept in a different way,  And it can be kept in a different way,  And it can be kept in a different way,  Because, data is a very big thing,"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 924.0,
+            "end": 934.0,
+            "text": " Today,  The field of big algorithms,  So, we will have to open the data,  We will have to open the data,  And I will do different things in the main system,"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 934.0,
+            "end": 944.0,
+            "text": " And this data will be very big,  So, I will do different things,  Now, how to store this legacy data,  How to keep it in a different way,  How to keep it in a different way,"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 944.0,
+            "end": 954.0,
+            "text": " How to distribute it,  So that I can store it efficiently,  That is the head data warehousing,  Okay,  You should know about this course,"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 954.0,
+            "end": 964.0,
+            "text": " Big data,  Now, what will happen,  Is that,  You have to make an algorithm,  Which is, for example, search engine,"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 964.0,
+            "end": 976.0,
+            "text": " Which deals with a very big data,  That your normal algorithm,  And the normal applications,  That do not deal with it,  For example,"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 976.0,
+            "end": 986.0,
+            "text": " You have to search for the model,  And it is very big data,  If you have a limited memory,  So, for that,  The algorithm,"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 986.0,
+            "end": 996.0,
+            "text": " You have to use techniques,  And it feels different,  Big data,  But, you should know these three terms,  Now, what I am telling you,"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 996.0,
+            "end": 1006.0,
+            "text": " It is very important,  Take more attention,  You should know,  And also, you know,  Because,"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1006.0,
+            "end": 1018.0,
+            "text": " In any company, you are giving,  You have to study data structure and algorithm,  And all these things are used in the industry,  And because all these things are used in the industry,  And also, you can ask,"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1018.0,
+            "end": 1028.0,
+            "text": " Because, you can ask,  So, you will answer,  So, you will give,  Good performance in their comparison,  Now, what I am telling you,"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1028.0,
+            "end": 1038.0,
+            "text": " It is very important to listen to,  Now,  This is my memory,  This is my memory,  What is RAM?"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1038.0,
+            "end": 1048.0,
+            "text": " Random access memory,  You know,  You can not do bad teach,  What the extra,  Like this,"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1048.0,
+            "end": 1058.0,
+            "text": " Everything you want,  Motherloo,  Now, what you want to do?  Almost everything you want.  And aspect of dataness."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1058.0,
+            "end": 1070.0,
+            "text": " As you can see,  It can't be called digital,  Each seeinginasets.  Means,  At that time,"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1070.0,
+            "end": 1092.0,
+            "text": " I will tell you that the memory of the C programming is good and the data is structured algorithm.  Now what is here? I am talking in segments.  So this is a code segment.  I mean this is my code.  I mean this is a code from Harry.C."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1092.0,
+            "end": 1111.0,
+            "text": " Now this code is the main memory in load.  I told you that if you open a program, the memory of the Cable is loaded.  And what is the problem?  After that, the load will be something else.  Now what is here?"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1111.0,
+            "end": 1124.0,
+            "text": " Let's keep static plus global variables.  And I will not do it too much.  I have made the segment of initialized notes.  I have made the diagram for this.  I will not discuss it now."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1124.0,
+            "end": 1139.0,
+            "text": " I will keep static and global variables.  I will show you the section of the data.  This is stack and heap.  Now stack and heap are very important to the world.  Because the question is asked."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1139.0,
+            "end": 1155.0,
+            "text": " If you want to know the real C programs,  then you need to know the stack and heap.  So the stack is a normal memory.  It is a simple memory.  I have written the entire integer."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1155.0,
+            "end": 1168.0,
+            "text": " I have written the number of Cs equal to CH.  I have made a variable.  It is in my stack.  Now look at the diagram from here.  I know that it is a main function in my program."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1168.0,
+            "end": 1184.0,
+            "text": " And I have made a function called Fun1.  Now my Fun1 function.  I have made a Fun2 name function.  Fun1 is my function.  Fun2 is my function."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1184.0,
+            "end": 1196.0,
+            "text": " Fun1 is my column.  And my main function is my program.  Now I will do the main function.  This is my main function.  This is the column."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1196.0,
+            "end": 1210.0,
+            "text": " When this is the column,  it will get a place here.  This stack frame will be activated.  I will do this here.  I am making a stack frame or activation."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1210.0,
+            "end": 1223.0,
+            "text": " This is the main activation.  Here all the variables I have made are i.  Int i is equal to 0.  That will be here.  Int j is equal to 3."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1223.0,
+            "end": 1233.0,
+            "text": " That will be here.  Then what will happen?  When all these lines execute,  this line will be done.  Fun1 will execute."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1233.0,
+            "end": 1249.0,
+            "text": " Then it will be the activation record.  It will be the activation record.  Fun1's activation record is what is happening inside.  Fun1's Fun2 is called Fun2.  I have made variables here."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1249.0,
+            "end": 1261.0,
+            "text": " I will write k and L here.  Initialize k and L.  Then I will call Fun2.  As soon as I call Fun2,  I will call Fun1 as Fun1."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1261.0,
+            "end": 1273.0,
+            "text": " I will call Fun2 and get the value.  Fun1 is called Fun1.  Go and get Fun2.  Call Fun2 and get the value.  I have made many variables."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1273.0,
+            "end": 1287.0,
+            "text": " This is the C, D, F, G.  All these variables are the values in all variables.  Take a look here.  The stack frame of Fun2 is also called A, C, D, F and G.  All these variables are being created."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1287.0,
+            "end": 1303.0,
+            "text": " All these variables are being used by many members.  Finally, the value is written.  What is the value of the value?  I am adding k in the value of K, D, F and G.  When I am doing the function of K, D, F and G,"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1303.0,
+            "end": 1317.0,
+            "text": " I will do it in K.  K will be the value of the function written in the function.  You will find out in some programming language.  What will happen?  I have got the value of one value."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1317.0,
+            "end": 1328.0,
+            "text": " After the final calculation, the value is written.  The value is 3.  What will happen?  I will cut the data from this way.  It will be deleted."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1328.0,
+            "end": 1343.0,
+            "text": " The activation record will be empty.  If the value is written in the function,  then it will be given to the value of 3.  Finally, the value of this can be written.  It can be written in the function."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1343.0,
+            "end": 1356.0,
+            "text": " What will happen?  The memory will be empty.  The memory will be empty.  Finally, the value is written here.  When the program is finished, the value will be empty."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1356.0,
+            "end": 1369.0,
+            "text": " Here, the value of the purish phase will be empty.  The heap is a stack.  The function of the stack will be called.  The function of the stack will be found.  What is the heap?"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1369.0,
+            "end": 1381.0,
+            "text": " I will explain the heap.  Listen carefully.  The amount of money you have,  you don't have money.  What do you do?"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1381.0,
+            "end": 1395.0,
+            "text": " You request a bank or a bank.  You give me Rs.10, Rs.20, Rs.20.  You go to your friend's house, you go to your father's house,  you go to your uncle's house, you request money to buy.  You give me money."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1395.0,
+            "end": 1408.0,
+            "text": " I will give you money.  I give you Rs.20, Rs.20 for 10 days.  You arrange your money and return it.  Thank you so much.  You gave me Rs.20."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1408.0,
+            "end": 1420.0,
+            "text": " You have requested and when your work is done, you have released it.  Take the example of your phone.  I am very angry with my friend.  He gave me his phone.  I will send him a simple phone."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1420.0,
+            "end": 1433.0,
+            "text": " You will tell him, it is fine.  Play PUBG.  I will give him a lottery.  You have requested and when your work is done, you have returned it.  You have lost it."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1433.0,
+            "end": 1447.0,
+            "text": " What happens in Heap?  In Heap, you allocate a dynamic memory.  If you want to request a dynamic memory, you request it from Heap.  What happens in Heap?  You request a dynamic memory."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1447.0,
+            "end": 1461.0,
+            "text": " How will you request it?  From the point of your heart.  The point of your heart is a variable which you can store.  I have told you a lot about the C in the tutorial.  If you have seen it, you have already told it."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1461.0,
+            "end": 1479.0,
+            "text": " It is not a question.  I will make a point here.  I will use Malok in C language.  I am a new operator in C++.  I can use a new operator."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1479.0,
+            "end": 1496.0,
+            "text": " I can use Malok in C.  I can request a dynamic memory.  I want to store a 4 integers.  I can point this pointer.  I will use Malok in C."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1496.0,
+            "end": 1520.0,
+            "text": " I will request this in dynamic memory.  I want this dynamically.  I can also make this in stack.  If I used to make this stack, I would have kept it for forever.  Until I return the function."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1520.0,
+            "end": 1538.0,
+            "text": " I want to delete the function in the same function.  You can request it from Jammancha.  You can delete Jammancha.  From the function in one, you can request Jammancha.  You can request Jammancha."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1538.0,
+            "end": 1553.0,
+            "text": " You can request Jammancha.  You can request Jammancha.  You can use a heap memory.  You can allocate RAM.  Where can you use the memory?"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1553.0,
+            "end": 1569.0,
+            "text": " I want to store 4 integers.  I will give you a hint.  I have given the letter to the milk.  Where can you give milk?  It is the balty pointer."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1569.0,
+            "end": 1583.0,
+            "text": " What is the balty pointer?  What is the pointer?  The pointer is the address store.  You can give the address to the first element.  You can use it later."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1583.0,
+            "end": 1598.0,
+            "text": " When you have the work done,  you can tell the memory of the heap.  Now I want to release it.  You will need to release it later.  If you have the memory, you will be able to use it."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1598.0,
+            "end": 1616.0,
+            "text": " Or else, you will be able to use it.  So, the memory is very efficiently used.  Data structure and algorithm is the same game.  We efficiently and efficiently use our algorithm in a very less time.  Space is also important."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1616.0,
+            "end": 1631.0,
+            "text": " Time is important.  The topic is the same.  I hope you understood why the heap is used.  If you ask me why the heap is used in the stack,  what will you answer?"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1631.0,
+            "end": 1645.0,
+            "text": " You can do it.  But if I have to delete the function,  I will have to make an error of 1 lakh elements.  And after that, I have to delete the function.  How will I do it?"
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1645.0,
+            "end": 1663.0,
+            "text": " The dynamic memory is the stack of a function.  It is the end of the function.  The function is written and the end of the function is the end.  The function is called as the stack.  So, I have started from the main."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1663.0,
+            "end": 1681.0,
+            "text": " I have called the main into inti-0.  I have called the fun one.  I will take the value from the main to the main.  I have written the value of the function.  And after that, you resume your execution."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1681.0,
+            "end": 1693.0,
+            "text": " Now you can pause.  The main value is the value of the function.  What will happen?  What is the function?  The function is called as the function of the function."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1693.0,
+            "end": 1707.0,
+            "text": " I will give you the value of the function.  I will wait for you.  You go and take the value.  So, I am waiting for this.  The function is written as the function of the function."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1707.0,
+            "end": 1724.0,
+            "text": " And the memory of the function will be in the stack.  As soon as the value is written,  the execution and resume will be done.  I hope that it is clear.  So, this is the program in which our memory is run."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1724.0,
+            "end": 1740.0,
+            "text": " First, the code will be copied.  Now, the code will be copied.  You will not run the machine code.  You will compile the machine code.  Now, after that, you can use the stack and heap."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1740.0,
+            "end": 1757.0,
+            "text": " You can use heap as a responsibility.  If you use the heap,  you can use the memory of the memory.  The memory of the situation is that you don't have to make a free heap.  And you will request a heap."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1757.0,
+            "end": 1770.0,
+            "text": " You will request a heap.  You will request a heap.  You will request a heap.  I have written all the notes.  So, you won't have any problem."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1770.0,
+            "end": 1782.0,
+            "text": " I hope you liked this video.  In future videos,  we will focus on data structure algorithm.  This prerequisite was a little bit of a requirement.  I will use it in terms."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1782.0,
+            "end": 1794.0,
+            "text": " We will see this as a language.  We will see the array.  We will see the binary search.  So, we will use this as a lot.  So, I told you this."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1794.0,
+            "end": 1807.0,
+            "text": " This is worth it.  If you want to do Python,  I will tell you that when you enter the interview,  you will expect the C++ from you.  You will get the language from the English."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1807.0,
+            "end": 1823.0,
+            "text": " You will go there and say,  C++ and the language is not coming.  You are only Python and the language program.  So, you will get the data structure.  You will get the C which is coming in front of you."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1823.0,
+            "end": 1834.0,
+            "text": " I am telling you this as an experience.  It is a mindset.  And you can say,  I can't emphasize enough.  You have to learn."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1834.0,
+            "end": 1850.0,
+            "text": " I recommend C.  When you are preparing a product based company for a data structure,  and you are focusing on data structure,  then I recommend C++.  And I have given more videos in it."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1850.0,
+            "end": 1861.0,
+            "text": " If you don't come to C,  then I have made a video of 15 hours with notes.  I have given this video with notes.  I have given that video with notes.  So, you can access it."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1861.0,
+            "end": 1872.0,
+            "text": " I hope this is clear.  I will explain it to you.  And with that,  I will tell you to download notes and download it.  And like this video."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1872.0,
+            "end": 1883.0,
+            "text": " Tell me in the comment how it felt.  So, now, we will explore the topics of this video.  We will explore the topics of this video.  Don't forget to like this video.  Thank you so much guys for watching this video."
+        },
+        {
+            "number": "01",
+            "title": "Introduction to Data Structures & Algorithms",
+            "start": 1883.0,
+            "end": 1903.0,
+            "text": " And I will see you next time.  Bye."
+        }
+    ],
+    "text": " So let's talk about the first step of this course The course is about placement preparation I'll write down the placement prep I want to tell you that I'll cover all the topics that I'll be covering Let's be honest, there are many topics that are related to data structures If I'm doing this, I'll have a lot of time and you'll want me to explain the topics that are important I'll keep that in mind and read it I'll keep it in the A or Linguistic or Graphs I'll explain the whole course and I'll write an optimal course I'll make an optimal course and make the maximum benefit of the course Let's talk about the prerequisites of this course I'll use the programming language in this course I'll use C and C++ I'll tell you about C and C++ If you don't come to C++, you'll be able to use this course without any issues I'll just read the only thing you'll be able to say about C++ I've read C++ in one video and I have one video which is a bit short I've read C++ in one video and I've read some new operators and I've read the object orientation So you'll have to read C++ as much as you want to You'll have to do some small things about C Like C, I have to get a new operator in C++ So I'll use this new operator I'll tell you about the object orientation If you don't come to C++, you'll be able to use C++ You'll have to use C++ The notes you'll be able to use in PDF So you don't have to take the tension of the notes So there's PDF, I'll give you all the notes in the description And what I'll do here is I'll tell you about the data structure What are the algorithms? Let's read the data structure I'll put the data structure here I'll write the space in the dot And I'll write the algorithms here I've written the data structures I'll change the pen in blue Let's see if it'll work What are the data structures? The data structures are like you've read the array You already know the data structures You already know the data structure The other thing is the difference between the two First of all, I'll talk about the data structures The data structures are made for efficient algorithm They are made for efficient algorithm You'll be able to make them for efficient algorithm This means they are the way to arrange I'll write the data in main memory For efficient usage I'll write the data in the main memory I've written all these notes You don't have to write the notes This is the way to arrange the data in main memory For efficient usage I'll be a little bit excited to see what the algorithms are I'll tell you the basic definition of data structure Let's take examples of data structures We have the links Stack Queue Graphs Pinary search trees etc. I'll read all of them I'll tell you the steps Follow the steps I'll understand it in a very different way I'll read all of them I'll make a simple example When you take the data structure When you take the code, it's a simple example People are preparing for placement I'll try to make a little bit of a delay But I'm happy that I've brought a course for you Now, data structure is a way to arrange data in main memory For efficient usage What is algorithms? The sequence of steps To solve a given problem It's a very simple definition I've written in the notes What is the problem of solving a given problem? What is the problem of solving a given problem? We have to make coffee What do you do? Let's make tea Let's make tea Let's add water Let's add sugar Let's add milk Let's make tea What is this? It's an algorithm If I tell you What is an algorithm? I'll say yes to the algorithm Because you have solved some steps for this What was the problem of solving a given problem? Tea was drinking, it was drinking What were the steps for solving it? Step 1 Add water Step 2 Add tea to the step 3 Add sugar Don't add salt Add milk after that Add milk When you open it Add sugar And tea is ready What is this? It's an algorithm Similarly, when a computer is taking work Who takes work from here? When a computer is taking work I'll say that I'll add water Add sugar Add milk So I won't be able to say it I'll explain it in the language I'll explain it in the Gintamane I'll implement an algorithm in those languages I'll do CC++ here But you can also use Python To implement an algorithm You can also use Java Why did I use CC++ here? The main motive of choosing COC++ is When you use COC++ You'll understand the basic things The simple programming language You have to do everything I have a problem with Python If you read the algorithm First of all, when you're preparing for the placement You can also do the code in Java If you follow the code If you follow the code If you follow the code You can follow it in any problem You can follow it in Java But I'll write the algorithm I'll write in CC++ But you can't write in Java You can write in Java I won't recommend Python I won't recommend JavaScript If you can use advanced user But for beginners, you can use Java Script or Python And other programming languages I'll say that CC won't be able to learn If you read Python with CC You'll be able to learn it If you're a beginner I'll tell you the experience You can do it You can also do algorithms You can do everything But CC++ I'll use CC++ I'll make a video with notes You can find it on the channel If you're a beginner You can understand Java's nitty-gritty You can do it You won't be able to do it We talked about data structures We talked about algorithms We used a computer science language I've given you an example of making tea You're right If you're looking for a proper example Write in the exam And if you want to present it professionally You'll have to present it I'm taking an example Sorting and array Sorting and array What's the meaning of this? Like 1792 What's the output? If you sort it out 1279 If you want to sort it in an increasing order Then 1279 is the output So you'll have some steps What's the step to sort it out? For those steps They're the same algorithm For sorting Array Array So I've told you What's the data structure? What's the algorithm? I've told you that You'll have to switch the placement preparation You'll have to switch the job You'll have to give an interview I'll tell you some of the interviews First, I'll cover content I'll explain how time is limited When you're preparing for placement I'll explain this I'll structure it I'll keep the value of your time I'll structure this course And these notes If you look at them I'll show you I've written notes You'll understand it in a good way I've written all the definitions I'll tell you I've written about the memory I'll discuss it in a good way You don't need to write this Because I've already written notes But what I'll do here I'll rub it I'll clear the board And I'll tell you one more thing I've told you the course structure I'll start the time complexity And I've to tell you the data structure And then I'll write the sequence I'll do the order I want to talk about the knowledge I'll talk about them Data base Okay And with that, the data warehouse And you'll get to listen to it And you'll get to know And the interview says What's this? And a big data What's the database? We first saw the data structures What was the data structures? The arrangement of data In main memory In main memory, when I say Main memory means What's the main memory? When I talk about main memory It means In your computer There are 2, 4, 8, 16, and even some of them There are more than Some people But normally, it's so much So it means the main memory means When I say main memory So I'm referring to the RAM So database, data warehouse The data structure is When the program is You get to know Some programs Example of an Excel Like Google Chrome When you load it, where it is In random memory, there is a RAM And then Something happens When it is a program If you are on the Windows What will be the first time When it is loaded Then the RAM will be in Something The code of the program The sequence of steps To open a new tab To download a new file If there is a lot of Chrome in it In main memory, the data will be played With the data, it will be done The operations will be done And the arrangement To make the optimal This Chrome is responsible for the software And to make the optimal To use it To make it less If you have more RAM Then you can use it on the computer And then the entire folder And the edge is here And the new one is here So they are standing behind Where is Chrome.TXC And they will create a problem And we are in the market So they are standing So they will have to use the data structure To load the program And to do the same, we have to use the memory To create a data structure To load the program To create a data structure To load the program To create a data structure To create a data structure But the data is not the same It is the same But what happens here You can read the data And retrieve the data And update it And delete it So here is my defined group I am going to use the notes I am going to use it to open my own document Collection of information in permanent storage for faster retrieval and updation You will get PDF and description So you can get the tension And I have written the data warehouse definition Management of huge amount of Legacy data for better analysis I will explain this Management of huge amount of Data of League of League. What is League of League? I will tell you about it. Data waste is understood that in hard disk, many data stored, To retrieve it, update it, in memory, It is not here, we have to read it and update it. You can use mySQL database, you can use MongoDB. The database is, i.e. in hard disk, It is in hard disk, because Whatever data is in RAM, Whatever data is in RAM, It will end after the program is closed. So, what we have to do is, If we have to persist data for a long time, What we have to do is, We have to keep it in hard disk, And we have to keep it in good condition, For efficient, retrieval, Abdation and deletion. What we have to do is, We have to use database, And to make it design, We have to read the database, Which is outside this course, We have to read the data structure algorithms, Data is outside this course, I will run a website, I will run Facebook.com, But I will run it, Now, the Facebook.com, It will end up with a lot of data, You will upload a photo, Your friend will be a big fan of you. Your friend, You have wished for a long time in 2009. If you are a big fan, Then you will be able to do it in the next one. So, that account, that data, I will keep it in mind, Because it is a data, Which I will use later to analysis it, To make it look like a data. Okay? Now, I have prepared some data, And now, 20,000, 20,000, But I don't want to keep it in that database, Because, My access, I will try to access it, So, it will be slow, Because I don't want to keep all the data on one place, On my main system, It is a very simple diagram, I am making it very complicated, But let's assume, It interacts with one database, So, what I will do, I will keep fresh data, And I will repeat the legacy data, The legacy data will be the data, Which should be kept in mind, Because I want to keep the main system At least, I want to keep the data, But I don't want to keep the data on my old data, Because I want to analyze it, I want to see how many people clicked on the profile, Now, I clicked on the profile of your friend, I want to take it from the main system, From Facebook, This data can be kept in a different way, And it can be kept in a different way, And it can be kept in a different way, Because, data is a very big thing, Today, The field of big algorithms, So, we will have to open the data, We will have to open the data, And I will do different things in the main system, And this data will be very big, So, I will do different things, Now, how to store this legacy data, How to keep it in a different way, How to keep it in a different way, How to distribute it, So that I can store it efficiently, That is the head data warehousing, Okay, You should know about this course, Big data, Now, what will happen, Is that, You have to make an algorithm, Which is, for example, search engine, Which deals with a very big data, That your normal algorithm, And the normal applications, That do not deal with it, For example, You have to search for the model, And it is very big data, If you have a limited memory, So, for that, The algorithm, You have to use techniques, And it feels different, Big data, But, you should know these three terms, Now, what I am telling you, It is very important, Take more attention, You should know, And also, you know, Because, In any company, you are giving, You have to study data structure and algorithm, And all these things are used in the industry, And because all these things are used in the industry, And also, you can ask, Because, you can ask, So, you will answer, So, you will give, Good performance in their comparison, Now, what I am telling you, It is very important to listen to, Now, This is my memory, This is my memory, What is RAM? Random access memory, You know, You can not do bad teach, What the extra, Like this, Everything you want, Motherloo, Now, what you want to do? Almost everything you want. And aspect of dataness. As you can see, It can't be called digital, Each seeinginasets. Means, At that time, I will tell you that the memory of the C programming is good and the data is structured algorithm. Now what is here? I am talking in segments. So this is a code segment. I mean this is my code. I mean this is a code from Harry.C. Now this code is the main memory in load. I told you that if you open a program, the memory of the Cable is loaded. And what is the problem? After that, the load will be something else. Now what is here? Let's keep static plus global variables. And I will not do it too much. I have made the segment of initialized notes. I have made the diagram for this. I will not discuss it now. I will keep static and global variables. I will show you the section of the data. This is stack and heap. Now stack and heap are very important to the world. Because the question is asked. If you want to know the real C programs, then you need to know the stack and heap. So the stack is a normal memory. It is a simple memory. I have written the entire integer. I have written the number of Cs equal to CH. I have made a variable. It is in my stack. Now look at the diagram from here. I know that it is a main function in my program. And I have made a function called Fun1. Now my Fun1 function. I have made a Fun2 name function. Fun1 is my function. Fun2 is my function. Fun1 is my column. And my main function is my program. Now I will do the main function. This is my main function. This is the column. When this is the column, it will get a place here. This stack frame will be activated. I will do this here. I am making a stack frame or activation. This is the main activation. Here all the variables I have made are i. Int i is equal to 0. That will be here. Int j is equal to 3. That will be here. Then what will happen? When all these lines execute, this line will be done. Fun1 will execute. Then it will be the activation record. It will be the activation record. Fun1's activation record is what is happening inside. Fun1's Fun2 is called Fun2. I have made variables here. I will write k and L here. Initialize k and L. Then I will call Fun2. As soon as I call Fun2, I will call Fun1 as Fun1. I will call Fun2 and get the value. Fun1 is called Fun1. Go and get Fun2. Call Fun2 and get the value. I have made many variables. This is the C, D, F, G. All these variables are the values in all variables. Take a look here. The stack frame of Fun2 is also called A, C, D, F and G. All these variables are being created. All these variables are being used by many members. Finally, the value is written. What is the value of the value? I am adding k in the value of K, D, F and G. When I am doing the function of K, D, F and G, I will do it in K. K will be the value of the function written in the function. You will find out in some programming language. What will happen? I have got the value of one value. After the final calculation, the value is written. The value is 3. What will happen? I will cut the data from this way. It will be deleted. The activation record will be empty. If the value is written in the function, then it will be given to the value of 3. Finally, the value of this can be written. It can be written in the function. What will happen? The memory will be empty. The memory will be empty. Finally, the value is written here. When the program is finished, the value will be empty. Here, the value of the purish phase will be empty. The heap is a stack. The function of the stack will be called. The function of the stack will be found. What is the heap? I will explain the heap. Listen carefully. The amount of money you have, you don't have money. What do you do? You request a bank or a bank. You give me Rs.10, Rs.20, Rs.20. You go to your friend's house, you go to your father's house, you go to your uncle's house, you request money to buy. You give me money. I will give you money. I give you Rs.20, Rs.20 for 10 days. You arrange your money and return it. Thank you so much. You gave me Rs.20. You have requested and when your work is done, you have released it. Take the example of your phone. I am very angry with my friend. He gave me his phone. I will send him a simple phone. You will tell him, it is fine. Play PUBG. I will give him a lottery. You have requested and when your work is done, you have returned it. You have lost it. What happens in Heap? In Heap, you allocate a dynamic memory. If you want to request a dynamic memory, you request it from Heap. What happens in Heap? You request a dynamic memory. How will you request it? From the point of your heart. The point of your heart is a variable which you can store. I have told you a lot about the C in the tutorial. If you have seen it, you have already told it. It is not a question. I will make a point here. I will use Malok in C language. I am a new operator in C++. I can use a new operator. I can use Malok in C. I can request a dynamic memory. I want to store a 4 integers. I can point this pointer. I will use Malok in C. I will request this in dynamic memory. I want this dynamically. I can also make this in stack. If I used to make this stack, I would have kept it for forever. Until I return the function. I want to delete the function in the same function. You can request it from Jammancha. You can delete Jammancha. From the function in one, you can request Jammancha. You can request Jammancha. You can request Jammancha. You can request Jammancha. You can use a heap memory. You can allocate RAM. Where can you use the memory? I want to store 4 integers. I will give you a hint. I have given the letter to the milk. Where can you give milk? It is the balty pointer. What is the balty pointer? What is the pointer? The pointer is the address store. You can give the address to the first element. You can use it later. When you have the work done, you can tell the memory of the heap. Now I want to release it. You will need to release it later. If you have the memory, you will be able to use it. Or else, you will be able to use it. So, the memory is very efficiently used. Data structure and algorithm is the same game. We efficiently and efficiently use our algorithm in a very less time. Space is also important. Time is important. The topic is the same. I hope you understood why the heap is used. If you ask me why the heap is used in the stack, what will you answer? You can do it. But if I have to delete the function, I will have to make an error of 1 lakh elements. And after that, I have to delete the function. How will I do it? The dynamic memory is the stack of a function. It is the end of the function. The function is written and the end of the function is the end. The function is called as the stack. So, I have started from the main. I have called the main into inti-0. I have called the fun one. I will take the value from the main to the main. I have written the value of the function. And after that, you resume your execution. Now you can pause. The main value is the value of the function. What will happen? What is the function? The function is called as the function of the function. I will give you the value of the function. I will wait for you. You go and take the value. So, I am waiting for this. The function is written as the function of the function. And the memory of the function will be in the stack. As soon as the value is written, the execution and resume will be done. I hope that it is clear. So, this is the program in which our memory is run. First, the code will be copied. Now, the code will be copied. You will not run the machine code. You will compile the machine code. Now, after that, you can use the stack and heap. You can use heap as a responsibility. If you use the heap, you can use the memory of the memory. The memory of the situation is that you don't have to make a free heap. And you will request a heap. You will request a heap. You will request a heap. You will request a heap. I have written all the notes. So, you won't have any problem. I hope you liked this video. In future videos, we will focus on data structure algorithm. This prerequisite was a little bit of a requirement. I will use it in terms. We will see this as a language. We will see the array. We will see the binary search. So, we will use this as a lot. So, I told you this. This is worth it. If you want to do Python, I will tell you that when you enter the interview, you will expect the C++ from you. You will get the language from the English. You will go there and say, C++ and the language is not coming. You are only Python and the language program. So, you will get the data structure. You will get the C which is coming in front of you. I am telling you this as an experience. It is a mindset. And you can say, I can't emphasize enough. You have to learn. I recommend C. When you are preparing a product based company for a data structure, and you are focusing on data structure, then I recommend C++. And I have given more videos in it. If you don't come to C, then I have made a video of 15 hours with notes. I have given this video with notes. I have given that video with notes. So, you can access it. I hope this is clear. I will explain it to you. And with that, I will tell you to download notes and download it. And like this video. Tell me in the comment how it felt. So, now, we will explore the topics of this video. We will explore the topics of this video. Don't forget to like this video. Thank you so much guys for watching this video. And I will see you next time. Bye."
+}

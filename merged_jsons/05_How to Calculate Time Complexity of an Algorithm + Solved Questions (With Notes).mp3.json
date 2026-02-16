@@ -1,0 +1,2056 @@
+{
+    "chunks": [
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 0.0,
+            "end": 20.04,
+            "text": " Before solving some of the problems, I will tell you the tricks of making time complexity  And after that, we will solve some of the problems  Which you will make a very good catch on the time complexity  So, here I will talk about some algorithm's time complexity  When you are not able to solve them"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 20.04,
+            "end": 40.2,
+            "text": " So, what happens first?  And we will approach this problem with this problem  So, first of all, I want to talk about some of the tricks  And we will talk about them quickly because we already talked about the basics  If you have not done the playlists, then you will have to do the data structures and algorithms"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 40.2,
+            "end": 59.76,
+            "text": " So, what I will do here is that I will write tricks  And I will write the first technique, I will not do the time best  The first technique is to make time complexity  That is to drop non-dominant terms  So, drop the non-dominant terms"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 59.76,
+            "end": 73.75999999999999,
+            "text": " So, drop the non-dominant terms  What does this mean?  I mean, you have given a formula  It is a formula  I am writing a simple formula"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 73.75999999999999,
+            "end": 84.76,
+            "text": " I is equal to 0, I less than n, I plus plus  This is the formula that you are going to n bar  This is written in the language  And I have written this in the entire language  I is equal to 0, I less than n, I plus plus"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 84.76,
+            "end": 106.76,
+            "text": " Now this formula is working  So, first of all, what do you want to do?  That you drop a problem on the fragments  And if you get time in a fragment, I mean, here is the hint  Not the hint, but the case in the formula is the case"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 106.76,
+            "end": 117.76,
+            "text": " I mean, there is a case on it  And I am trying not to make a sample program here  And I am trying not to make a sample program here  It is an example here  So, this is it"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 117.76,
+            "end": 127.76,
+            "text": " I am trying not to make a sample program here  It is an example here  This is the case on it  Now, what is the case?  What is the case?"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 127.76,
+            "end": 140.76,
+            "text": " What is the case?  This is the case on it  I assume that the case is working  It won't be the case every time  Because it won't be working"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 140.76,
+            "end": 159.76,
+            "text": " Now the value of i is increasing but we assume that we have taken k times in this portion.  This is the statement in this statement.  How many times are these statements?  This is n times.  So what will happen in this time?"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 159.76,
+            "end": 172.76,
+            "text": " I will take this time of algorithm.  This will be k multiplied by n.  So this will be k multiplied by n.  Now this will be k multiplied by n.  But k multiplied by n will be very low."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 172.76,
+            "end": 194.76,
+            "text": " Now exactly this will not be k multiplied by n.  Because when this value of i will increase then it will increase in time.  So we ignore that thing.  We assume that all the steps of this is k z equal to i k plus plus and x is equal to y plus 1.  In this way, the instructions are taking almost k times on an average."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 194.76,
+            "end": 210.76,
+            "text": " And k will increase in the same way.  So we have calculated it by constant.  Now in two, the time of the two, the two, the four, when you are at exact time,  you may have taken two, the two, the four, the time of the two,  it is different when you have taken two, the two, when you have taken two,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 210.76,
+            "end": 225.76,
+            "text": " but we ignore that.  We assume that all the operations are taking k times.  So this formula of this fragment of the time is how much it is looking?  k n is looking.  Now first we will write int i, int k is equal to zero."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 225.76,
+            "end": 239.76,
+            "text": " I am just assuming that there will be some code.  And no one will have to take the code of n from it.  So what I will do here, I will write k1.  Suppose it is k1 time.  So I will take k2 and k1."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 239.76,
+            "end": 256.76,
+            "text": " Suppose it is k1 plus k2 and k2 and k2 and k1.  This time is looking at the whole circle of my code.  Now see what will happen here.  k1 plus k2 and k2 are looking at this whole circle of my code.  I have said drop the non-dominant term."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 256.76,
+            "end": 279.76,
+            "text": " When I talk about the complexity of time, I believe that the n is very big.  Because I take a sufficiently high value of n.  I told you in definition that the n is equal to n.  It is sufficiently high for a very large value.  We do the time complexity analysis when n value is very high."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 279.76,
+            "end": 301.76,
+            "text": " When n value is very high, then k1 and k2 n will be a very big number.  So we will not compare both of them and drop it.  We will say that k1 and k2 n will not be able to stand up and k2 n will be time.  I have only put k2 n till now.  Then there is another rule."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 301.76,
+            "end": 315.76,
+            "text": " To describe the bigode precisely drop the constant.  Drop the constant term.  Drop the constant term.  Now what will happen here?  I will drop the constant term."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 315.76,
+            "end": 327.76,
+            "text": " This will happen.  So one time the fall loop is going here.  And the n times is going here.  If the n value is going for it, then the bigode of n.  Because as I will increase the n, this will be the same thing."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 327.76,
+            "end": 338.76,
+            "text": " If n is 3, then this loop will be 3 times.  So k2 multiply by 3.  If n is going for it, then k2 multiply by n.  And here I have put the bigode of n.  It is put the bigode of n."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 338.76,
+            "end": 355.76,
+            "text": " Drop the constant term.  The third technique that I want to tell you is that break the code into fragments.  Break the code into fragments.  I will give an example of this.  Fragments."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 355.76,
+            "end": 366.76,
+            "text": " And why we break the fragments?  Look.  The 1st loop is going here.  And the 1st loop is going here.  For i is equal to 0, n will go to n."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 366.76,
+            "end": 378.76,
+            "text": " I will give it a drop.  I will give it a drop.  The 1st loop is not going to end here.  And in this code, there is another loop.  Which is something like this."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 378.76,
+            "end": 385.76,
+            "text": " The 1st j is equal to 0.  j is less than n.  j plus plus.  Many people do wrong things.  What do they do?"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 385.76,
+            "end": 394.76,
+            "text": " They know that k is equal to i plus 1.  And k minus minus 1 is not going to end here.  Many people will do wrong things.  They will do n.  They will see n."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 394.76,
+            "end": 400.76,
+            "text": " And they will say n is square.  Because n is not square.  And why not?  How will we find out?  What is this?"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 400.76,
+            "end": 408.76,
+            "text": " Let me tell you.  The work that is done above this is the code file.  I will take out the whole algorithm.  I will break the code file.  First of all, I will break the fragments."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 408.76,
+            "end": 419.76,
+            "text": " The first fragment is initialization.  I will take constant time.  Because n is not going to end here.  If I want to increase the time, it will increase.  The entire entire is going to end here."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 419.76,
+            "end": 426.76,
+            "text": " I will take 10 kg.  I will take 10 kg.  I will take 10 kg.  I will take 1000 kg.  I will take constant time."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 426.76,
+            "end": 434.76,
+            "text": " I have only given k.  I will take this time in running.  It will be constant.  It will be constant.  Okay."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 434.76,
+            "end": 445.76,
+            "text": " After that, I will take the constant time.  I will take k2.  I will take it in the form of a loop.  It will be k2.  And this is the work that is going to end here."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 445.76,
+            "end": 460.76,
+            "text": " I will take k3.  Okay.  Now see what happens.  If I want to take out the time here.  I will write k1 plus k2n plus k3n."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 460.76,
+            "end": 474.76,
+            "text": " Because this is also n time.  Now I will take the non-dominant term from this rule.  Now take n and take k2 plus k3.  This is the constant.  I will take k4 and do this in k4."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 474.76,
+            "end": 486.76,
+            "text": " And this will be my big of n.  Because I have put this rule.  And drop the constant term.  Drop the constant term.  Finish the constant term."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 486.76,
+            "end": 494.76,
+            "text": " Okay.  And drop the constant term.  So I have dropped the constant term.  So see what happens here.  k1 plus k2n plus k3n."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 494.76,
+            "end": 505.76,
+            "text": " I have taken k1 first.  I have taken n and taken k2 plus k3.  And then big of n.  So if there is a different loop.  Then it will take big of n."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 505.76,
+            "end": 513.76,
+            "text": " If you add k4.  And if you add k2.  And if you see it, it will take big of n.  Okay.  n squared."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 513.76,
+            "end": 521.76,
+            "text": " Okay.  Remember to keep this rule.  Now I will take an example.  So I am taking another example.  And then we will solve the question."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 521.76,
+            "end": 533.76,
+            "text": " We will not solve the question.  But here I will take an example.  I am going to explain to you what problems are made from approach.  Okay.  So this is my for loop."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 533.76,
+            "end": 544.76,
+            "text": " I will make it in the top.  So I will make it a little space.  And we will write the code that we wrote.  I will write it in the top.  And I will write one more for the bottom."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 544.76,
+            "end": 553.76,
+            "text": " This is the for loop.  I is equal to 0.  I is less than n.  I plus plus.  And I will write this for loop."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 553.76,
+            "end": 562.76,
+            "text": " I will write it in the top.  Okay.  And what is the same here?  I am writing this for the bottom.  This will come out."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 562.76,
+            "end": 569.76,
+            "text": " This will be the one.  This will be the one.  Okay.  So this is the thing in the top.  This is double nested for loop."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 569.76,
+            "end": 575.76,
+            "text": " For loop, in the top.  Okay.  I need to make an indent.  I need to start from here.  But you can understand."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 575.76,
+            "end": 585.76,
+            "text": " If you want to make space here, how will it come out?  I will start from here.  For.  So this is the loop inside.  Now tell me how will it come out."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 585.76,
+            "end": 592.76,
+            "text": " Now if you want to see it,  then you will say,  this is not the last one.  I will not tell you why not.  See."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 592.76,
+            "end": 601.76,
+            "text": " I have to make a TN.  Okay.  I told you.  There will be some code that will come out.  Now I have understood it."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 601.76,
+            "end": 608.76,
+            "text": " I will do the questions.  And you will also understand.  This is the non-dominant.  If it is constant,  then we will give it a hand."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 608.76,
+            "end": 619.76,
+            "text": " So I will write it in the end.  I will not ignore the question.  I will not tell you the answer.  Now you understand.  There is constant drop."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 619.76,
+            "end": 625.76,
+            "text": " It is not taking time.  And why not?  We have seen.  Then we have to get the non-dominant.  So K1."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 625.76,
+            "end": 635.76,
+            "text": " Now after that, this is K2.  But how many times will K2 come out?  Okay.  So how will I know?  So how many times will K2 come out?"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 635.76,
+            "end": 644.76,
+            "text": " But how many times will K2 come out?  See, we have to see.  And how much will K2 come out?  So, one time it will be the same value.  Okay."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 644.76,
+            "end": 652.76,
+            "text": " What will be the same value?  0.  And after that, it will be the same value.  So, one time it will be i is equal to 0.  j is equal to 0."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 652.76,
+            "end": 661.76,
+            "text": " Okay.  Then i is equal to 0.  Because the first loop will be the same as i is equal to 0.  Then j is equal to 1.  Then 0."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 661.76,
+            "end": 669.76,
+            "text": " 2.  Then it will be n.  Okay.  So, for one value, it is n bar.  Look carefully."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 669.76,
+            "end": 676.76,
+            "text": " Look carefully.  I will ask you one value.  I will ask you one question.  I will tell you.  After i is equal to 0."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 676.76,
+            "end": 685.76,
+            "text": " And after that, what is going on?  n bar.  Then i will be equal to 1.  Then it will be n bar.  Then what will be the value of i?"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 685.76,
+            "end": 693.76,
+            "text": " 1 will be n bar.  So what will happen here?  n bar is equal to 1.  Okay.  For i is equal to 1, n bar is equal to 1."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 693.76,
+            "end": 705.76,
+            "text": " And after that,  this n bar is equal to 0.  For i is equal to 1, for i is equal to 0.  Similarly, for i is equal to n, n bar is equal to 1.  Okay."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 705.76,
+            "end": 715.76,
+            "text": " And when n bar is connected, what will happen?  When n is connected to n bar,  1 plus 1 plus 1, n is equal to n.  Okay.  This n minus 1 will happen."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 715.76,
+            "end": 722.76,
+            "text": " Because I am giving index to 0.  So, this n minus 1 will happen.  And here n minus 1.  So, 0 to n minus 1 will happen.  Okay."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 722.76,
+            "end": 731.76,
+            "text": " So, if you will do n times,  or i is equal to 0.  So, how many n will be in this number?  n will be n.  So, this n will be n."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 731.76,
+            "end": 742.76,
+            "text": " So, this n square bar will come.  What is the clear of this?  I don't want to say directly that this n square bar will come.  You know, this n square bar will come.  Because, look, i will be equal to 0 for n bar."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 742.76,
+            "end": 752.76,
+            "text": " Then i will be equal to 1 for n bar.  Then i will be equal to 2 for n bar.  Then i will be equal to n for n bar.  So, when i was equal to n bar,  i was equal to n bar."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 752.76,
+            "end": 761.76,
+            "text": " So, if i was equal to n bar,  then this n square will come.  So, this n square will come.  This n square will come.  Okay."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 761.76,
+            "end": 771.76,
+            "text": " So, how is this n square?  This is the clear of this course.  This is very pure and simple.  But, I have told you.  If you don't clear this,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 771.76,
+            "end": 782.76,
+            "text": " then why will this n square bar come?  So, i will be equal to 3 and then i will be equal to 3.  And print it here.  And make a count variable.  And make a count."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 782.76,
+            "end": 789.76,
+            "text": " How many times you want to write this?  Write in C program.  Write in Python.  Write in Java.  But, when there is a loop,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 789.76,
+            "end": 796.76,
+            "text": " If there is a loop,  then it will come in n square bar.  And if there is a loop,  then i will be equal to n cube bar.  And if there is a loop,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 796.76,
+            "end": 804.76,
+            "text": " then it will come in n to the power 4 bar.  Okay.  You should have clarity.  Because, you should have seen many times  Patents, then you will not be able to do this."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 804.76,
+            "end": 811.76,
+            "text": " I have told you to explain.  Because, you should be clear.  What we are doing.  Okay.  So, now, see this term."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 811.76,
+            "end": 820.76,
+            "text": " You should not have such a time that you are saying,  this is non-dominant,  this is constant, this is big of n square.  Now, let's see.  Tell us,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 820.76,
+            "end": 828.76,
+            "text": " you are ignoring your eyes.  And, see the big term.  The highest degree term is called big of n square.  Okay.  So, these are the techniques."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 828.76,
+            "end": 838.76,
+            "text": " Which we will use.  Not more techniques.  These are two or three techniques.  The bigo definition of bigo was very big.  That was just for clarity."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 838.76,
+            "end": 846.76,
+            "text": " Or, we need to work with this much work.  Okay. We need to work with this much work.  There are some other cases.  What we need to do is,  we need to get a recursive call."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 846.76,
+            "end": 855.76,
+            "text": " We need to get a recursive call.  So, there is a little effort.  But,  but what happens?  The answer of bigo,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 855.76,
+            "end": 864.76,
+            "text": " when you are in A,  we approach different.  I will solve some problems.  Here,  these are the tricks,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 864.76,
+            "end": 871.76,
+            "text": " which I will tell you,  if this is a double-fold loop,  then n square is given.  And,  don't ever solve your problem."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 871.76,
+            "end": 879.76,
+            "text": " Because, you can get a recursive call.  You can get a recursive call.  You have to get a little complicated.  So,  we will do the same thing,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 879.76,
+            "end": 884.76,
+            "text": " but we will do the same thing,  and we will increase the level.  We will do the same thing,  and we will go up.  So, let's solve the questions."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 884.76,
+            "end": 891.76,
+            "text": " We are very important.  Alright, guys,  we have been in time.  We have solved some problems.  And, I have created a very bad problem,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 891.76,
+            "end": 900.76,
+            "text": " and we have created a bad problem.  If you have not done this play list yet,  which play list is data structures and algorithms play list.  So, do do it.  We will do this,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 900.76,
+            "end": 906.76,
+            "text": " because, all the videos here are going to be uploaded.  I will put all the videos here.  And,  now, I am going to tell you,  that,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 906.76,
+            "end": 914.76,
+            "text": " I will solve some problems for you.  I will solve the short list for you.  And,  I am using one note.  I will ask you,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 914.76,
+            "end": 919.76,
+            "text": " which software you use.  And,  I will give you a lot of advice.  I will give you a part.  So, you can see it."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 919.76,
+            "end": 924.76,
+            "text": " In some videos,  they ask you,  which software you use.  I am not giving you a good one.  I hope,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 924.76,
+            "end": 931.76,
+            "text": " I will explain you,  in one note.  So,  what I have created a notebook,  in one note,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 931.76,
+            "end": 937.76,
+            "text": " and the document,  which I will convert you to  as a PDF.  And,  I have made some questions,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 937.76,
+            "end": 943.76,
+            "text": " which I will give you.  And,  I have made their programs,  and if you have given them,  then,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 943.76,
+            "end": 951.76,
+            "text": " I have opened this folder,  in Visual Studio Code.  So, you will find out,  I have also made some programs.  And,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 951.76,
+            "end": 959.76,
+            "text": " I have made a time complexity folder,  which I have made,  which I have made in one note.  Okay.  I have given you this question,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 959.76,
+            "end": 964.76,
+            "text": " clearly.  So,  it is not a problem.  So, I will come back,  here,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 964.76,
+            "end": 969.76,
+            "text": " in one note,  in one note,  and, first,  I will tackle the question.  The questions,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 969.76,
+            "end": 974.76,
+            "text": " I have made in their programs,  so,  I will write them,  and,  the first question,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 974.76,
+            "end": 979.76,
+            "text": " is the program,  you see,  what is the question,  first,  let's see."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 979.76,
+            "end": 989.76,
+            "text": " So, the question is,  find the time complexity of the function,  function in the program,  shown in,  program 1.c as follows."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 989.76,
+            "end": 994.76,
+            "text": " Okay.  So,  it is a program 1.c,  and,  what is this file?"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 994.76,
+            "end": 1000.76,
+            "text": " It is a function,  and it is a c program,  obviously,  because,  I am also doing it in c,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1000.76,
+            "end": 1005.76,
+            "text": " but,  if you analyze some other programming language,  then,  the steps will be the same,  so, if you come to"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1005.76,
+            "end": 1010.76,
+            "text": " any other programming language,  then,  it is not going to change.  Because,  the data structure,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1010.76,
+            "end": 1016.76,
+            "text": " algorithm,  is a study,  which is in programming language,  will not depend on that much,  because,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1016.76,
+            "end": 1022.76,
+            "text": " the study house,  you will have implementation,  you will have a little bit of programming language,  but,  you can totally follow,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1022.76,
+            "end": 1029.76,
+            "text": " and you are using other programming languages.  Okay.  So, I will write a pen,  and,  what will I do here?"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1029.76,
+            "end": 1039.76,
+            "text": " I will solve this problem,  if you find the time complexity of the  function in the program,  show in program 1.c as follows.  Okay."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1039.76,
+            "end": 1045.76,
+            "text": " So, here,  what is the function of a function,  this is an array,  and this is the function of a function.  And,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1045.76,
+            "end": 1050.76,
+            "text": " what is this array doing?  This array,  is passing,  is the function of a function,  and,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1050.76,
+            "end": 1055.76,
+            "text": " what is the function of a function,  with this array?  So, here,  int sum is equal to zero,  is,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1055.76,
+            "end": 1061.76,
+            "text": " product is equal to 1,  so, basically,  it is calculating the product,  if you see,  there is a length pass,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1061.76,
+            "end": 1066.76,
+            "text": " which is 3,  and this is 0,  from 0 to 2,  and minus 1,  this loop,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1066.76,
+            "end": 1072.76,
+            "text": " so,  as you have told,  now,  when you analyze,  first,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1072.76,
+            "end": 1077.76,
+            "text": " you will have to  open it in fragments,  so, what I will do first,  I will open it in this first fragment,  and,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1077.76,
+            "end": 1082.76,
+            "text": " I will name it F1.  Okay.  So,  I have given the name F1,  I will name it F2,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1082.76,
+            "end": 1087.76,
+            "text": " and,  I will name it F3,  and,  I will name it F3,  okay."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1087.76,
+            "end": 1092.76,
+            "text": " So, now,  we have 3 fragments,  F1, F2,  and F3.  So, I will name it F1,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1092.76,
+            "end": 1097.76,
+            "text": " plus F2,  plus F3,  the time of F3,  it is the whole function of the function,  overall,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1097.76,
+            "end": 1102.76,
+            "text": " I will name it F1,  what will be the time of F1,  it will be a constant,  because,  you are doing 0,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1102.76,
+            "end": 1107.76,
+            "text": " product is equal to 1,  every time,  it is not depending on the array length,  so, I will name it K1,  okay."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1107.76,
+            "end": 1112.76,
+            "text": " So, I have named it K1,  what will I name it F2?  I can name it K,  I can name it K2,  it is K2,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1112.76,
+            "end": 1117.76,
+            "text": " it is multiplied,  because,  it will be n bar,  so, N bar,  look, here."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1117.76,
+            "end": 1122.76,
+            "text": " So, you can write here,  but,  because,  I have written here,  I am not writing here,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1122.76,
+            "end": 1128.76,
+            "text": " because, I have written here,  because, I am writing here,  basically, the length,  the variable input of this function,  F2,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1128.76,
+            "end": 1133.76,
+            "text": " is K2,  and F3 is equal to K3,  N is equal to K3.  Okay, so,  I have already told you,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1133.76,
+            "end": 1139.76,
+            "text": " now,  I have used this,  so,  I am free to use it,  I have used it here,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1139.76,
+            "end": 1144.76,
+            "text": " and,  I can use it again,  I can use it again,  so,  don't be confused,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1144.76,
+            "end": 1155.76,
+            "text": " if I take the total time complexity,  that is, if I take the TN,  then what will happen?  TN will be my,  F1 plus F2 plus F3,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1155.76,
+            "end": 1160.76,
+            "text": " okay,  this will happen,  and,  F1 plus F2 plus F3,  what will happen?"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1160.76,
+            "end": 1168.76,
+            "text": " My K1 plus K2 N plus K3 N.  And,  what will I do here?  Because,  I have already told you,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1168.76,
+            "end": 1173.76,
+            "text": " that,  you can drop the non-dominant term,  that is why,  I will drop it,  and,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1173.76,
+            "end": 1178.76,
+            "text": " I will come and go,  and, I will write here,  because,  I will not write here,  because,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1178.76,
+            "end": 1184.76,
+            "text": " I will drop it,  and,  I will write,  K2 plus K3 N,  and,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1184.76,
+            "end": 1189.76,
+            "text": " what can I write,  K2 plus K3,  I can write,  a second constant,  and,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1189.76,
+            "end": 1194.76,
+            "text": " I can write,  K4 N.  So,  this algorithm,  I will go,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1194.76,
+            "end": 1199.76,
+            "text": " in the end,  where,  N is length.  So,  because,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1199.76,
+            "end": 1204.76,
+            "text": " I will give it,  in question,  I will report,  in answer,  I will say,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1204.76,
+            "end": 1209.76,
+            "text": " I will say,  this algorithm,  I am talking about,  it is talking about,  you see,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1209.76,
+            "end": 1214.76,
+            "text": " it is talking about,  this is the variable,  it is function of Function,  ok?  So, I hope,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1214.76,
+            "end": 1219.76,
+            "text": " you understood,  so,  it is the answer,  it is the answer,  the next question is,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1219.76,
+            "end": 1224.76,
+            "text": " and,  I have given you,  the program 1.C,  you can also see,  you can see,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1224.76,
+            "end": 1231.76,
+            "text": " in different inputs,  you can see,  or, if you want to implement,  in some other programming language,  feel free to do that,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1231.76,
+            "end": 1236.76,
+            "text": " as well,  you can do that too, ok?  So,  here,  the other,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1236.76,
+            "end": 1241.76,
+            "text": " the question,  is,  find,  I have written,  let us correct,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1241.76,
+            "end": 1246.76,
+            "text": " I have written,  I have written,  I have to find,  this is,  find,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1246.76,
+            "end": 1251.76,
+            "text": " there is a thing,  it becomes small,  find the time complexity,  of the Function  in the program,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1251.76,
+            "end": 1257.76,
+            "text": " from program 2.C as follows.  So,  I have seen this program,  I have also made  the program 2.C,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1257.76,
+            "end": 1262.76,
+            "text": " and,  you see,  you can also see,  2.C,  open it,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1262.76,
+            "end": 1267.76,
+            "text": " or,  you can see,  2.C,  if you want to see,  you can,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1267.76,
+            "end": 1272.76,
+            "text": " I have written,  so, there is no problem,  you should not need,  there is this program,  in the 1 note,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1272.76,
+            "end": 1277.76,
+            "text": " I have,  I have shared this,  in the description,  you can take it,  here,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1277.76,
+            "end": 1282.76,
+            "text": " see,  what is written,  what is happening,  first,  I will write,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1282.76,
+            "end": 1288.76,
+            "text": " I will not write,  because,  let us write,  I have written,  I have written,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1288.76,
+            "end": 1293.76,
+            "text": " I have to write,  but, I have also written,  now, look,  there is a fork in it,  when there is a fork in it,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1293.76,
+            "end": 1298.76,
+            "text": " and,  how many times,  this n,  0 to n,  that is,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1298.76,
+            "end": 1303.76,
+            "text": " it will run from,  0 to n,  and,  this will run from,  0 to n,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1303.76,
+            "end": 1309.76,
+            "text": " and,  if this is 0 to n,  this is also 0 to n,  that is,  it will run from,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1309.76,
+            "end": 1314.76,
+            "text": " n,  so,  n will run from,  then,  it will run from,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1314.76,
+            "end": 1319.76,
+            "text": " from,  n,  then,  it will run from,  2 to n,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1319.76,
+            "end": 1324.76,
+            "text": " and,  how long it will run,  and,  n minus 1,  how many times,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1324.76,
+            "end": 1329.76,
+            "text": " n minus 1,  it will run from,  n,  then,  n minus 1,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1329.76,
+            "end": 1334.76,
+            "text": " n to n,  so,  let us write,  and,  if,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1334.76,
+            "end": 1339.76,
+            "text": " if,  if,  if,  if,  if,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1339.76,
+            "end": 1344.76,
+            "text": " if,  if,  if,  if,  if,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1344.76,
+            "end": 1349.76,
+            "text": " if,  if,  can take,  k2,  so,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1349.76,
+            "end": 1355.76,
+            "text": " y,  if,  if,  can take,  i,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1355.76,
+            "end": 1360.76,
+            "text": " if,  if,  i,  if,  i,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1360.76,
+            "end": 1365.76,
+            "text": " if,  if,  i,  if,  i,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1365.76,
+            "end": 1373.76,
+            "text": " if,  if,  i,  if,  if,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1373.76,
+            "end": 1379.76,
+            "text": " if,  i  So what will happen?  Obviously, it will be my n.  What will happen?"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1379.76,
+            "end": 1389.76,
+            "text": " It will be my n.  So this will be k2n square.  So I will write k2n square.  So this is the big of n square.  So you can see the double for loop."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1389.76,
+            "end": 1401.76,
+            "text": " And it is going to go to 0 to n 0 to n.  And it is in constant.  So that means it is big of n square.  So we have seen the problem number 1.  We understood that big of n was a very simple problem."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1401.76,
+            "end": 1412.76,
+            "text": " But 2 b.  But it is a very basic problem.  So we are going to see a problem here.  Which may be a little challenge for you.  And I am telling you this is a little challenging problem."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1412.76,
+            "end": 1419.76,
+            "text": " Okay, I am telling you this first time.  I am doing this announcement.  So you guys don't think that you are not doing this.  We are not doing this.  We are not doing this."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1419.76,
+            "end": 1431.76,
+            "text": " I have not given you a confidence to down.  I have done this for you.  You guys will encourage us.  We can solve every problem here.  And this is a concept."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1431.76,
+            "end": 1437.76,
+            "text": " You can apply it everywhere.  Consider the risk.  Because of all the problems.  Okay.  You should write below."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1437.76,
+            "end": 1451.76,
+            "text": " But that is fine.  I will correct it.  I will write below.  Where the random int n spends 1 unit of time to return a random integer.  So here the random function is used for 1 unit of time."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1451.76,
+            "end": 1464.76,
+            "text": " Which is evenly distributed within the range 0 to n.  I have written 2 times 0 to n.  I have typed it very quickly.  I have to correct it all.  If the average processing time is tn, what is the value of t6?"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1464.76,
+            "end": 1473.76,
+            "text": " So basically you have to take the expression of tn.  How much time is taking?  Our function?  How much time will it take?  Now if you take this out, tn will also be taken out."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1473.76,
+            "end": 1486.76,
+            "text": " So what is the question here?  The question is that you take t6.  So if I solve directly t6 for t6, then it might be my work here.  Okay.  But what will people do?"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1486.76,
+            "end": 1497.76,
+            "text": " They will try to derive the tn expression.  Which is possible.  I am not saying that it is impossible.  But my number is 6 is a small number.  And you solve the directly problem."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1497.76,
+            "end": 1514.76,
+            "text": " If you solve it directly t6, then it will be fine.  So what will I do?  I will try to solve the directly problem for t6.  And if this simple problem is also n in tn expression, then let's see what is happening in this function.  First of all, I will tell this to K1 that this is something constant."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1514.76,
+            "end": 1528.76,
+            "text": " And if n is equal to n, then this return is equal to n.  And if n is equal to n is equal to n, then it is equal to n.  But what is happening here?  This is recursively a random function called.  Which is one unit of time."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1528.76,
+            "end": 1540.76,
+            "text": " So what I will do?  I will write this one.  Okay.  I will say that this is one unit of time.  And in the rest of this, if this is one unit of time, then we can assume that this is not the time."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1540.76,
+            "end": 1559.76,
+            "text": " So I will do this.  And why did I do K1?  I have written that this is one unit of time of random.  And it would have been fair if I write here that the random calls are not taken that time.  If I write this, then this question is fair."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1559.76,
+            "end": 1579.76,
+            "text": " I will add it.  The other calls are not taken that time.  So you see how many times you will call random.  So if you are taking random one unit of time, then you have to tell us that what is the value of t6 at average processing time t.  So basically I have to tell you that the random calls are equal to t6."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1579.76,
+            "end": 1588.76,
+            "text": " So see what I am doing here.  What I am doing here?  I will also tell you what I am doing here.  I should write here what I am doing here.  So I will complete this question."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1588.76,
+            "end": 1601.76,
+            "text": " But I will tell you that what is the question?  I will also complete it.  What will I do here?  If you write random one unit of time of t6, then what will I do?  I will show you 0 to 6 range."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1601.76,
+            "end": 1615.76,
+            "text": " So see here I have written written here.  Return random teacher which is evenly distributed within the range 0 to 1.  So between 0 to 6, you will return no.  And that is the random one.  So between 0 to 6, you will also get a return and then you will get it."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1615.76,
+            "end": 1626.76,
+            "text": " So I will do this here.  I will change the color here.  And I will change the color.  I will do red color.  If I will do red color, then I will do purple."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1626.76,
+            "end": 1637.76,
+            "text": " So you will get a question 1 or question 2 in difference.  These are the other questions.  Now see what I have done here.  This function is written here.  So I have to remove this t6."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1637.76,
+            "end": 1652.76,
+            "text": " So if I write here t6, I will do it with recursion.  And t6 recursively is calling itself.  For tI and tN minus 1 minus I.  So if t6 will call, then I will write here.  So t6 will call here."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1652.76,
+            "end": 1662.76,
+            "text": " So it will be 0 time here.  So one time I will call random.  Because 6 is equal to 0.  So it will go in the else.  If it will not go in the other."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1662.76,
+            "end": 1676.76,
+            "text": " So this function will be known as t6.  And one unit of work is also doing this.  So I will leave it here.  So I will write 1 here.  Now what is it doing?"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1676.76,
+            "end": 1689.76,
+            "text": " So I will call the function with the operator work.  And what is it doing?  TI and N minus 1 minus I.  But here you have seen one thing.  It is random."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1689.76,
+            "end": 1701.76,
+            "text": " Look here, it is random.  Which can be something between 0 to N minus 1.  In this case, it can be something between 0 to 5.  So what is the value of this?  Because here it has given that it is random."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1701.76,
+            "end": 1710.76,
+            "text": " So I can take something.  This means that it will be something.  It will be the same answer.  I have assumed this.  Because it is not a question."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1710.76,
+            "end": 1727.76,
+            "text": " Now I will tell you why it will be the same answer.  But let us assume that I will take the value of i here.  The number of calls will be the same.  So what we will do here?  I have given the value of i."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1727.76,
+            "end": 1739.76,
+            "text": " I have given the value of i.  So I will give the value of i.  So this function will be t0.  And if you see here, t0 does not work.  Because it will be written here."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1739.76,
+            "end": 1749.76,
+            "text": " It will not be in random.  N is equal to 0.  This will be called 0.  So I will write 0 here.  Because t0 is not going to be the same."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1749.76,
+            "end": 1757.76,
+            "text": " And also, call t5.  Okay?  After that, I will take this.  t0 and t4.  Okay?"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1757.76,
+            "end": 1769.76,
+            "text": " t0 and t4.  Then I will take t0 and t3.  Then I will take t0 and t2.  Okay?  Then I will take t0 and t2."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1769.76,
+            "end": 1784.76,
+            "text": " Similarly, I will take t0 and t1.  And I will take t0 and t0.  Which means that this is not something.  So the calls that are calling t0 and t0 are coming.  They are taking the unit of time."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1784.76,
+            "end": 1794.76,
+            "text": " But this is my 1 unit of time.  This is my 1 unit of time.  And how many times?  How many times?  1,2,3,4,5,6."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1794.76,
+            "end": 1806.76,
+            "text": " This means, 6 times will be called here.  So this will be the answer.  Okay?  Now, you have to assume that the value of i is always 0.  But the value of i is 0 to 5."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1806.76,
+            "end": 1815.76,
+            "text": " It can be randomly given in random.  So what will be the difference?  Look, what is happening here?  What is it doing?  It is going from child process."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1815.76,
+            "end": 1825.76,
+            "text": " It is going from child process.  It is almost finished with t2.  Because the child process is giving it.  It is calling the function.  It is doing small things."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1825.76,
+            "end": 1838.76,
+            "text": " It is doing t6, t6, t5, t0.  If I had done t1 and t4,  Then what will happen?  Till then t2 will be t2 till t0.  If all the leaf nodes are t0 till then it will be t0."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1838.76,
+            "end": 1850.76,
+            "text": " And in that case, you will get 2-3-4-5-6 calls.  Okay?  Now, the function of t2 is written.  I have made a program.  It is program 3.C."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1850.76,
+            "end": 1860.76,
+            "text": " In fact, it is program 4.C.  It is program 2.C.  It is program 4.C.  So my random has been implemented.  And what I have done here is that"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1860.76,
+            "end": 1872.76,
+            "text": " I have written this.  This means that whenever random calls are written,  The print fp will be run.  So, the print that is running is called.  So, if I run it and show it to you."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1872.76,
+            "end": 1889.76,
+            "text": " Then you will see that my print will be run 6 times.  So, 1 is 3-4-5.  If I run it again, then 1 is 3-4-5.  Okay? Now, the random value that is given by me is 0 to n.  So, you need to verify it."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1889.76,
+            "end": 1899.76,
+            "text": " But, if you have asked this question,  You can take some random value.  And if you have an interview and you know,  Then I will write you a random value.  Then you will not depend on the case."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1899.76,
+            "end": 1911.76,
+            "text": " If you are not sure, then you can say your interview.  I am not sure whether it will be the same or not.  But, because you said that I can take some random value.  So, I have taken some random value.  Interviews, whenever you give a coding interview,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1911.76,
+            "end": 1925.76,
+            "text": " Then you always need to be correct.  You are an honest person.  You will do something with others.  Because if you have a question, then you will not know what it is.  But, if you are approaching it somehow,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1925.76,
+            "end": 1937.76,
+            "text": " Like you are approaching it somehow,  Like you are making a tree of the recursion.  So, we will know that you know,  You know, the whole concept is clear.  You know, how many times you are calling it random."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1937.76,
+            "end": 1950.76,
+            "text": " Because you have given the function one unit of time.  You understand all this.  So, we will talk about this later.  So, this question was a little tricky.  And I had to take this question."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1950.76,
+            "end": 1960.76,
+            "text": " And if you have not understood it,  Then I will look back.  But, basically, what I have done here,  I have just broken it down.  If you have done it for 6 days, then I have broken it down."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1960.76,
+            "end": 1975.76,
+            "text": " You can prove it to you and prove it to you.  You can prove that you have some random value.  Which you will not depend on the value of the i.  Till it is 0 to n minus 1.  Till it is 0 to n minus 1."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1975.76,
+            "end": 1987.76,
+            "text": " So, until it is 0 to n minus 1.  Till it is 0 to n minus 1.  The number of calls will be 6.  And I have shown you practically,  The number of random numbers that I have generated,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1987.76,
+            "end": 1995.76,
+            "text": " I have done it for 6 days and it will be 6 days.  You can check it in the loop.  You can check it in 6 days.  Okay.  So, let us return to the 1."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 1995.76,
+            "end": 2004.76,
+            "text": " And here, look at the fourth problem.  What is the fourth problem?  It is very simple.  Which of the following are equivalent to  B go of n and y?"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2004.76,
+            "end": 2012.76,
+            "text": " B go of n in which?  Which B go of n and k?  And why?  Let us first look at the first.  So, this is n plus p."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2012.76,
+            "end": 2021.76,
+            "text": " I know that n by 9 is small.  That is, it is non-dominant term.  Okay.  P is non-dominant term.  Here, there is a clean-up written in the question."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2021.76,
+            "end": 2029.76,
+            "text": " I will do the work.  I will change my pen.  I will do this.  See, it is non-dominant term.  You can see it."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2029.76,
+            "end": 2036.76,
+            "text": " It is a little bit of a pen shape.  Yes.  So, it is non-dominant term.  So, I can write it.  I can write it here."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2036.76,
+            "end": 2043.76,
+            "text": " B go of n.  So, it is B go of n.  Okay.  Let us see it.  If n minus k is constant, then I can eliminate it like this."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2043.76,
+            "end": 2054.76,
+            "text": " And it will be B go of n.  Because I will eliminate n.  I will eliminate n because of non-dominant term.  Because of this constant, it is eliminated.  So, this constant is, in front of n,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2054.76,
+            "end": 2064.76,
+            "text": " it will be non-dominant for n value.  And n is a constant.  So, I have removed n.  This is B go of n.  So, this is, let us see it."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2064.76,
+            "end": 2073.76,
+            "text": " This is,  This is also visible because,  this is a non-dominant term.  So, we will not be able to dominate n.  Login goes slowly."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2073.76,
+            "end": 2084.76,
+            "text": " n is more than log n.  If I make a graph, then it will be something like this.  And n will be like this.  Log n will be like this.  So, for a very large value,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2084.76,
+            "end": 2095.76,
+            "text": " this n will always be on log n.  So, this is also B go of n.  Let us see it.  n plus m square.  Now, if m is constant here."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2095.76,
+            "end": 2102.76,
+            "text": " I should write here.  By the way, here,  I should write this as a constant.  I did not write it.  But I should write this as a constant."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2102.76,
+            "end": 2113.76,
+            "text": " Now, I will add this question to the case of constant.  Because, I don't know what is constant here.  This is n and m.  This is B go of n plus m square algorithm.  This is B go of n."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2113.76,
+            "end": 2123.76,
+            "text": " Because if m is input,  then you cannot ignore it.  So, C B go of n is not D B go of n.  So, I will add details in the question.  I will add all the details."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2123.76,
+            "end": 2133.76,
+            "text": " So, I will update the doc.  So, you can see that,  if you have seen the question,  answer the question,  then you have no problem."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2133.76,
+            "end": 2144.76,
+            "text": " Now, let us see the 5th question.  So, we have solved one, two, three, four.  So, this is solved.  Let me apply it on top.  Now, let me see here."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2144.76,
+            "end": 2154.76,
+            "text": " The following simple code  sums the values of all the nodes  in a balanced binary search tree.  Now, let me tell you the binary search tree.  I will not tell you more."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2154.76,
+            "end": 2164.76,
+            "text": " I will tell you a little.  And, the work will be done by you.  I will tell you very well.  Don't worry.  But, I am telling you only the question."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2164.76,
+            "end": 2174.76,
+            "text": " A binary search tree  is like this.  It is a node.  Okay.  It is like this."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2174.76,
+            "end": 2184.76,
+            "text": " I zoom it.  It is like this.  And, there is one node here.  Here is another node.  It is a pointer that is pointing to the other node."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2184.76,
+            "end": 2194.76,
+            "text": " And, these two nodes are pointing to the other node.  Okay.  So, if you study about the balanced binary search tree  then I will tell you.  But, if you do not know, then you will understand that"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2194.76,
+            "end": 2204.76,
+            "text": " there is a structure here.  There are two points.  Which are pointing to the same node.  Okay.  Now, what are we doing now?"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2204.76,
+            "end": 2214.76,
+            "text": " Because, this question was straightforward.  I will not go into the detail.  The question is,  you will see it.  What is this following?"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2214.76,
+            "end": 2224.76,
+            "text": " What was also written?  All the values are being explained.  Some is the value of all the nodes.  This is not the same.  This is the value of all the nodes."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2224.76,
+            "end": 2234.76,
+            "text": " The question is, if you say the same thing,  you will not be contradicted.  Okay.  So, this is the question that is not the value of all the nodes.  And, what is the time of this?"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2234.76,
+            "end": 2246.76,
+            "text": " If I am writing the n in the n,  the n is the number of nodes.  So, what will be the time of this?  You will tell me,  I will comment on the time stamp."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2246.76,
+            "end": 2256.76,
+            "text": " I want you to tell me.  What is this?  First of all, you will understand it.  Okay.  Then what is this doing?"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2256.76,
+            "end": 2266.76,
+            "text": " Explain it to you.  Explain it to you.  If this node is null or not,  then what is this doing?  Return to zero."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2266.76,
+            "end": 2276.76,
+            "text": " And, the value of this node will be understood.  Okay.  But, I want to tell you one thing.  How much is this code working?  This code is working for every node."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2276.76,
+            "end": 2286.76,
+            "text": " Almost.  So, the nodes will be big.  So, I have told you the topic.  This is big of n.  I am telling you."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2286.76,
+            "end": 2298.76,
+            "text": " But, you will understand it.  What is this doing?  This recursive function.  And, the sum is calling it for all nodes.  And, the sum is calling it for all nodes."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2298.76,
+            "end": 2308.76,
+            "text": " And, the sum is calling it for all nodes.  And, the final node that is in the bottom of the node.  I am not doing anything for it.  But, when you will do a tree,  then, the n is the number of nodes."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2308.76,
+            "end": 2322.76,
+            "text": " It depends on the time.  So, I have directly told you.  But, again, we will talk about the balance binary search tree.  And, this is very easy to solve.  So, just remember that,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2322.76,
+            "end": 2334.76,
+            "text": " you will never solve the problem easily.  If you do not know the balance binary search tree,  then, you may be afraid of that.  You will interview me and you will not know.  And, this is a very big red flag."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2334.76,
+            "end": 2344.76,
+            "text": " If you tell me that, I don't know about the balance binary search tree.  So, that is obviously,  that person will prefer it.  Everything is very simple.  But, now, we will go to the next question."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2344.76,
+            "end": 2354.76,
+            "text": " And, we can come back to this question.  And, we can revisit it.  And, we can see it.  Because, this question is,  the balance binary search tree depends on the problem."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2354.76,
+            "end": 2364.76,
+            "text": " But, I have told you this idea,  that, you are working for every node.  This is big off.  Because, when you will grow the tree,  and you will grow the size of the tree,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2364.76,
+            "end": 2374.76,
+            "text": " then, you are working for all nodes.  Now, you can see,  if the node is null,  then, if the node is null,  then, this node is not null."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2374.76,
+            "end": 2384.76,
+            "text": " Now, this is pointing to the null.  Okay? This is pointing to the null.  I have not read the search tree.  I will tell you everything.  But, if the node is pointing to the null,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2384.76,
+            "end": 2394.76,
+            "text": " then, what is it doing?  It is also working for that.  Basically, it is working for the lower node.  If you look at it carefully,  then, it is also doing returns."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2394.76,
+            "end": 2404.76,
+            "text": " So, all these nodes are working for the same node.  So, the nodes are working for the same node.  So, if you write the time,  you can end the Tn.  And, you can end the big off."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2404.76,
+            "end": 2414.76,
+            "text": " I think, this is very clear.  You can also see the end of the tree.  If you do not know the balance of the tree,  then, you can tell you the balance of the tree.  What happens?"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2414.76,
+            "end": 2424.76,
+            "text": " And, from there, you will say,  you are going to come here and solve the problem.  So, I hope the problem is understood by you.  And, if it is a little too late,  then, I am telling you that,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2424.76,
+            "end": 2434.76,
+            "text": " we have to revisit the problem.  After reading the balance of the tree.  Now, see what is it doing here.  It is a little tricky.  It is not that tricky, but it is a little tricky."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2434.76,
+            "end": 2446.76,
+            "text": " What is this code doing?  It is testing whether a given number is prime or not.  So, if you have seen this code before.  Then, you can trust this code here.  Because, it is saying that,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2446.76,
+            "end": 2456.76,
+            "text": " it is testing whether a given number is prime or not.  So, the problem is that,  I am checking,  what is this number?  It is not prime."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2456.76,
+            "end": 2468.76,
+            "text": " So, if I analyze this code here,  then, I will consider it as constant.  This is a constant.  Checking that, it will be in constant time.  I will not write it in K1."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2468.76,
+            "end": 2478.76,
+            "text": " But, I want to analyze it because,  it is coming here.  I want to analyze it.  Now, I want to see how much loop it will be.  I want to see it."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2478.76,
+            "end": 2488.76,
+            "text": " And, I will write K2.  I will write K1.  I will write K1 plus K2.  I will write this loop.  So, the loop is starting from 2 to the start."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2488.76,
+            "end": 2498.76,
+            "text": " And, it is coming here.  Till the time, I will make n square n.  n minus 1.  So, I will make n minus 1.  So, this will be the last,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2498.76,
+            "end": 2508.76,
+            "text": " the execution of this.  Basically, I want to see,  which value of i will go for.  So, i is equal to 2.  i is equal to 3."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2508.76,
+            "end": 2518.76,
+            "text": " And, how long will it be?  What will be the final run?  What will be the final run?  If i value of the value of the root,  then, no number of root tens will be less."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2518.76,
+            "end": 2528.76,
+            "text": " Till the time,  I will make it run until the time.  By the way, the root n will go for.  n value n is not perfect square.  But, I will make it run until the time."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2528.76,
+            "end": 2538.76,
+            "text": " And, this root n will go for.  Our greatest integer.  It will go for.  I will not go for.  You can make it run until the time."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2538.76,
+            "end": 2548.76,
+            "text": " So, i will go for.  So, this root n will go for.  So, this will go approximately.  So, this root n will go for.  So, this root n will go for."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2548.76,
+            "end": 2558.76,
+            "text": " Approximately.  If i value of the value of the root n,  then, i can say that all the constants will go for.  So, if i solve the problem quickly,  then, i will say that this root n will go for."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2558.76,
+            "end": 2568.76,
+            "text": " This will start from 2 to the start.  Till the time, the root n will go for.  This will go for.  This will go for.  So, i can say this root n."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2568.76,
+            "end": 2582.76,
+            "text": " So, you will have to get the approximation.  Because, the constant can be in the plus and minus.  But, the root n is the dominant term.  When the value of the n is very big.  And, in front of the constant, it will not be standing."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2582.76,
+            "end": 2594.76,
+            "text": " So, this will go for.  So, the sixth problem is solved.  Now, the seventh problem is very interesting.  You guys, see here.  I have called this prime."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2594.76,
+            "end": 2604.76,
+            "text": " I should have given a number.  I am giving it to 18.  I will correct it.  I should have given it to this prime.  I am giving it to this prime."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2604.76,
+            "end": 2614.76,
+            "text": " I am giving it to this prime.  I am giving it to this prime.  Okay?  But, if you guys can see it from God,  then you will get to know that this is not for the prime number."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2614.76,
+            "end": 2626.76,
+            "text": " It is for something else.  But, you can ask this question from the interviewer.  Because, you will expect it to go for.  You can say that you have already solved this problem.  You will have to solve this problem."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2626.76,
+            "end": 2636.76,
+            "text": " So, you should go for.  First of all, you should have solved this problem.  You should have solved this problem.  You should have solved this problem.  So, what is here?"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2636.76,
+            "end": 2646.76,
+            "text": " It is not able to depend on the entire end.  It is not able to depend on the end.  So, this means,  it is a constant.  I can ask K1."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2646.76,
+            "end": 2656.76,
+            "text": " It is a constant.  I can ask K1 for the time of this.  I can write Tn.  I can write K1.  I can write K1 for the time of this."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2656.76,
+            "end": 2668.76,
+            "text": " I am doing it in a constant.  Again, 7 questions.  We have done Bgook.  I hope you will help us a lot.  I want you to take some questions from somewhere."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2668.76,
+            "end": 2680.76,
+            "text": " Search the internet.  If you are following this text book,  you can pick them up from there.  Today, there are no less questions.  I hope you will help us a lot."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2680.76,
+            "end": 2692.76,
+            "text": " I will make more videos of problems.  But,  I have to take this concept further.  The data structure in the internet is very important.  Because, Bgook has solved many problems."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2692.76,
+            "end": 2706.76,
+            "text": " I want to solve many problems.  But, I have told you that you can solve Bgook.  And, to solve Bgook,  you were talking about the binary search tree.  Stacked,"
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2706.76,
+            "end": 2718.76,
+            "text": " all these things will be done.  It can be used.  All these things can be mixed.  Like, we will talk about Bgook.  This is not the end of this topic."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2718.76,
+            "end": 2728.76,
+            "text": " Time complexity is not the end of this topic.  We will talk about it later.  But, I think for now,  this is enough of practice.  You want to do more."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2728.76,
+            "end": 2738.76,
+            "text": " I have a lot of questions.  We will talk about practice.  I hope you like this video.  I want to share with you some of the questions.  Please share them."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2738.76,
+            "end": 2748.76,
+            "text": " I am doing a lot of work.  I will also share the notes of this chapter.  You will get the notes in the description.  I will give you the sheet.  I will give you the sheet."
+        },
+        {
+            "number": "05",
+            "title": "How to Calculate Time Complexity of an Algorithm + Solved Questions (With Notes)",
+            "start": 2748.76,
+            "end": 2774.76,
+            "text": " I just hope you all are liking this video.  And, you all are enjoying this video.  Thank you so much for watching this video.  And, I will see you next time.  Bye."
+        }
+    ],
+    "text": " Before solving some of the problems, I will tell you the tricks of making time complexity And after that, we will solve some of the problems Which you will make a very good catch on the time complexity So, here I will talk about some algorithm's time complexity When you are not able to solve them So, what happens first? And we will approach this problem with this problem So, first of all, I want to talk about some of the tricks And we will talk about them quickly because we already talked about the basics If you have not done the playlists, then you will have to do the data structures and algorithms So, what I will do here is that I will write tricks And I will write the first technique, I will not do the time best The first technique is to make time complexity That is to drop non-dominant terms So, drop the non-dominant terms So, drop the non-dominant terms What does this mean? I mean, you have given a formula It is a formula I am writing a simple formula I is equal to 0, I less than n, I plus plus This is the formula that you are going to n bar This is written in the language And I have written this in the entire language I is equal to 0, I less than n, I plus plus Now this formula is working So, first of all, what do you want to do? That you drop a problem on the fragments And if you get time in a fragment, I mean, here is the hint Not the hint, but the case in the formula is the case I mean, there is a case on it And I am trying not to make a sample program here And I am trying not to make a sample program here It is an example here So, this is it I am trying not to make a sample program here It is an example here This is the case on it Now, what is the case? What is the case? What is the case? This is the case on it I assume that the case is working It won't be the case every time Because it won't be working Now the value of i is increasing but we assume that we have taken k times in this portion. This is the statement in this statement. How many times are these statements? This is n times. So what will happen in this time? I will take this time of algorithm. This will be k multiplied by n. So this will be k multiplied by n. Now this will be k multiplied by n. But k multiplied by n will be very low. Now exactly this will not be k multiplied by n. Because when this value of i will increase then it will increase in time. So we ignore that thing. We assume that all the steps of this is k z equal to i k plus plus and x is equal to y plus 1. In this way, the instructions are taking almost k times on an average. And k will increase in the same way. So we have calculated it by constant. Now in two, the time of the two, the two, the four, when you are at exact time, you may have taken two, the two, the four, the time of the two, it is different when you have taken two, the two, when you have taken two, but we ignore that. We assume that all the operations are taking k times. So this formula of this fragment of the time is how much it is looking? k n is looking. Now first we will write int i, int k is equal to zero. I am just assuming that there will be some code. And no one will have to take the code of n from it. So what I will do here, I will write k1. Suppose it is k1 time. So I will take k2 and k1. Suppose it is k1 plus k2 and k2 and k2 and k1. This time is looking at the whole circle of my code. Now see what will happen here. k1 plus k2 and k2 are looking at this whole circle of my code. I have said drop the non-dominant term. When I talk about the complexity of time, I believe that the n is very big. Because I take a sufficiently high value of n. I told you in definition that the n is equal to n. It is sufficiently high for a very large value. We do the time complexity analysis when n value is very high. When n value is very high, then k1 and k2 n will be a very big number. So we will not compare both of them and drop it. We will say that k1 and k2 n will not be able to stand up and k2 n will be time. I have only put k2 n till now. Then there is another rule. To describe the bigode precisely drop the constant. Drop the constant term. Drop the constant term. Now what will happen here? I will drop the constant term. This will happen. So one time the fall loop is going here. And the n times is going here. If the n value is going for it, then the bigode of n. Because as I will increase the n, this will be the same thing. If n is 3, then this loop will be 3 times. So k2 multiply by 3. If n is going for it, then k2 multiply by n. And here I have put the bigode of n. It is put the bigode of n. Drop the constant term. The third technique that I want to tell you is that break the code into fragments. Break the code into fragments. I will give an example of this. Fragments. And why we break the fragments? Look. The 1st loop is going here. And the 1st loop is going here. For i is equal to 0, n will go to n. I will give it a drop. I will give it a drop. The 1st loop is not going to end here. And in this code, there is another loop. Which is something like this. The 1st j is equal to 0. j is less than n. j plus plus. Many people do wrong things. What do they do? They know that k is equal to i plus 1. And k minus minus 1 is not going to end here. Many people will do wrong things. They will do n. They will see n. And they will say n is square. Because n is not square. And why not? How will we find out? What is this? Let me tell you. The work that is done above this is the code file. I will take out the whole algorithm. I will break the code file. First of all, I will break the fragments. The first fragment is initialization. I will take constant time. Because n is not going to end here. If I want to increase the time, it will increase. The entire entire is going to end here. I will take 10 kg. I will take 10 kg. I will take 10 kg. I will take 1000 kg. I will take constant time. I have only given k. I will take this time in running. It will be constant. It will be constant. Okay. After that, I will take the constant time. I will take k2. I will take it in the form of a loop. It will be k2. And this is the work that is going to end here. I will take k3. Okay. Now see what happens. If I want to take out the time here. I will write k1 plus k2n plus k3n. Because this is also n time. Now I will take the non-dominant term from this rule. Now take n and take k2 plus k3. This is the constant. I will take k4 and do this in k4. And this will be my big of n. Because I have put this rule. And drop the constant term. Drop the constant term. Finish the constant term. Okay. And drop the constant term. So I have dropped the constant term. So see what happens here. k1 plus k2n plus k3n. I have taken k1 first. I have taken n and taken k2 plus k3. And then big of n. So if there is a different loop. Then it will take big of n. If you add k4. And if you add k2. And if you see it, it will take big of n. Okay. n squared. Okay. Remember to keep this rule. Now I will take an example. So I am taking another example. And then we will solve the question. We will not solve the question. But here I will take an example. I am going to explain to you what problems are made from approach. Okay. So this is my for loop. I will make it in the top. So I will make it a little space. And we will write the code that we wrote. I will write it in the top. And I will write one more for the bottom. This is the for loop. I is equal to 0. I is less than n. I plus plus. And I will write this for loop. I will write it in the top. Okay. And what is the same here? I am writing this for the bottom. This will come out. This will be the one. This will be the one. Okay. So this is the thing in the top. This is double nested for loop. For loop, in the top. Okay. I need to make an indent. I need to start from here. But you can understand. If you want to make space here, how will it come out? I will start from here. For. So this is the loop inside. Now tell me how will it come out. Now if you want to see it, then you will say, this is not the last one. I will not tell you why not. See. I have to make a TN. Okay. I told you. There will be some code that will come out. Now I have understood it. I will do the questions. And you will also understand. This is the non-dominant. If it is constant, then we will give it a hand. So I will write it in the end. I will not ignore the question. I will not tell you the answer. Now you understand. There is constant drop. It is not taking time. And why not? We have seen. Then we have to get the non-dominant. So K1. Now after that, this is K2. But how many times will K2 come out? Okay. So how will I know? So how many times will K2 come out? But how many times will K2 come out? See, we have to see. And how much will K2 come out? So, one time it will be the same value. Okay. What will be the same value? 0. And after that, it will be the same value. So, one time it will be i is equal to 0. j is equal to 0. Okay. Then i is equal to 0. Because the first loop will be the same as i is equal to 0. Then j is equal to 1. Then 0. 2. Then it will be n. Okay. So, for one value, it is n bar. Look carefully. Look carefully. I will ask you one value. I will ask you one question. I will tell you. After i is equal to 0. And after that, what is going on? n bar. Then i will be equal to 1. Then it will be n bar. Then what will be the value of i? 1 will be n bar. So what will happen here? n bar is equal to 1. Okay. For i is equal to 1, n bar is equal to 1. And after that, this n bar is equal to 0. For i is equal to 1, for i is equal to 0. Similarly, for i is equal to n, n bar is equal to 1. Okay. And when n bar is connected, what will happen? When n is connected to n bar, 1 plus 1 plus 1, n is equal to n. Okay. This n minus 1 will happen. Because I am giving index to 0. So, this n minus 1 will happen. And here n minus 1. So, 0 to n minus 1 will happen. Okay. So, if you will do n times, or i is equal to 0. So, how many n will be in this number? n will be n. So, this n will be n. So, this n square bar will come. What is the clear of this? I don't want to say directly that this n square bar will come. You know, this n square bar will come. Because, look, i will be equal to 0 for n bar. Then i will be equal to 1 for n bar. Then i will be equal to 2 for n bar. Then i will be equal to n for n bar. So, when i was equal to n bar, i was equal to n bar. So, if i was equal to n bar, then this n square will come. So, this n square will come. This n square will come. Okay. So, how is this n square? This is the clear of this course. This is very pure and simple. But, I have told you. If you don't clear this, then why will this n square bar come? So, i will be equal to 3 and then i will be equal to 3. And print it here. And make a count variable. And make a count. How many times you want to write this? Write in C program. Write in Python. Write in Java. But, when there is a loop, If there is a loop, then it will come in n square bar. And if there is a loop, then i will be equal to n cube bar. And if there is a loop, then it will come in n to the power 4 bar. Okay. You should have clarity. Because, you should have seen many times Patents, then you will not be able to do this. I have told you to explain. Because, you should be clear. What we are doing. Okay. So, now, see this term. You should not have such a time that you are saying, this is non-dominant, this is constant, this is big of n square. Now, let's see. Tell us, you are ignoring your eyes. And, see the big term. The highest degree term is called big of n square. Okay. So, these are the techniques. Which we will use. Not more techniques. These are two or three techniques. The bigo definition of bigo was very big. That was just for clarity. Or, we need to work with this much work. Okay. We need to work with this much work. There are some other cases. What we need to do is, we need to get a recursive call. We need to get a recursive call. So, there is a little effort. But, but what happens? The answer of bigo, when you are in A, we approach different. I will solve some problems. Here, these are the tricks, which I will tell you, if this is a double-fold loop, then n square is given. And, don't ever solve your problem. Because, you can get a recursive call. You can get a recursive call. You have to get a little complicated. So, we will do the same thing, but we will do the same thing, and we will increase the level. We will do the same thing, and we will go up. So, let's solve the questions. We are very important. Alright, guys, we have been in time. We have solved some problems. And, I have created a very bad problem, and we have created a bad problem. If you have not done this play list yet, which play list is data structures and algorithms play list. So, do do it. We will do this, because, all the videos here are going to be uploaded. I will put all the videos here. And, now, I am going to tell you, that, I will solve some problems for you. I will solve the short list for you. And, I am using one note. I will ask you, which software you use. And, I will give you a lot of advice. I will give you a part. So, you can see it. In some videos, they ask you, which software you use. I am not giving you a good one. I hope, I will explain you, in one note. So, what I have created a notebook, in one note, and the document, which I will convert you to as a PDF. And, I have made some questions, which I will give you. And, I have made their programs, and if you have given them, then, I have opened this folder, in Visual Studio Code. So, you will find out, I have also made some programs. And, I have made a time complexity folder, which I have made, which I have made in one note. Okay. I have given you this question, clearly. So, it is not a problem. So, I will come back, here, in one note, in one note, and, first, I will tackle the question. The questions, I have made in their programs, so, I will write them, and, the first question, is the program, you see, what is the question, first, let's see. So, the question is, find the time complexity of the function, function in the program, shown in, program 1.c as follows. Okay. So, it is a program 1.c, and, what is this file? It is a function, and it is a c program, obviously, because, I am also doing it in c, but, if you analyze some other programming language, then, the steps will be the same, so, if you come to any other programming language, then, it is not going to change. Because, the data structure, algorithm, is a study, which is in programming language, will not depend on that much, because, the study house, you will have implementation, you will have a little bit of programming language, but, you can totally follow, and you are using other programming languages. Okay. So, I will write a pen, and, what will I do here? I will solve this problem, if you find the time complexity of the function in the program, show in program 1.c as follows. Okay. So, here, what is the function of a function, this is an array, and this is the function of a function. And, what is this array doing? This array, is passing, is the function of a function, and, what is the function of a function, with this array? So, here, int sum is equal to zero, is, product is equal to 1, so, basically, it is calculating the product, if you see, there is a length pass, which is 3, and this is 0, from 0 to 2, and minus 1, this loop, so, as you have told, now, when you analyze, first, you will have to open it in fragments, so, what I will do first, I will open it in this first fragment, and, I will name it F1. Okay. So, I have given the name F1, I will name it F2, and, I will name it F3, and, I will name it F3, okay. So, now, we have 3 fragments, F1, F2, and F3. So, I will name it F1, plus F2, plus F3, the time of F3, it is the whole function of the function, overall, I will name it F1, what will be the time of F1, it will be a constant, because, you are doing 0, product is equal to 1, every time, it is not depending on the array length, so, I will name it K1, okay. So, I have named it K1, what will I name it F2? I can name it K, I can name it K2, it is K2, it is multiplied, because, it will be n bar, so, N bar, look, here. So, you can write here, but, because, I have written here, I am not writing here, because, I have written here, because, I am writing here, basically, the length, the variable input of this function, F2, is K2, and F3 is equal to K3, N is equal to K3. Okay, so, I have already told you, now, I have used this, so, I am free to use it, I have used it here, and, I can use it again, I can use it again, so, don't be confused, if I take the total time complexity, that is, if I take the TN, then what will happen? TN will be my, F1 plus F2 plus F3, okay, this will happen, and, F1 plus F2 plus F3, what will happen? My K1 plus K2 N plus K3 N. And, what will I do here? Because, I have already told you, that, you can drop the non-dominant term, that is why, I will drop it, and, I will come and go, and, I will write here, because, I will not write here, because, I will drop it, and, I will write, K2 plus K3 N, and, what can I write, K2 plus K3, I can write, a second constant, and, I can write, K4 N. So, this algorithm, I will go, in the end, where, N is length. So, because, I will give it, in question, I will report, in answer, I will say, I will say, this algorithm, I am talking about, it is talking about, you see, it is talking about, this is the variable, it is function of Function, ok? So, I hope, you understood, so, it is the answer, it is the answer, the next question is, and, I have given you, the program 1.C, you can also see, you can see, in different inputs, you can see, or, if you want to implement, in some other programming language, feel free to do that, as well, you can do that too, ok? So, here, the other, the question, is, find, I have written, let us correct, I have written, I have written, I have to find, this is, find, there is a thing, it becomes small, find the time complexity, of the Function in the program, from program 2.C as follows. So, I have seen this program, I have also made the program 2.C, and, you see, you can also see, 2.C, open it, or, you can see, 2.C, if you want to see, you can, I have written, so, there is no problem, you should not need, there is this program, in the 1 note, I have, I have shared this, in the description, you can take it, here, see, what is written, what is happening, first, I will write, I will not write, because, let us write, I have written, I have written, I have to write, but, I have also written, now, look, there is a fork in it, when there is a fork in it, and, how many times, this n, 0 to n, that is, it will run from, 0 to n, and, this will run from, 0 to n, and, if this is 0 to n, this is also 0 to n, that is, it will run from, n, so, n will run from, then, it will run from, from, n, then, it will run from, 2 to n, and, how long it will run, and, n minus 1, how many times, n minus 1, it will run from, n, then, n minus 1, n to n, so, let us write, and, if, if, if, if, if, if, if, if, if, if, if, if, if, can take, k2, so, y, if, if, can take, i, if, if, i, if, i, if, if, i, if, i, if, if, i, if, if, if, i So what will happen? Obviously, it will be my n. What will happen? It will be my n. So this will be k2n square. So I will write k2n square. So this is the big of n square. So you can see the double for loop. And it is going to go to 0 to n 0 to n. And it is in constant. So that means it is big of n square. So we have seen the problem number 1. We understood that big of n was a very simple problem. But 2 b. But it is a very basic problem. So we are going to see a problem here. Which may be a little challenge for you. And I am telling you this is a little challenging problem. Okay, I am telling you this first time. I am doing this announcement. So you guys don't think that you are not doing this. We are not doing this. We are not doing this. I have not given you a confidence to down. I have done this for you. You guys will encourage us. We can solve every problem here. And this is a concept. You can apply it everywhere. Consider the risk. Because of all the problems. Okay. You should write below. But that is fine. I will correct it. I will write below. Where the random int n spends 1 unit of time to return a random integer. So here the random function is used for 1 unit of time. Which is evenly distributed within the range 0 to n. I have written 2 times 0 to n. I have typed it very quickly. I have to correct it all. If the average processing time is tn, what is the value of t6? So basically you have to take the expression of tn. How much time is taking? Our function? How much time will it take? Now if you take this out, tn will also be taken out. So what is the question here? The question is that you take t6. So if I solve directly t6 for t6, then it might be my work here. Okay. But what will people do? They will try to derive the tn expression. Which is possible. I am not saying that it is impossible. But my number is 6 is a small number. And you solve the directly problem. If you solve it directly t6, then it will be fine. So what will I do? I will try to solve the directly problem for t6. And if this simple problem is also n in tn expression, then let's see what is happening in this function. First of all, I will tell this to K1 that this is something constant. And if n is equal to n, then this return is equal to n. And if n is equal to n is equal to n, then it is equal to n. But what is happening here? This is recursively a random function called. Which is one unit of time. So what I will do? I will write this one. Okay. I will say that this is one unit of time. And in the rest of this, if this is one unit of time, then we can assume that this is not the time. So I will do this. And why did I do K1? I have written that this is one unit of time of random. And it would have been fair if I write here that the random calls are not taken that time. If I write this, then this question is fair. I will add it. The other calls are not taken that time. So you see how many times you will call random. So if you are taking random one unit of time, then you have to tell us that what is the value of t6 at average processing time t. So basically I have to tell you that the random calls are equal to t6. So see what I am doing here. What I am doing here? I will also tell you what I am doing here. I should write here what I am doing here. So I will complete this question. But I will tell you that what is the question? I will also complete it. What will I do here? If you write random one unit of time of t6, then what will I do? I will show you 0 to 6 range. So see here I have written written here. Return random teacher which is evenly distributed within the range 0 to 1. So between 0 to 6, you will return no. And that is the random one. So between 0 to 6, you will also get a return and then you will get it. So I will do this here. I will change the color here. And I will change the color. I will do red color. If I will do red color, then I will do purple. So you will get a question 1 or question 2 in difference. These are the other questions. Now see what I have done here. This function is written here. So I have to remove this t6. So if I write here t6, I will do it with recursion. And t6 recursively is calling itself. For tI and tN minus 1 minus I. So if t6 will call, then I will write here. So t6 will call here. So it will be 0 time here. So one time I will call random. Because 6 is equal to 0. So it will go in the else. If it will not go in the other. So this function will be known as t6. And one unit of work is also doing this. So I will leave it here. So I will write 1 here. Now what is it doing? So I will call the function with the operator work. And what is it doing? TI and N minus 1 minus I. But here you have seen one thing. It is random. Look here, it is random. Which can be something between 0 to N minus 1. In this case, it can be something between 0 to 5. So what is the value of this? Because here it has given that it is random. So I can take something. This means that it will be something. It will be the same answer. I have assumed this. Because it is not a question. Now I will tell you why it will be the same answer. But let us assume that I will take the value of i here. The number of calls will be the same. So what we will do here? I have given the value of i. I have given the value of i. So I will give the value of i. So this function will be t0. And if you see here, t0 does not work. Because it will be written here. It will not be in random. N is equal to 0. This will be called 0. So I will write 0 here. Because t0 is not going to be the same. And also, call t5. Okay? After that, I will take this. t0 and t4. Okay? t0 and t4. Then I will take t0 and t3. Then I will take t0 and t2. Okay? Then I will take t0 and t2. Similarly, I will take t0 and t1. And I will take t0 and t0. Which means that this is not something. So the calls that are calling t0 and t0 are coming. They are taking the unit of time. But this is my 1 unit of time. This is my 1 unit of time. And how many times? How many times? 1,2,3,4,5,6. This means, 6 times will be called here. So this will be the answer. Okay? Now, you have to assume that the value of i is always 0. But the value of i is 0 to 5. It can be randomly given in random. So what will be the difference? Look, what is happening here? What is it doing? It is going from child process. It is going from child process. It is almost finished with t2. Because the child process is giving it. It is calling the function. It is doing small things. It is doing t6, t6, t5, t0. If I had done t1 and t4, Then what will happen? Till then t2 will be t2 till t0. If all the leaf nodes are t0 till then it will be t0. And in that case, you will get 2-3-4-5-6 calls. Okay? Now, the function of t2 is written. I have made a program. It is program 3.C. In fact, it is program 4.C. It is program 2.C. It is program 4.C. So my random has been implemented. And what I have done here is that I have written this. This means that whenever random calls are written, The print fp will be run. So, the print that is running is called. So, if I run it and show it to you. Then you will see that my print will be run 6 times. So, 1 is 3-4-5. If I run it again, then 1 is 3-4-5. Okay? Now, the random value that is given by me is 0 to n. So, you need to verify it. But, if you have asked this question, You can take some random value. And if you have an interview and you know, Then I will write you a random value. Then you will not depend on the case. If you are not sure, then you can say your interview. I am not sure whether it will be the same or not. But, because you said that I can take some random value. So, I have taken some random value. Interviews, whenever you give a coding interview, Then you always need to be correct. You are an honest person. You will do something with others. Because if you have a question, then you will not know what it is. But, if you are approaching it somehow, Like you are approaching it somehow, Like you are making a tree of the recursion. So, we will know that you know, You know, the whole concept is clear. You know, how many times you are calling it random. Because you have given the function one unit of time. You understand all this. So, we will talk about this later. So, this question was a little tricky. And I had to take this question. And if you have not understood it, Then I will look back. But, basically, what I have done here, I have just broken it down. If you have done it for 6 days, then I have broken it down. You can prove it to you and prove it to you. You can prove that you have some random value. Which you will not depend on the value of the i. Till it is 0 to n minus 1. Till it is 0 to n minus 1. So, until it is 0 to n minus 1. Till it is 0 to n minus 1. The number of calls will be 6. And I have shown you practically, The number of random numbers that I have generated, I have done it for 6 days and it will be 6 days. You can check it in the loop. You can check it in 6 days. Okay. So, let us return to the 1. And here, look at the fourth problem. What is the fourth problem? It is very simple. Which of the following are equivalent to B go of n and y? B go of n in which? Which B go of n and k? And why? Let us first look at the first. So, this is n plus p. I know that n by 9 is small. That is, it is non-dominant term. Okay. P is non-dominant term. Here, there is a clean-up written in the question. I will do the work. I will change my pen. I will do this. See, it is non-dominant term. You can see it. It is a little bit of a pen shape. Yes. So, it is non-dominant term. So, I can write it. I can write it here. B go of n. So, it is B go of n. Okay. Let us see it. If n minus k is constant, then I can eliminate it like this. And it will be B go of n. Because I will eliminate n. I will eliminate n because of non-dominant term. Because of this constant, it is eliminated. So, this constant is, in front of n, it will be non-dominant for n value. And n is a constant. So, I have removed n. This is B go of n. So, this is, let us see it. This is, This is also visible because, this is a non-dominant term. So, we will not be able to dominate n. Login goes slowly. n is more than log n. If I make a graph, then it will be something like this. And n will be like this. Log n will be like this. So, for a very large value, this n will always be on log n. So, this is also B go of n. Let us see it. n plus m square. Now, if m is constant here. I should write here. By the way, here, I should write this as a constant. I did not write it. But I should write this as a constant. Now, I will add this question to the case of constant. Because, I don't know what is constant here. This is n and m. This is B go of n plus m square algorithm. This is B go of n. Because if m is input, then you cannot ignore it. So, C B go of n is not D B go of n. So, I will add details in the question. I will add all the details. So, I will update the doc. So, you can see that, if you have seen the question, answer the question, then you have no problem. Now, let us see the 5th question. So, we have solved one, two, three, four. So, this is solved. Let me apply it on top. Now, let me see here. The following simple code sums the values of all the nodes in a balanced binary search tree. Now, let me tell you the binary search tree. I will not tell you more. I will tell you a little. And, the work will be done by you. I will tell you very well. Don't worry. But, I am telling you only the question. A binary search tree is like this. It is a node. Okay. It is like this. I zoom it. It is like this. And, there is one node here. Here is another node. It is a pointer that is pointing to the other node. And, these two nodes are pointing to the other node. Okay. So, if you study about the balanced binary search tree then I will tell you. But, if you do not know, then you will understand that there is a structure here. There are two points. Which are pointing to the same node. Okay. Now, what are we doing now? Because, this question was straightforward. I will not go into the detail. The question is, you will see it. What is this following? What was also written? All the values are being explained. Some is the value of all the nodes. This is not the same. This is the value of all the nodes. The question is, if you say the same thing, you will not be contradicted. Okay. So, this is the question that is not the value of all the nodes. And, what is the time of this? If I am writing the n in the n, the n is the number of nodes. So, what will be the time of this? You will tell me, I will comment on the time stamp. I want you to tell me. What is this? First of all, you will understand it. Okay. Then what is this doing? Explain it to you. Explain it to you. If this node is null or not, then what is this doing? Return to zero. And, the value of this node will be understood. Okay. But, I want to tell you one thing. How much is this code working? This code is working for every node. Almost. So, the nodes will be big. So, I have told you the topic. This is big of n. I am telling you. But, you will understand it. What is this doing? This recursive function. And, the sum is calling it for all nodes. And, the sum is calling it for all nodes. And, the sum is calling it for all nodes. And, the final node that is in the bottom of the node. I am not doing anything for it. But, when you will do a tree, then, the n is the number of nodes. It depends on the time. So, I have directly told you. But, again, we will talk about the balance binary search tree. And, this is very easy to solve. So, just remember that, you will never solve the problem easily. If you do not know the balance binary search tree, then, you may be afraid of that. You will interview me and you will not know. And, this is a very big red flag. If you tell me that, I don't know about the balance binary search tree. So, that is obviously, that person will prefer it. Everything is very simple. But, now, we will go to the next question. And, we can come back to this question. And, we can revisit it. And, we can see it. Because, this question is, the balance binary search tree depends on the problem. But, I have told you this idea, that, you are working for every node. This is big off. Because, when you will grow the tree, and you will grow the size of the tree, then, you are working for all nodes. Now, you can see, if the node is null, then, if the node is null, then, this node is not null. Now, this is pointing to the null. Okay? This is pointing to the null. I have not read the search tree. I will tell you everything. But, if the node is pointing to the null, then, what is it doing? It is also working for that. Basically, it is working for the lower node. If you look at it carefully, then, it is also doing returns. So, all these nodes are working for the same node. So, the nodes are working for the same node. So, if you write the time, you can end the Tn. And, you can end the big off. I think, this is very clear. You can also see the end of the tree. If you do not know the balance of the tree, then, you can tell you the balance of the tree. What happens? And, from there, you will say, you are going to come here and solve the problem. So, I hope the problem is understood by you. And, if it is a little too late, then, I am telling you that, we have to revisit the problem. After reading the balance of the tree. Now, see what is it doing here. It is a little tricky. It is not that tricky, but it is a little tricky. What is this code doing? It is testing whether a given number is prime or not. So, if you have seen this code before. Then, you can trust this code here. Because, it is saying that, it is testing whether a given number is prime or not. So, the problem is that, I am checking, what is this number? It is not prime. So, if I analyze this code here, then, I will consider it as constant. This is a constant. Checking that, it will be in constant time. I will not write it in K1. But, I want to analyze it because, it is coming here. I want to analyze it. Now, I want to see how much loop it will be. I want to see it. And, I will write K2. I will write K1. I will write K1 plus K2. I will write this loop. So, the loop is starting from 2 to the start. And, it is coming here. Till the time, I will make n square n. n minus 1. So, I will make n minus 1. So, this will be the last, the execution of this. Basically, I want to see, which value of i will go for. So, i is equal to 2. i is equal to 3. And, how long will it be? What will be the final run? What will be the final run? If i value of the value of the root, then, no number of root tens will be less. Till the time, I will make it run until the time. By the way, the root n will go for. n value n is not perfect square. But, I will make it run until the time. And, this root n will go for. Our greatest integer. It will go for. I will not go for. You can make it run until the time. So, i will go for. So, this root n will go for. So, this will go approximately. So, this root n will go for. So, this root n will go for. Approximately. If i value of the value of the root n, then, i can say that all the constants will go for. So, if i solve the problem quickly, then, i will say that this root n will go for. This will start from 2 to the start. Till the time, the root n will go for. This will go for. This will go for. So, i can say this root n. So, you will have to get the approximation. Because, the constant can be in the plus and minus. But, the root n is the dominant term. When the value of the n is very big. And, in front of the constant, it will not be standing. So, this will go for. So, the sixth problem is solved. Now, the seventh problem is very interesting. You guys, see here. I have called this prime. I should have given a number. I am giving it to 18. I will correct it. I should have given it to this prime. I am giving it to this prime. I am giving it to this prime. I am giving it to this prime. Okay? But, if you guys can see it from God, then you will get to know that this is not for the prime number. It is for something else. But, you can ask this question from the interviewer. Because, you will expect it to go for. You can say that you have already solved this problem. You will have to solve this problem. So, you should go for. First of all, you should have solved this problem. You should have solved this problem. You should have solved this problem. So, what is here? It is not able to depend on the entire end. It is not able to depend on the end. So, this means, it is a constant. I can ask K1. It is a constant. I can ask K1 for the time of this. I can write Tn. I can write K1. I can write K1 for the time of this. I am doing it in a constant. Again, 7 questions. We have done Bgook. I hope you will help us a lot. I want you to take some questions from somewhere. Search the internet. If you are following this text book, you can pick them up from there. Today, there are no less questions. I hope you will help us a lot. I will make more videos of problems. But, I have to take this concept further. The data structure in the internet is very important. Because, Bgook has solved many problems. I want to solve many problems. But, I have told you that you can solve Bgook. And, to solve Bgook, you were talking about the binary search tree. Stacked, all these things will be done. It can be used. All these things can be mixed. Like, we will talk about Bgook. This is not the end of this topic. Time complexity is not the end of this topic. We will talk about it later. But, I think for now, this is enough of practice. You want to do more. I have a lot of questions. We will talk about practice. I hope you like this video. I want to share with you some of the questions. Please share them. I am doing a lot of work. I will also share the notes of this chapter. You will get the notes in the description. I will give you the sheet. I will give you the sheet. I just hope you all are liking this video. And, you all are enjoying this video. Thank you so much for watching this video. And, I will see you next time. Bye."
+}

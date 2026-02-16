@@ -1,0 +1,1363 @@
+{
+    "chunks": [
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 0.0,
+            "end": 25.759999999999998,
+            "text": " You two have suffered a very good relationship, like you have realized that you have already decided to do some tests and they have shown a better Buy and Test  Algoardham's life is something that is very different from other people's life.  Sometimes it gets some kind of input  which means that today is fun  and I have solved the big of one maze"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 25.759999999999998,
+            "end": 39.76,
+            "text": " Sometimes it gets some kind of input  that you have to question your life  and that is how much input you get  and that is why you have to work so hard.  Similarly, we have to define Algoardham"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 39.76,
+            "end": 55.76,
+            "text": " to define this incident in life  for the best case, worst case and expected case.  What is this and why is this and how is this and how is this and how we will see in today's video.  Along with that, I have packed one more thing in this video  in the lock definition."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 55.76,
+            "end": 65.75999999999999,
+            "text": " If you have seen this video till now  then you will know what is the lock.  You will have to read the lock M to the power N is equal to N  lock M, lock lock.  But is this lock?"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 65.75999999999999,
+            "end": 82.76,
+            "text": " Today's video is very good.  We will clear the lock.  If you will see this video, I can take the guarantee of this.  But I will take the best case, worst case and expected case.  First of all, I will take an Algoardham example."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 82.76,
+            "end": 95.76,
+            "text": " I will take Algo 1.  What is Algoardham?  We have seen some steps to solve some problems.  First, I will make a very early in this course.  Now what I will do here?"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 95.76,
+            "end": 106.26,
+            "text": " I will make an array of Algo 1.  I will say that I want an array.  What is this array?  First of all, what is the array?  There is a number in this array."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 106.26,
+            "end": 119.26,
+            "text": " Like Malu 1, 2, 3, 9, 24.  And Malu 1 and 3 are not.  I mean, there is no number.  I mean, do not confuse it.  1, 2, 3, 4 is not."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 119.26,
+            "end": 127.26,
+            "text": " This is a number in the increase number.  This is a sorted array.  I will name it.  I will name it.  I will name it as a parent."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 127.26,
+            "end": 140.26,
+            "text": " First, I will write it as a sorted array.  And I will name it as a-r-r.  Okay, what is its name?  R.  Now, 1579 and 24 are the numbers."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 140.26,
+            "end": 156.26,
+            "text": " This is the number in the increase number.  You can see it in the increase number.  If you have a little bit of a problem,  then you will find out here that this increase number is written in the increase number.  Now, I will say that I will give a number A."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 156.26,
+            "end": 171.26,
+            "text": " I will give a number A.  And I will want you to tell me that,  is this number not in the array?  Now, 1 is Malu 8.  So, what will be your answer?"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 171.26,
+            "end": 184.26,
+            "text": " Yes, that is 1.  If you have a value, sorry, your answer will be no.  Because it is not in this.  If the value of 1 is 9, then what will be the answer?  The answer will be 0."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 184.26,
+            "end": 193.26,
+            "text": " 1.  Be careful.  Okay, so, this answer will be 1.  Because 9 is in the number of the number of the number.  You have to take a whole number here."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 193.26,
+            "end": 211.26,
+            "text": " This is a course, this is a video, this is a topic, this is a8.  If the number is not present, 0.  If the number is present, then 1 and so on.  So, I can run this algorithm for any value.  And I will expect this algorithm to be present."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 211.26,
+            "end": 226.26,
+            "text": " Tell me, what is this number in this array?  I will tell you, what is the value of this algorithm?  So, how will this be present?  You have to do something, right?  If you have a value, then what will you do?"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 226.26,
+            "end": 238.26,
+            "text": " Algorithms are very massive.  Like, there are some kids in the street,  when they run cricket,  you give them a feeling,  when they play cricket, they make them a pole."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 238.26,
+            "end": 247.26,
+            "text": " So, this is the algorithm.  So, a very serious person doesn't care about the brain.  What will he do?  He says, okay, if I want to tell you,  that there is a value in this array,"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 247.26,
+            "end": 256.26,
+            "text": " then what will I do?  I will start comparing all the elements to one by one.  Okay?  I will compare it to one.  I will compare it to one."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 256.26,
+            "end": 268.26,
+            "text": " I will compare it to one.  I will compare it to one.  Until I don't compare it to one,  I will say, I will compare it to one.  Okay?"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 268.26,
+            "end": 279.26,
+            "text": " So, if this size is n,  if this size is n,  okay?  I have to keep my mind open.  If this algorithm is n,"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 279.26,
+            "end": 290.26,
+            "text": " then how much will I compare it to?  Tell me,  this will be n comparisons.  And when will I compare it to n?  When I don't get the number,"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 290.26,
+            "end": 300.26,
+            "text": " then I will get the second comparison.  It can be the third comparison.  If I get the number,  then I will tell you,  that the number is n,"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 300.26,
+            "end": 308.26,
+            "text": " okay?  Then I will tell you,  now, I will compare it to one by one.  Now, is this the best way to do this?  Obviously not,"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 308.26,
+            "end": 318.26,
+            "text": " because the algorithm is a very simple person,  who is more demanding than this,  then they will compare it to all the numbers.  So, I have written the algorithm here.  But, in the life of the algorithm,"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 318.26,
+            "end": 330.26,
+            "text": " if the luck is going on,  then what will happen if the luck is going on?  The luck of the luck is going on.  If the luck of the luck is going on,  then what will happen?"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 330.26,
+            "end": 340.26,
+            "text": " The first one will get the number in the array element.  If this lucky algorithm will get the number,  then it will get the number,  and the first comparison will be,  yes, this is the magic."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 340.26,
+            "end": 353.26,
+            "text": " In one comparison,  if you compare it to one by three or five,  then it will be in one comparison.  So, if I say that the algorithm is the best case of the algorithm,  then what is the best case of the algorithm?"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 355.26,
+            "end": 364.26,
+            "text": " So, I will write, what is the best case of the complexities?  So, how much is the comparison?  1 is the comparison.  Okay?  So, it is constant."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 364.26,
+            "end": 372.26,
+            "text": " Okay?  Be careful.  Because, in that case, the time will be applied.  What will it be?  The number of the algorithm is going on in one comparison."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 372.26,
+            "end": 379.26,
+            "text": " Okay? The number of the algorithm is going on in one comparison.  So, how much time is it going on?  So, how much time is it going on?  How much time will it be applied?  For the array of size?"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 379.26,
+            "end": 387.26,
+            "text": " Malu, 2.  Now, how much time is it going on for the array of size?  It will not be applied.  It is comparison.  It is increasing the array."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 387.26,
+            "end": 397.26,
+            "text": " So, the array size,  as it is getting thicker,  and, as it is getting thicker,  it is not getting any further algorithm's best case.  It is taking the same time,"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 397.26,
+            "end": 409.26,
+            "text": " I will compare it to the first one.  Because, this is a such element,  compared to the first element,  that is, this element is coming here.  It is going to be compared,"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 409.26,
+            "end": 418.26,
+            "text": " so, it is not necessary to do anything.  It has given a answer in one comparison.  So, this is its good algorithm.  It is the algorithm.  If it is the algorithm,"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 418.26,
+            "end": 425.26,
+            "text": " it is going to be time-like.  So, I will write here,  t is equal to k.  Okay?  tn is equal to k."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 425.26,
+            "end": 435.26,
+            "text": " That is, it is not depending on n.  The array of size is not going on in one,  the array of size is not going on in one,  so, how many more,  how many more,"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 435.26,
+            "end": 446.26,
+            "text": " it is going to be compared to the first element,  that is, it is getting thicker.  Now, the algorithm has gone,  it is getting thicker.  Now, it is getting thicker."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 446.26,
+            "end": 455.26,
+            "text": " I will say,  if the algorithm is the most thick,  then, in the worst case,  you will be able to compare it to the first one.  So, what will be the complexity?"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 455.26,
+            "end": 495.26,
+            "text": " So, how much time will it take?  nk.  I have done it,  so, in the best case,  the worst case,"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 495.26,
+            "end": 504.26,
+            "text": " the worst case,  the worst case,  you are telling us about it in the post-cars.  It cannot be done with this,  it is going to be a big problem."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 504.26,
+            "end": 514.26,
+            "text": " It is going to be a big problem,  if it is going to be a big problem,  it will be a big problem,  it will be a big problem,  the complexity is also a big problem."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 514.26,
+            "end": 523.26,
+            "text": " Okay?  Cool.  Now, let me tell you a very important thing.  What will happen to this?  How will you take it?"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 523.26,
+            "end": 532.26,
+            "text": " In the first case,  you will understand the best case.  You will understand the worst case.  What happens to the average case?  I will tell you what happens."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 532.26,
+            "end": 544.26,
+            "text": " The average case complexity  is,  it is a big problem.  Total number of possibilities  is the sum of the time."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 544.26,
+            "end": 560.26,
+            "text": " So, here,  sum of all possible runtimes.  All possible runtimes  divided by  total number of possibilities."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 560.26,
+            "end": 570.26,
+            "text": " Tee, sir.  Okay?  Possibilities.  Okay?  Sum of all possible runtimes"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 570.26,
+            "end": 577.26,
+            "text": " divided by  total number of possibilities.  How big, oh!  How big, oh!  Okay?"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 577.26,
+            "end": 584.26,
+            "text": " What is the value of this?  What is it?  Okay, I will tell you.  I will calculate it for this case.  Okay?"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 584.26,
+            "end": 594.26,
+            "text": " So, if I calculate it for this case,  I will come here.  I have this space.  157924.  Now, what is the possibility for this area?"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 594.26,
+            "end": 603.26,
+            "text": " Possibility number 1.  The element that was here  was found to search.  So, how much will it compare?  It will only compare."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 603.26,
+            "end": 614.26,
+            "text": " Only one.  The second case is found here.  It is to search the element.  The third case is to search the element.  The fourth case is to search the element."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 614.26,
+            "end": 626.26,
+            "text": " The fifth case is to search the element.  And the sixth case is to search the element.  The one that was not in it.  The one that was not in it.  Okay?"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 626.26,
+            "end": 637.26,
+            "text": " Now, see.  1, 2, 3, 4, 5.  The fifth case is to make a 6 case for size.  Because, there is a case that is also being made.  There is an element that is not in it."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 637.26,
+            "end": 647.26,
+            "text": " There is one or the other.  There will be 5 or 7 or 9.  There will be 4.  There will be 3 or 4.  And it will not compare."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 647.26,
+            "end": 659.26,
+            "text": " So, the total number of possibilities is to me.  So, I have this average case.  I am coming here.  Okay?  I found the denominator."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 659.26,
+            "end": 676.26,
+            "text": " I will write time here.  I will also write N plus 1.  If I am writing the size of N plus 1, then there is one possibility.  N possibilities are that the first element of the second element of the third is the number of the second element of the third.  And, what is the possibility that there is no such element in the second element?"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 676.26,
+            "end": 689.26,
+            "text": " Okay?  So, N plus 1 possibility is there.  Now, see, what are written above?  Some of all possible runtimes.  So, if the element is here, then we have to compare it."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 689.26,
+            "end": 702.26,
+            "text": " It is the exact location where we can make a comparison of both.  If we live in an element here, how many comparison there will we have?  We have to make a comparison of two.  How many comparison can we make the number twice?  We have two, two from the second and then a comparison of the two will be so."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 702.26,
+            "end": 715.26,
+            "text": " Then we will have to compare the remaining half.  There we have a number of competing parts here.  So, we will have to write a number twice or three in total.  If it is here, we must make it very much for comparison of two of them.  And, it is not in these spillings, we will have to make it as the comparison of two to the third part."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 715.26,
+            "end": 733.26,
+            "text": " Okay?  So what will happen here?  First of all, I will take a common, 1 plus 2 plus 3 plus  plus n plus n.  I have removed this because this is a different, this is different."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 733.26,
+            "end": 746.26,
+            "text": " Why do I tell this?  This is a 2, 3, 4, 5, 6, 7, 9, 10, and n is going to go up.  And this is another difference because  one case can happen when the element is not in it.  I will write this in a common case."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 746.26,
+            "end": 763.26,
+            "text": " I have also written that case.  And I have taken a common, 1 plus 1 plus n plus 1 plus n plus 1.  Let me see what happens here.  What I will write here?  I will write this here."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 763.26,
+            "end": 777.26,
+            "text": " What will happen here?  What happens to 1?  What happens to 1?  What will happen to 1 plus n plus 1 by 2?  What will happen to 1?"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 777.26,
+            "end": 789.26,
+            "text": " This is the time.  This is n plus 1 by 2.  I will write here.  1 plus 2 plus 3 plus  n is equal to n plus 1 by 2."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 789.26,
+            "end": 801.26,
+            "text": " If n is equal to 1, then 1 will come here.  And n is equal to 2 will come here.  So 3 will come here.  If n is equal to 3, then 6 will come.  That is, n is equal to 6."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 801.26,
+            "end": 813.26,
+            "text": " If n is equal to 3, then 3 will come.  So this formula is the sum of this A.  What is the sum of this A?  What is the sum of this A?  What is the arithmetic progression?"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 813.26,
+            "end": 823.26,
+            "text": " If you don't know what is the A?  You should come here.  You see on the internet, there are many formulas.  And when you get the question of B.  So A is also made in G.P."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 823.26,
+            "end": 833.26,
+            "text": " What is G?  G.P is geometric progression.  So A and G.P is equal to important.  So you can see the A and G.P from the point of view.  Now I will come back."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 833.26,
+            "end": 841.26,
+            "text": " What I have done here.  This formula is made like this.  Now what I will do?  Tell me something.  This term is my first term."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 841.26,
+            "end": 850.26,
+            "text": " This is the combination of two terms.  One is the combination of n and n.  And the combination of n and n.  Now I will take the complexity when I get it.  So what is the dominant term?"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 850.26,
+            "end": 860.26,
+            "text": " What is the non-dominant term?  Obviously, the top term.  I will write it in the whole polynomial.  First I write the whole polynomial in the polynomial.  I will write n square."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 860.26,
+            "end": 872.26,
+            "text": " And I will write here plus n plus 2n divided by 2.  n plus 1.  Okay, I will write it like this.  Now tell me something.  This n square plus n is here."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 872.26,
+            "end": 885.26,
+            "text": " And this is 2n.  So what is my n square plus n?  In front of it, n square plus n will be the dominant term.  The dominant term will be 2n.  Obviously n square plus n will be the dominant term."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 885.26,
+            "end": 892.26,
+            "text": " That is why I can remove 2n.  I can remove n even if I want.  But I will not remove it.  Why?  So I will remove 2n."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 892.26,
+            "end": 902.26,
+            "text": " Okay, I will write it like this.  I will write it here.  Non-dominant term.  Because when n value is very big,  then 2n n square plus n will not be standing in front of it."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 902.26,
+            "end": 915.26,
+            "text": " n square plus n.  I have to go to the bottom of 2n.  Always n square plus 1.  n square plus n square will be above it.  2n for sufficiently large value of n."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 915.26,
+            "end": 928.26,
+            "text": " Okay, so what I have removed.  I will write n in this.  This will be k n n plus 1 divided by 2n plus 1.  n plus 1 divided by 1.  This is k n by 2."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 928.26,
+            "end": 936.26,
+            "text": " And this is big of n.  Because k by 2 is a constant.  I will remove it too.  Because it is a constant.  So what will be the average case complexity of this?"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 936.26,
+            "end": 945.26,
+            "text": " Big of n.  So this is how it is.  What is the average case complexity?  What is the average case complexity?  I have also shown it to you."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 945.26,
+            "end": 962.26,
+            "text": " Now I will tell you one thing.  The average case complexity is that  it has been formulaed that all possible runtimes divided by  total number of possibilities.  Will this always be possible for you?"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 962.26,
+            "end": 980.26,
+            "text": " Will you not be able to remove the average case complexity?  No, it will never happen.  Because you will never be able to eliminate all possible runtimes  in a finite amount of time.  Because when you ask questions in the interview,"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 980.26,
+            "end": 990.26,
+            "text": " it will be difficult for you to get it.  If you have to calculate it,  this is the average case time.  For a unique algorithm,  generally it is not asked."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 990.26,
+            "end": 1001.26,
+            "text": " You can ask this kind of algorithm for simple algorithm.  If you compare all this,  what will be the average case complexity?  And if you write the formula,  try to do this."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1001.26,
+            "end": 1011.26,
+            "text": " So the interviewer gets the answer.  He comes to the interviewer.  So you can't do it.  If you don't reach the end of the interview,  then he will know that"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1011.26,
+            "end": 1022.26,
+            "text": " he will be able to complete the interview.  He will know that what is the computation complexity?  This will be our work.  So if you do this type of interviewer  with this type of interviewer,"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1022.26,
+            "end": 1037.26,
+            "text": " I hope you understood this.  Best case, worst case,  average case.  I have put up a full energy in notes for you.  Literally, I have put up a full energy."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1037.26,
+            "end": 1051.26,
+            "text": " I am writing it well.  In return, I have to access notes.  Note notes, gold notes, gold.  You can't do more emphasis on the notes.  And I have made available in a free way."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1051.26,
+            "end": 1062.26,
+            "text": " All of them are for everyone.  All of them are for everyone.  All of them will be filled.  I will give it a mix here.  And if you are preparing for the gate,"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1062.26,
+            "end": 1071.26,
+            "text": " then it will be all of these things.  It is very simple.  You all have to know this.  Why are you doing this?  Okay."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1071.26,
+            "end": 1083.26,
+            "text": " I am clearing the board here.  And now I am going to write it here.  I wrote the 1 as I said.  I will write the 1 as I said.  If I write 1, then it means"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1083.26,
+            "end": 1094.26,
+            "text": " I am going to write the 1 as I said.  I wrote 1 as I said.  And I wrote 2 as I said.  What is the 2?  I was writing 1 as I said."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1094.26,
+            "end": 1106.26,
+            "text": " And now we will see how much it will be compared.  And now it will be removed.  We will see how much it will be compared.  I have given it a mix here.  I was looking up at my hand."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1106.26,
+            "end": 1120.26,
+            "text": " So 1, 5, 7, 9, 24.  This is an error.  You have to find out that the given number A is not A.  And this is my algorithm.  Now, the algorithm that is 2 is a little bit of a character."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1120.26,
+            "end": 1130.26,
+            "text": " A character is 4.  It is a mere character.  It is called a mere character.  I will not compare it.  Why should I compare it?"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1130.26,
+            "end": 1138.26,
+            "text": " I will not compare it.  Okay.  So what does it do?  It says that I will pick the first and the last element first.  I will listen carefully to the algorithm."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1138.26,
+            "end": 1152.26,
+            "text": " I will pick the first and the last element first.  I will match it.  I will match it.  And what will happen after match?  After match, I will get a match first and then the last element."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1152.26,
+            "end": 1162.26,
+            "text": " I can't do it.  Okay.  If it is done, then it is good.  But if we get a match first, then it is match.  So I have a comparison."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1162.26,
+            "end": 1180.26,
+            "text": " A size of 10 error and a size of 100 error.  A size of 2 error and a size of 10 error.  A size of 100 error.  So if we are comparing all the errors, then the best case of possibilities is the big of one.  We will run the constant time."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1180.26,
+            "end": 1191.26,
+            "text": " Let's talk about the worst case.  Okay.  But is it a little bit of a problem?  First, we are comparing it.  If we don't get a number, A doesn't get it in the number."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1191.26,
+            "end": 1200.26,
+            "text": " What will happen?  We will find an error midpoint.  Now we have an error midpoint.  You can say 7.  You can say 7."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1200.26,
+            "end": 1212.26,
+            "text": " If we have another element, then we can say 32.  You can say 7.  You can say 9.  If we can only say 4, then 7 is the midpoint.  Because we have 2 elements."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1212.26,
+            "end": 1225.26,
+            "text": " If we have 2 elements.  If we have even number of elements.  Then we can see here that there are 2-4 elements.  So it can be 7.  It can be 9."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1225.26,
+            "end": 1237.26,
+            "text": " So I can take any midpoint.  I know that I am always taking the first midpoint.  Now what I will do is that the number 7 is small or bigger.  Now it is bigger.  So it is done."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1237.26,
+            "end": 1250.26,
+            "text": " But it can be that I find 4.  If I find 4, then I see 4 small or bigger.  So I will search this area.  And I will forget it.  Because I have made the error."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1250.26,
+            "end": 1257.26,
+            "text": " I will do it from here and I will go to the middle and I will not get the number.  Okay.  So what I am doing?  I am going to make the error midpoint.  Because it is sorted."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1257.26,
+            "end": 1270.26,
+            "text": " Now I will explain one more example here.  1, 2, 3, 12, 25.  And this number is going to be going to be 50 and 100.  So you can see here that there is 100th of the limit.  You can see here."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1270.26,
+            "end": 1287.26,
+            "text": " You can see here that there is 100th of the limit.  After writing 100th of the limit, I will tell you that I will find 7 in this.  Find 7 in this.  Now if you want to find 7, then what will you do?  First and last element."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1287.26,
+            "end": 1298.26,
+            "text": " Do you have 7?  No.  If not, then you will go to midpoint.  You will get 50th of the limit.  Then you will discard all the errors from 50 to the big elements."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1299.26,
+            "end": 1311.26,
+            "text": " Now you will go to this.  Because it is 50th of the limit.  Then you will go to midpoint again.  You will go to midpoint again.  Then you will go to midpoint again."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1311.26,
+            "end": 1320.26,
+            "text": " And you will discard the rest.  Because it is not going to be big.  It will be big.  It will be big.  Then you will do the same thing again."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1320.26,
+            "end": 1330.26,
+            "text": " You will find 7 eventually.  Okay.  So you have done so many comparison.  Now you have done 3-4.  You have done a lot of comparison."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1330.26,
+            "end": 1340.26,
+            "text": " If you use L1, then you will do 100 comparison.  Or you will do 5-6.  You will do a lot of comparison.  So this algorithm is very better than L1 algorithm.  What is its worst case complexity?"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1340.26,
+            "end": 1351.26,
+            "text": " Best case complexity is also its big O of 1.  So its worst case complexity is better.  Okay.  This is what I am seeing here.  But what will be the worst case complexity?"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1351.26,
+            "end": 1375.26,
+            "text": " Look, how much you will do a comparison here.  And you will do many comparisons which are going to be released online.  Until it is finished you will find that a Similarly  Make understand in this result that you will occupy a consensus.  So you are not going to be able to finish all by half until you get saturnay for benefits."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1375.26,
+            "end": 1385.26,
+            "text": " And yougirl will be able to get right.  It will be the worst case.  The best case is needed for recommend you go to the last list for benefits.  So you are talking about the worst case.  And what will happen in the worst case?"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1385.26,
+            "end": 1396.26,
+            "text": " You will add the worst case and this will be played in half of it.  So tell me one thing.  How long you will keep adding 100 to half,  you will not be able to add that.  That means it will be made of one."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1396.26,
+            "end": 1407.26,
+            "text": " You will keep adding 100 to half.  You will not be able to add 80 to half.  You will not be able to add that.  OK?  You will be able to do once and you will be able to do 4."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1407.26,
+            "end": 1420.26,
+            "text": " You will be able to do once and you will be able to do 2.  Then you will remember 2, that will be 1.  You cannot do half. What will you do?  You cannot do half.  So, 1, 2, 3."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1420.26,
+            "end": 1430.26,
+            "text": " So, what is the 8th?  The 8th is the 3th.  How many times can you do half?  That is 3.  Okay, so how many times can you do 16?"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1430.26,
+            "end": 1441.26,
+            "text": " You can do 16 at once.  You can do 2 times, 3 times, 4 times.  So, you can do 16 at once.  Okay, so how many times can you do 2?  You can do 2 at once."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1441.26,
+            "end": 1447.26,
+            "text": " Just do 1 after that.  You can divide 2 after that.  Then, 1 will be broken.  Then, what will happen?  What will happen?"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1447.26,
+            "end": 1457.26,
+            "text": " Okay, so what is this?  So, what is the 8th?  I thought that I can do 3 times.  3 times.  I can do 16 at once."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1457.26,
+            "end": 1465.26,
+            "text": " I can do 2 at once.  But, what is this?  If I had given a name, it would be good.  Because I will do half.  So, how many times?"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1465.26,
+            "end": 1473.26,
+            "text": " It is a little strange.  So, this is the name of this.  It is a log.  Okay, so, this is a log.  So, I have told you a very good definition of log."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1473.26,
+            "end": 1482.26,
+            "text": " I didn't tell you.  And, you won't tell anyone.  I have told you a definition of this course.  I have told you a definition of this course.  I have found one of the difficult ones."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1482.26,
+            "end": 1490.26,
+            "text": " Now, you have found one.  You will appreciate the log definition.  It is a log.  And, I have written it very well in the notes.  If you will get the notes, then don't take tension."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1491.26,
+            "end": 1503.26,
+            "text": " The number of 3, 4, 2, 1 is a log.  The number of 2 is a log.  So, I can write a log here.  The number of 4 is a log of 8, 3.  You have to take it to the top."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1503.26,
+            "end": 1512.26,
+            "text": " You have to take it to the top.  Take it to the top.  You have read it in the log.  If you read it in the log, then you have to read it in the log.  So, you have to do a very good thing."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1512.26,
+            "end": 1519.26,
+            "text": " It will end up like this.  What do you say?  How many times have you been able to do this?  You have to do a log n.  So, this is the worst case complexity."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1520.26,
+            "end": 1528.26,
+            "text": " Log n.  And, you have to understand this log n.  And, you understand it.  It is very difficult.  But, I have explained the example of this."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1528.26,
+            "end": 1541.26,
+            "text": " If your fate is very bad, then you will keep doing this error.  You will keep doing it.  You will keep doing it.  Until it is almost finished.  So, this is the number of 3, 6, 6, 6, 6, 6, 6, 6."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1541.26,
+            "end": 1553.26,
+            "text": " It can be done here.  If you agree, that this was my error.  If this was my number, then I will discard the error.  And, I will convert it to the number.  But, this is the algorithm."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1553.26,
+            "end": 1567.26,
+            "text": " It search binary.  Now, in the best case, I have explained the big of 1, worst case log n.  If you have seen the last video, then it is the time complexity.  So, in that, I have told you.  For example, you are doing playless taxes."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1567.26,
+            "end": 1580.26,
+            "text": " I am telling you all, there is a link in the bottom description.  You can do bookmarking by playingless taxes.  And, in that, I have explained in the video that the log n.  It is better than 1 n.  The log n is better than n."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1580.26,
+            "end": 1593.26,
+            "text": " So, the big of n is better than the big of n square.  The big of n square is better than the big of n square.  And, this is better than the log n.  And, I have also shown the graph.  I can't say that this is the log n."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1593.26,
+            "end": 1604.26,
+            "text": " Okay.  Let's give it a comment.  And, I have explained it very well.  I think, it is very difficult to understand the log.  I think, what is the log n?"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1604.26,
+            "end": 1610.26,
+            "text": " What is the log?  What is the log?  I don't know any log.  Now, you know.  Now, you can't say."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1610.26,
+            "end": 1627.26,
+            "text": " I have told you that the log of n means how many times I do that it is over.  Almost over.  So, what is the log?  If I am a log of 100.  So, it means that I am doing it as many times as I am doing that it is almost 1."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1627.26,
+            "end": 1642.26,
+            "text": " That is your log of 100.  And, the log of 100 is obviously in your decimal.  But, I have written this thing to you to feel.  To feel that, you can't say that the log is not known to me.  Now, you know what the log is."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1642.26,
+            "end": 1652.26,
+            "text": " You can do it twice.  Once, the log is 1.  So, you can do a very big number.  You can do it half.  You can do it as many times as you can."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1652.26,
+            "end": 1662.26,
+            "text": " You can do a very big number as well.  Think about it.  If I give you 100,  you can do half and 50.  Once, the log is 5."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1662.26,
+            "end": 1673.26,
+            "text": " Once, the log is 5.  Once, the log is 5.  Once, the log is 6.  Once, the log is 5.  Once, the log is 6."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1673.26,
+            "end": 1688.26,
+            "text": " So, you can do one number as well.  I am only 6.  So, the log is very good for time.  Computer scientist is happy.  He is saying that he is getting input from the left."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1688.26,
+            "end": 1699.26,
+            "text": " And, in our time, it is only log-in.  That is, the log of input is very less.  You can take 100 log and see.  And, you can take 100 log and see.  How much number will be greater than the log?"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1699.26,
+            "end": 1715.26,
+            "text": " How much number will be greater than the log?  You have to feel that this is the right thing.  And, the log properties are like log m to the power n is equal to n log m.  You should come here.  In the time complexity,"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1715.26,
+            "end": 1727.26,
+            "text": " When you are coming to log n,  you will know that when you are coming to log n,  when you are coming to log n,  you will also see that log n.  If you are going to move something,"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1727.26,
+            "end": 1737.26,
+            "text": " you will move it.  So, log n time is equal.  What is log n time?  And, you can also animate some cases  and take a log as well."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1737.26,
+            "end": 1749.26,
+            "text": " You can take a log as well.  I will do this in a problem set.  It is a confused matter.  I will do that in a problem set.  You can make very pretty notes for me."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1749.26,
+            "end": 1759.26,
+            "text": " Everything is written.  I wrote it really well.  I wrote notes on it.  I don't know if you know the video.  I explained everything,"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1759.26,
+            "end": 1771.26,
+            "text": " but I took notes in the video.  That is really, really important.  I have just learned that  This is the only thing that you all can understand  Now here is another concept"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1771.26,
+            "end": 1780.26,
+            "text": " Our space complexity which I have written in the note  And let's go to the notes  Let's see that too  So guys these are the notes that I have written for you  I will open it like this"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1780.26,
+            "end": 1792.26,
+            "text": " But first one important thing  Because if you guys did not access my DSL  Then do it  Because I am working very hard in a video  So that you all are good at the DSL"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1792.26,
+            "end": 1806.26,
+            "text": " And learn the notes with you all  And I don't think that you have not even understood the notes and videos  You have to share your friends with your friends  I want everyone to share this playlist  And I don't want to share this playlist"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1806.26,
+            "end": 1817.26,
+            "text": " Please share it  And as you can see here  And I have written the notes that I have also told you  Before I wrote the notes  That sometimes it gets stuck in life"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1817.26,
+            "end": 1829.26,
+            "text": " Sometimes it is not stuck in life  But on an average expected case  I have seen the notes that I have also shown you  That there are two areas  One area is the algorithm"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1829.26,
+            "end": 1841.26,
+            "text": " Which is operating on the whole  A given number is to search  And given number is to search  To search best case, worst case complexity  We were looking at it"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1841.26,
+            "end": 1854.26,
+            "text": " We saw  The best case complexity of the algorithm  And worst case complexity of the algorithm  Similarly, the best case complexity of algorithm  And worst case complexity of the algorithm"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1854.26,
+            "end": 1866.26,
+            "text": " I have told you that what is the log n  And how can you feel the log n  What is the log n  When we say n square  We will understand that you will understand"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1866.26,
+            "end": 1877.26,
+            "text": " And multiply it from n square  And you will understand the n cube  But the log is not understood very well  So I have explained the log n  And from me"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1877.26,
+            "end": 1884.26,
+            "text": " You will understand the log n  Very well  I will tell you  Best case  And worst case"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1884.26,
+            "end": 1899.26,
+            "text": " These two must focus more on what you want  Look at any algorithm  Almost any algorithm  You can find it a little bit  Something that can be run in big of one"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1899.26,
+            "end": 1923.26,
+            "text": " But the worst case  So this is how good your algorithm is.  So we focus more on the worst case.  And the best case is the one we will take out.  So we focus on the worst case."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1923.26,
+            "end": 1946.26,
+            "text": " I have told you all about the notes.  Now we will talk about space complexity.  Space complexity is also equally important.  If you are filling your RAM in one time,  the space of your program is not good."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1946.26,
+            "end": 1962.26,
+            "text": " So let's talk about space complexity.  Time is not the only thing we worry about while analyzing algorithms.  Space is equally important.  So let's talk about the pre-n\u7ae0.  Creating an array of size n."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1962.26,
+            "end": 1981.26,
+            "text": " If you are creating an array of size n,  then you will get big of n space.  If you are creating size 2, size 3, size n,  then you will know that the algorithm you will create is big of n space complexity.  Now if a function calls itself recursively n times,"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 1981.26,
+            "end": 2000.26,
+            "text": " its space complexity is big of n.  Now let's talk about the big algorithm.  The big algorithm is the space of the input.  I have given it an input.  What is the time of the input?"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 2000.26,
+            "end": 2020.26,
+            "text": " What is the time of the input?  And the space of the input is 150 to 500.  The space is the graph of the space complexity.  The time complexity of the graph is the graph of the space complexity.  Creating an array of size n."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 2020.26,
+            "end": 2037.26,
+            "text": " If you are creating size n, then you will get big of n space complexity.  If a function calls itself recursively n times,  its space complexity is big of n.  That is, big of n space complexity will be created.  If you are calling recursively n times,"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 2037.26,
+            "end": 2054.26,
+            "text": " if you are creating a factor,  then I have created a quick quiz.  Calculate space complexity of a function,  which calculates factorial of a given number n.  If you are creating a factor,"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 2054.26,
+            "end": 2100.26,
+            "text": " then the stack of your memory,  the stack heap,  and initialize segment and code segment.  What will happen?  First of all, you will get a stack of factorial n."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 2100.26,
+            "end": 2114.26,
+            "text": " What is the recursively called n minus 1?  What will happen?  For n minus 1,  and till then, it will be called.  Till then, it will be called as 1."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 2114.26,
+            "end": 2130.26,
+            "text": " How many stacks are you making here?  The factorial function is 1, 2, 3, 3, 3, 3, 3, 3, 3, 3, 4, 5, 6,  or the activation records are also called as,  the number of factorials will be created,  and the same activation records will be created."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 2130.26,
+            "end": 2146.26,
+            "text": " If you are creating factorial 3 here,  then you will get three activation records.  At some given time,  the maximum memory that you will get,  you will get three stack frames."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 2146.26,
+            "end": 2158.26,
+            "text": " If you are calling three times,  similarly, if you are calling n,  then your n stack frames will be created.  So, this algorithmic space complexity is big of n.  So, I hope you have understood."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 2158.26,
+            "end": 2169.26,
+            "text": " Now, the space complexity is so much that it is asked,  as long as time complexity is asked,  but again, space complexity is also a thing.  You should know something.  Why can't we calculate complexity in seconds?"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 2169.26,
+            "end": 2180.26,
+            "text": " Why can't we calculate the complexity in seconds?  When you can run a program in a computer,  and you can find out the time,  how much time it will take.  You can't do this,"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 2180.26,
+            "end": 2190.26,
+            "text": " you can tell us in seconds,  I will give you 10 seconds,  20 seconds, 25 seconds.  You can do this too.  So, here, what I will do,"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 2190.26,
+            "end": 2202.26,
+            "text": " is not everyone's computer is equally powerful.  I will give you this argument.  Why I will give you this argument?  I am running a algorithm in my computer,  which has a processor of i7,"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 2202.26,
+            "end": 2212.26,
+            "text": " which is not a i7 processor,  and i have also set up a RAM for 30 GB.  I have set up a good graphics card,  and i have set up a very bad RAM.  And you are running in the Raspberry Pi program."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 2212.26,
+            "end": 2222.26,
+            "text": " Obviously, your Raspberry Pi,  which is in limited memory,  and the processor is still there.  It is also a very dangerous thing,  and i have made a video on the Raspberry Pi,"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 2222.26,
+            "end": 2236.26,
+            "text": " but the power of your computer is not so powerful,  but the power of your computer is out of it.  So, obviously, you will perform it out.  Your Raspberry Pi is out of it.  But, what is the problem with the MAL-GORDIM?"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 2236.26,
+            "end": 2246.26,
+            "text": " What is the problem with MAL-GORDIM?  I do not want to say that MAL-GORDIM is out of it.  I want to say that MAL-GORDIM is out of it.  How much input is caught, what is the condition?  So, what I will do?"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 2246.26,
+            "end": 2258.26,
+            "text": " I will represent it in time complexity.  Because, in different computers,  I cannot say that MAL-GORDIM is out of it.  Because, how much computation does it take?  This is your second question."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 2258.26,
+            "end": 2274.26,
+            "text": " So, I will measure the growth.  So, the SEM-DOTE analysis is the measure of how time grows with input.  Your input, as it is increasing,  how much time it will increase?  So, that is the SEM-DOTE analysis."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 2274.26,
+            "end": 2284.26,
+            "text": " So, actually, I have answered this question.  I have put it in notes.  I have explained it correctly.  I will put it in notes.  You can ask in your interview."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 2284.26,
+            "end": 2296.26,
+            "text": " And, this question has been asked in hand-reviews.  That, you are a computation complexity.  How do you do this?  When you can take out seconds,  you can make it in seconds."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 2296.26,
+            "end": 2308.26,
+            "text": " So, when you are doing this in seconds,  you can make it in seconds.  You can make it in seconds.  In some other computer, you can make it in seconds.  So, we will measure the time with input."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 2308.26,
+            "end": 2320.26,
+            "text": " That is why we calculate the computation complexity.  So, this is the note-sure access.  The link is in the description.  I don't know why people comment on this.  Where are the notes?"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 2320.26,
+            "end": 2330.26,
+            "text": " I am telling you about it.  In the description, in the comment,  you will get notes.  If you will access the playlist,  you will be able to make more."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 2330.26,
+            "end": 2340.26,
+            "text": " I have made a step-by-step video.  And, I will add all the topics in the description.  You can access the playlist.  I have added all the videos.  I am adding more videos."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 2340.26,
+            "end": 2352.26,
+            "text": " Wait a little.  You will get videos.  You can access the playlist.  I want to request you to share this playlist with your friends.  If you share it,"
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 2352.26,
+            "end": 2364.26,
+            "text": " I will get help.  I will get the notes and the answers.  I will try to make the best notes.  I will try to make the best notes.  I want you to like this video."
+        },
+        {
+            "number": "04",
+            "title": "Best Case, Worst Case and Average Case Analysis of an Algorithm (With Notes)",
+            "start": 2364.26,
+            "end": 2376.26,
+            "text": " Please like and share.  Thank you so much for watching this video.  And, I will see you next time.  Bye."
+        }
+    ],
+    "text": " You two have suffered a very good relationship, like you have realized that you have already decided to do some tests and they have shown a better Buy and Test Algoardham's life is something that is very different from other people's life. Sometimes it gets some kind of input which means that today is fun and I have solved the big of one maze Sometimes it gets some kind of input that you have to question your life and that is how much input you get and that is why you have to work so hard. Similarly, we have to define Algoardham to define this incident in life for the best case, worst case and expected case. What is this and why is this and how is this and how is this and how we will see in today's video. Along with that, I have packed one more thing in this video in the lock definition. If you have seen this video till now then you will know what is the lock. You will have to read the lock M to the power N is equal to N lock M, lock lock. But is this lock? Today's video is very good. We will clear the lock. If you will see this video, I can take the guarantee of this. But I will take the best case, worst case and expected case. First of all, I will take an Algoardham example. I will take Algo 1. What is Algoardham? We have seen some steps to solve some problems. First, I will make a very early in this course. Now what I will do here? I will make an array of Algo 1. I will say that I want an array. What is this array? First of all, what is the array? There is a number in this array. Like Malu 1, 2, 3, 9, 24. And Malu 1 and 3 are not. I mean, there is no number. I mean, do not confuse it. 1, 2, 3, 4 is not. This is a number in the increase number. This is a sorted array. I will name it. I will name it. I will name it as a parent. First, I will write it as a sorted array. And I will name it as a-r-r. Okay, what is its name? R. Now, 1579 and 24 are the numbers. This is the number in the increase number. You can see it in the increase number. If you have a little bit of a problem, then you will find out here that this increase number is written in the increase number. Now, I will say that I will give a number A. I will give a number A. And I will want you to tell me that, is this number not in the array? Now, 1 is Malu 8. So, what will be your answer? Yes, that is 1. If you have a value, sorry, your answer will be no. Because it is not in this. If the value of 1 is 9, then what will be the answer? The answer will be 0. 1. Be careful. Okay, so, this answer will be 1. Because 9 is in the number of the number of the number. You have to take a whole number here. This is a course, this is a video, this is a topic, this is a8. If the number is not present, 0. If the number is present, then 1 and so on. So, I can run this algorithm for any value. And I will expect this algorithm to be present. Tell me, what is this number in this array? I will tell you, what is the value of this algorithm? So, how will this be present? You have to do something, right? If you have a value, then what will you do? Algorithms are very massive. Like, there are some kids in the street, when they run cricket, you give them a feeling, when they play cricket, they make them a pole. So, this is the algorithm. So, a very serious person doesn't care about the brain. What will he do? He says, okay, if I want to tell you, that there is a value in this array, then what will I do? I will start comparing all the elements to one by one. Okay? I will compare it to one. I will compare it to one. I will compare it to one. I will compare it to one. Until I don't compare it to one, I will say, I will compare it to one. Okay? So, if this size is n, if this size is n, okay? I have to keep my mind open. If this algorithm is n, then how much will I compare it to? Tell me, this will be n comparisons. And when will I compare it to n? When I don't get the number, then I will get the second comparison. It can be the third comparison. If I get the number, then I will tell you, that the number is n, okay? Then I will tell you, now, I will compare it to one by one. Now, is this the best way to do this? Obviously not, because the algorithm is a very simple person, who is more demanding than this, then they will compare it to all the numbers. So, I have written the algorithm here. But, in the life of the algorithm, if the luck is going on, then what will happen if the luck is going on? The luck of the luck is going on. If the luck of the luck is going on, then what will happen? The first one will get the number in the array element. If this lucky algorithm will get the number, then it will get the number, and the first comparison will be, yes, this is the magic. In one comparison, if you compare it to one by three or five, then it will be in one comparison. So, if I say that the algorithm is the best case of the algorithm, then what is the best case of the algorithm? So, I will write, what is the best case of the complexities? So, how much is the comparison? 1 is the comparison. Okay? So, it is constant. Okay? Be careful. Because, in that case, the time will be applied. What will it be? The number of the algorithm is going on in one comparison. Okay? The number of the algorithm is going on in one comparison. So, how much time is it going on? So, how much time is it going on? How much time will it be applied? For the array of size? Malu, 2. Now, how much time is it going on for the array of size? It will not be applied. It is comparison. It is increasing the array. So, the array size, as it is getting thicker, and, as it is getting thicker, it is not getting any further algorithm's best case. It is taking the same time, I will compare it to the first one. Because, this is a such element, compared to the first element, that is, this element is coming here. It is going to be compared, so, it is not necessary to do anything. It has given a answer in one comparison. So, this is its good algorithm. It is the algorithm. If it is the algorithm, it is going to be time-like. So, I will write here, t is equal to k. Okay? tn is equal to k. That is, it is not depending on n. The array of size is not going on in one, the array of size is not going on in one, so, how many more, how many more, it is going to be compared to the first element, that is, it is getting thicker. Now, the algorithm has gone, it is getting thicker. Now, it is getting thicker. I will say, if the algorithm is the most thick, then, in the worst case, you will be able to compare it to the first one. So, what will be the complexity? So, how much time will it take? nk. I have done it, so, in the best case, the worst case, the worst case, the worst case, you are telling us about it in the post-cars. It cannot be done with this, it is going to be a big problem. It is going to be a big problem, if it is going to be a big problem, it will be a big problem, it will be a big problem, the complexity is also a big problem. Okay? Cool. Now, let me tell you a very important thing. What will happen to this? How will you take it? In the first case, you will understand the best case. You will understand the worst case. What happens to the average case? I will tell you what happens. The average case complexity is, it is a big problem. Total number of possibilities is the sum of the time. So, here, sum of all possible runtimes. All possible runtimes divided by total number of possibilities. Tee, sir. Okay? Possibilities. Okay? Sum of all possible runtimes divided by total number of possibilities. How big, oh! How big, oh! Okay? What is the value of this? What is it? Okay, I will tell you. I will calculate it for this case. Okay? So, if I calculate it for this case, I will come here. I have this space. 157924. Now, what is the possibility for this area? Possibility number 1. The element that was here was found to search. So, how much will it compare? It will only compare. Only one. The second case is found here. It is to search the element. The third case is to search the element. The fourth case is to search the element. The fifth case is to search the element. And the sixth case is to search the element. The one that was not in it. The one that was not in it. Okay? Now, see. 1, 2, 3, 4, 5. The fifth case is to make a 6 case for size. Because, there is a case that is also being made. There is an element that is not in it. There is one or the other. There will be 5 or 7 or 9. There will be 4. There will be 3 or 4. And it will not compare. So, the total number of possibilities is to me. So, I have this average case. I am coming here. Okay? I found the denominator. I will write time here. I will also write N plus 1. If I am writing the size of N plus 1, then there is one possibility. N possibilities are that the first element of the second element of the third is the number of the second element of the third. And, what is the possibility that there is no such element in the second element? Okay? So, N plus 1 possibility is there. Now, see, what are written above? Some of all possible runtimes. So, if the element is here, then we have to compare it. It is the exact location where we can make a comparison of both. If we live in an element here, how many comparison there will we have? We have to make a comparison of two. How many comparison can we make the number twice? We have two, two from the second and then a comparison of the two will be so. Then we will have to compare the remaining half. There we have a number of competing parts here. So, we will have to write a number twice or three in total. If it is here, we must make it very much for comparison of two of them. And, it is not in these spillings, we will have to make it as the comparison of two to the third part. Okay? So what will happen here? First of all, I will take a common, 1 plus 2 plus 3 plus plus n plus n. I have removed this because this is a different, this is different. Why do I tell this? This is a 2, 3, 4, 5, 6, 7, 9, 10, and n is going to go up. And this is another difference because one case can happen when the element is not in it. I will write this in a common case. I have also written that case. And I have taken a common, 1 plus 1 plus n plus 1 plus n plus 1. Let me see what happens here. What I will write here? I will write this here. What will happen here? What happens to 1? What happens to 1? What will happen to 1 plus n plus 1 by 2? What will happen to 1? This is the time. This is n plus 1 by 2. I will write here. 1 plus 2 plus 3 plus n is equal to n plus 1 by 2. If n is equal to 1, then 1 will come here. And n is equal to 2 will come here. So 3 will come here. If n is equal to 3, then 6 will come. That is, n is equal to 6. If n is equal to 3, then 3 will come. So this formula is the sum of this A. What is the sum of this A? What is the sum of this A? What is the arithmetic progression? If you don't know what is the A? You should come here. You see on the internet, there are many formulas. And when you get the question of B. So A is also made in G.P. What is G? G.P is geometric progression. So A and G.P is equal to important. So you can see the A and G.P from the point of view. Now I will come back. What I have done here. This formula is made like this. Now what I will do? Tell me something. This term is my first term. This is the combination of two terms. One is the combination of n and n. And the combination of n and n. Now I will take the complexity when I get it. So what is the dominant term? What is the non-dominant term? Obviously, the top term. I will write it in the whole polynomial. First I write the whole polynomial in the polynomial. I will write n square. And I will write here plus n plus 2n divided by 2. n plus 1. Okay, I will write it like this. Now tell me something. This n square plus n is here. And this is 2n. So what is my n square plus n? In front of it, n square plus n will be the dominant term. The dominant term will be 2n. Obviously n square plus n will be the dominant term. That is why I can remove 2n. I can remove n even if I want. But I will not remove it. Why? So I will remove 2n. Okay, I will write it like this. I will write it here. Non-dominant term. Because when n value is very big, then 2n n square plus n will not be standing in front of it. n square plus n. I have to go to the bottom of 2n. Always n square plus 1. n square plus n square will be above it. 2n for sufficiently large value of n. Okay, so what I have removed. I will write n in this. This will be k n n plus 1 divided by 2n plus 1. n plus 1 divided by 1. This is k n by 2. And this is big of n. Because k by 2 is a constant. I will remove it too. Because it is a constant. So what will be the average case complexity of this? Big of n. So this is how it is. What is the average case complexity? What is the average case complexity? I have also shown it to you. Now I will tell you one thing. The average case complexity is that it has been formulaed that all possible runtimes divided by total number of possibilities. Will this always be possible for you? Will you not be able to remove the average case complexity? No, it will never happen. Because you will never be able to eliminate all possible runtimes in a finite amount of time. Because when you ask questions in the interview, it will be difficult for you to get it. If you have to calculate it, this is the average case time. For a unique algorithm, generally it is not asked. You can ask this kind of algorithm for simple algorithm. If you compare all this, what will be the average case complexity? And if you write the formula, try to do this. So the interviewer gets the answer. He comes to the interviewer. So you can't do it. If you don't reach the end of the interview, then he will know that he will be able to complete the interview. He will know that what is the computation complexity? This will be our work. So if you do this type of interviewer with this type of interviewer, I hope you understood this. Best case, worst case, average case. I have put up a full energy in notes for you. Literally, I have put up a full energy. I am writing it well. In return, I have to access notes. Note notes, gold notes, gold. You can't do more emphasis on the notes. And I have made available in a free way. All of them are for everyone. All of them are for everyone. All of them will be filled. I will give it a mix here. And if you are preparing for the gate, then it will be all of these things. It is very simple. You all have to know this. Why are you doing this? Okay. I am clearing the board here. And now I am going to write it here. I wrote the 1 as I said. I will write the 1 as I said. If I write 1, then it means I am going to write the 1 as I said. I wrote 1 as I said. And I wrote 2 as I said. What is the 2? I was writing 1 as I said. And now we will see how much it will be compared. And now it will be removed. We will see how much it will be compared. I have given it a mix here. I was looking up at my hand. So 1, 5, 7, 9, 24. This is an error. You have to find out that the given number A is not A. And this is my algorithm. Now, the algorithm that is 2 is a little bit of a character. A character is 4. It is a mere character. It is called a mere character. I will not compare it. Why should I compare it? I will not compare it. Okay. So what does it do? It says that I will pick the first and the last element first. I will listen carefully to the algorithm. I will pick the first and the last element first. I will match it. I will match it. And what will happen after match? After match, I will get a match first and then the last element. I can't do it. Okay. If it is done, then it is good. But if we get a match first, then it is match. So I have a comparison. A size of 10 error and a size of 100 error. A size of 2 error and a size of 10 error. A size of 100 error. So if we are comparing all the errors, then the best case of possibilities is the big of one. We will run the constant time. Let's talk about the worst case. Okay. But is it a little bit of a problem? First, we are comparing it. If we don't get a number, A doesn't get it in the number. What will happen? We will find an error midpoint. Now we have an error midpoint. You can say 7. You can say 7. If we have another element, then we can say 32. You can say 7. You can say 9. If we can only say 4, then 7 is the midpoint. Because we have 2 elements. If we have 2 elements. If we have even number of elements. Then we can see here that there are 2-4 elements. So it can be 7. It can be 9. So I can take any midpoint. I know that I am always taking the first midpoint. Now what I will do is that the number 7 is small or bigger. Now it is bigger. So it is done. But it can be that I find 4. If I find 4, then I see 4 small or bigger. So I will search this area. And I will forget it. Because I have made the error. I will do it from here and I will go to the middle and I will not get the number. Okay. So what I am doing? I am going to make the error midpoint. Because it is sorted. Now I will explain one more example here. 1, 2, 3, 12, 25. And this number is going to be going to be 50 and 100. So you can see here that there is 100th of the limit. You can see here. You can see here that there is 100th of the limit. After writing 100th of the limit, I will tell you that I will find 7 in this. Find 7 in this. Now if you want to find 7, then what will you do? First and last element. Do you have 7? No. If not, then you will go to midpoint. You will get 50th of the limit. Then you will discard all the errors from 50 to the big elements. Now you will go to this. Because it is 50th of the limit. Then you will go to midpoint again. You will go to midpoint again. Then you will go to midpoint again. And you will discard the rest. Because it is not going to be big. It will be big. It will be big. Then you will do the same thing again. You will find 7 eventually. Okay. So you have done so many comparison. Now you have done 3-4. You have done a lot of comparison. If you use L1, then you will do 100 comparison. Or you will do 5-6. You will do a lot of comparison. So this algorithm is very better than L1 algorithm. What is its worst case complexity? Best case complexity is also its big O of 1. So its worst case complexity is better. Okay. This is what I am seeing here. But what will be the worst case complexity? Look, how much you will do a comparison here. And you will do many comparisons which are going to be released online. Until it is finished you will find that a Similarly Make understand in this result that you will occupy a consensus. So you are not going to be able to finish all by half until you get saturnay for benefits. And yougirl will be able to get right. It will be the worst case. The best case is needed for recommend you go to the last list for benefits. So you are talking about the worst case. And what will happen in the worst case? You will add the worst case and this will be played in half of it. So tell me one thing. How long you will keep adding 100 to half, you will not be able to add that. That means it will be made of one. You will keep adding 100 to half. You will not be able to add 80 to half. You will not be able to add that. OK? You will be able to do once and you will be able to do 4. You will be able to do once and you will be able to do 2. Then you will remember 2, that will be 1. You cannot do half. What will you do? You cannot do half. So, 1, 2, 3. So, what is the 8th? The 8th is the 3th. How many times can you do half? That is 3. Okay, so how many times can you do 16? You can do 16 at once. You can do 2 times, 3 times, 4 times. So, you can do 16 at once. Okay, so how many times can you do 2? You can do 2 at once. Just do 1 after that. You can divide 2 after that. Then, 1 will be broken. Then, what will happen? What will happen? Okay, so what is this? So, what is the 8th? I thought that I can do 3 times. 3 times. I can do 16 at once. I can do 2 at once. But, what is this? If I had given a name, it would be good. Because I will do half. So, how many times? It is a little strange. So, this is the name of this. It is a log. Okay, so, this is a log. So, I have told you a very good definition of log. I didn't tell you. And, you won't tell anyone. I have told you a definition of this course. I have told you a definition of this course. I have found one of the difficult ones. Now, you have found one. You will appreciate the log definition. It is a log. And, I have written it very well in the notes. If you will get the notes, then don't take tension. The number of 3, 4, 2, 1 is a log. The number of 2 is a log. So, I can write a log here. The number of 4 is a log of 8, 3. You have to take it to the top. You have to take it to the top. Take it to the top. You have read it in the log. If you read it in the log, then you have to read it in the log. So, you have to do a very good thing. It will end up like this. What do you say? How many times have you been able to do this? You have to do a log n. So, this is the worst case complexity. Log n. And, you have to understand this log n. And, you understand it. It is very difficult. But, I have explained the example of this. If your fate is very bad, then you will keep doing this error. You will keep doing it. You will keep doing it. Until it is almost finished. So, this is the number of 3, 6, 6, 6, 6, 6, 6, 6. It can be done here. If you agree, that this was my error. If this was my number, then I will discard the error. And, I will convert it to the number. But, this is the algorithm. It search binary. Now, in the best case, I have explained the big of 1, worst case log n. If you have seen the last video, then it is the time complexity. So, in that, I have told you. For example, you are doing playless taxes. I am telling you all, there is a link in the bottom description. You can do bookmarking by playingless taxes. And, in that, I have explained in the video that the log n. It is better than 1 n. The log n is better than n. So, the big of n is better than the big of n square. The big of n square is better than the big of n square. And, this is better than the log n. And, I have also shown the graph. I can't say that this is the log n. Okay. Let's give it a comment. And, I have explained it very well. I think, it is very difficult to understand the log. I think, what is the log n? What is the log? What is the log? I don't know any log. Now, you know. Now, you can't say. I have told you that the log of n means how many times I do that it is over. Almost over. So, what is the log? If I am a log of 100. So, it means that I am doing it as many times as I am doing that it is almost 1. That is your log of 100. And, the log of 100 is obviously in your decimal. But, I have written this thing to you to feel. To feel that, you can't say that the log is not known to me. Now, you know what the log is. You can do it twice. Once, the log is 1. So, you can do a very big number. You can do it half. You can do it as many times as you can. You can do a very big number as well. Think about it. If I give you 100, you can do half and 50. Once, the log is 5. Once, the log is 5. Once, the log is 5. Once, the log is 6. Once, the log is 5. Once, the log is 6. So, you can do one number as well. I am only 6. So, the log is very good for time. Computer scientist is happy. He is saying that he is getting input from the left. And, in our time, it is only log-in. That is, the log of input is very less. You can take 100 log and see. And, you can take 100 log and see. How much number will be greater than the log? How much number will be greater than the log? You have to feel that this is the right thing. And, the log properties are like log m to the power n is equal to n log m. You should come here. In the time complexity, When you are coming to log n, you will know that when you are coming to log n, when you are coming to log n, you will also see that log n. If you are going to move something, you will move it. So, log n time is equal. What is log n time? And, you can also animate some cases and take a log as well. You can take a log as well. I will do this in a problem set. It is a confused matter. I will do that in a problem set. You can make very pretty notes for me. Everything is written. I wrote it really well. I wrote notes on it. I don't know if you know the video. I explained everything, but I took notes in the video. That is really, really important. I have just learned that This is the only thing that you all can understand Now here is another concept Our space complexity which I have written in the note And let's go to the notes Let's see that too So guys these are the notes that I have written for you I will open it like this But first one important thing Because if you guys did not access my DSL Then do it Because I am working very hard in a video So that you all are good at the DSL And learn the notes with you all And I don't think that you have not even understood the notes and videos You have to share your friends with your friends I want everyone to share this playlist And I don't want to share this playlist Please share it And as you can see here And I have written the notes that I have also told you Before I wrote the notes That sometimes it gets stuck in life Sometimes it is not stuck in life But on an average expected case I have seen the notes that I have also shown you That there are two areas One area is the algorithm Which is operating on the whole A given number is to search And given number is to search To search best case, worst case complexity We were looking at it We saw The best case complexity of the algorithm And worst case complexity of the algorithm Similarly, the best case complexity of algorithm And worst case complexity of the algorithm I have told you that what is the log n And how can you feel the log n What is the log n When we say n square We will understand that you will understand And multiply it from n square And you will understand the n cube But the log is not understood very well So I have explained the log n And from me You will understand the log n Very well I will tell you Best case And worst case These two must focus more on what you want Look at any algorithm Almost any algorithm You can find it a little bit Something that can be run in big of one But the worst case So this is how good your algorithm is. So we focus more on the worst case. And the best case is the one we will take out. So we focus on the worst case. I have told you all about the notes. Now we will talk about space complexity. Space complexity is also equally important. If you are filling your RAM in one time, the space of your program is not good. So let's talk about space complexity. Time is not the only thing we worry about while analyzing algorithms. Space is equally important. So let's talk about the pre-n\u7ae0. Creating an array of size n. If you are creating an array of size n, then you will get big of n space. If you are creating size 2, size 3, size n, then you will know that the algorithm you will create is big of n space complexity. Now if a function calls itself recursively n times, its space complexity is big of n. Now let's talk about the big algorithm. The big algorithm is the space of the input. I have given it an input. What is the time of the input? What is the time of the input? And the space of the input is 150 to 500. The space is the graph of the space complexity. The time complexity of the graph is the graph of the space complexity. Creating an array of size n. If you are creating size n, then you will get big of n space complexity. If a function calls itself recursively n times, its space complexity is big of n. That is, big of n space complexity will be created. If you are calling recursively n times, if you are creating a factor, then I have created a quick quiz. Calculate space complexity of a function, which calculates factorial of a given number n. If you are creating a factor, then the stack of your memory, the stack heap, and initialize segment and code segment. What will happen? First of all, you will get a stack of factorial n. What is the recursively called n minus 1? What will happen? For n minus 1, and till then, it will be called. Till then, it will be called as 1. How many stacks are you making here? The factorial function is 1, 2, 3, 3, 3, 3, 3, 3, 3, 3, 4, 5, 6, or the activation records are also called as, the number of factorials will be created, and the same activation records will be created. If you are creating factorial 3 here, then you will get three activation records. At some given time, the maximum memory that you will get, you will get three stack frames. If you are calling three times, similarly, if you are calling n, then your n stack frames will be created. So, this algorithmic space complexity is big of n. So, I hope you have understood. Now, the space complexity is so much that it is asked, as long as time complexity is asked, but again, space complexity is also a thing. You should know something. Why can't we calculate complexity in seconds? Why can't we calculate the complexity in seconds? When you can run a program in a computer, and you can find out the time, how much time it will take. You can't do this, you can tell us in seconds, I will give you 10 seconds, 20 seconds, 25 seconds. You can do this too. So, here, what I will do, is not everyone's computer is equally powerful. I will give you this argument. Why I will give you this argument? I am running a algorithm in my computer, which has a processor of i7, which is not a i7 processor, and i have also set up a RAM for 30 GB. I have set up a good graphics card, and i have set up a very bad RAM. And you are running in the Raspberry Pi program. Obviously, your Raspberry Pi, which is in limited memory, and the processor is still there. It is also a very dangerous thing, and i have made a video on the Raspberry Pi, but the power of your computer is not so powerful, but the power of your computer is out of it. So, obviously, you will perform it out. Your Raspberry Pi is out of it. But, what is the problem with the MAL-GORDIM? What is the problem with MAL-GORDIM? I do not want to say that MAL-GORDIM is out of it. I want to say that MAL-GORDIM is out of it. How much input is caught, what is the condition? So, what I will do? I will represent it in time complexity. Because, in different computers, I cannot say that MAL-GORDIM is out of it. Because, how much computation does it take? This is your second question. So, I will measure the growth. So, the SEM-DOTE analysis is the measure of how time grows with input. Your input, as it is increasing, how much time it will increase? So, that is the SEM-DOTE analysis. So, actually, I have answered this question. I have put it in notes. I have explained it correctly. I will put it in notes. You can ask in your interview. And, this question has been asked in hand-reviews. That, you are a computation complexity. How do you do this? When you can take out seconds, you can make it in seconds. So, when you are doing this in seconds, you can make it in seconds. You can make it in seconds. In some other computer, you can make it in seconds. So, we will measure the time with input. That is why we calculate the computation complexity. So, this is the note-sure access. The link is in the description. I don't know why people comment on this. Where are the notes? I am telling you about it. In the description, in the comment, you will get notes. If you will access the playlist, you will be able to make more. I have made a step-by-step video. And, I will add all the topics in the description. You can access the playlist. I have added all the videos. I am adding more videos. Wait a little. You will get videos. You can access the playlist. I want to request you to share this playlist with your friends. If you share it, I will get help. I will get the notes and the answers. I will try to make the best notes. I will try to make the best notes. I want you to like this video. Please like and share. Thank you so much for watching this video. And, I will see you next time. Bye."
+}

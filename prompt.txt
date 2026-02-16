@@ -1,0 +1,15 @@
+I am teaching DSA data structures and algorithms course for placement preparation.
+Here are video subtitle chunks containing video title, video number, start time in seconds, end time in seconds, and the text of the chunk.
+
+Chunks:
+[{"title":"Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching","number":"09","start":137.0,"end":152.0,"text":" I will show you the simple form loop.  Now if I tell you the definition of traversal.  If you ask me what is traversal?  I will not say this.  Now I will tell you the meaning of traversal."},{"title":"Coding Insertion Operation in Array in Data Structures in C language","number":"10","start":103.0,"end":116.0,"text":" As I told you before, I will not tell you the Traversal.  If you want, I will tell you the Traversal.  It is an address.  There are 4 elements.  There is a 4 loop."},{"title":"Coding Insertion Operation in Array in Data Structures in C language","number":"10","start":746.0,"end":760.0,"text":" Here, it is the root of the traversal.  And here, it is the root of insertion.  So, I will write this as traversal.  Code for traversal.  And I will write this as code for insertion."},{"title":"Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching","number":"09","start":462.14,"end":471.14,"text":" In traversal,  we will use 5-4,  we will use all the elements.  We will use them all.  So what can you do?"},{"title":"Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching","number":"09","start":76.0,"end":91.0,"text":" Now the traversal is easier to do.  The second one is 2mdb2.  This is the first time I have come here.  But I have to tell you the name of the traversal.  I will not discuss the traversal."}]
+
+-------------------------------------
+
+User Question:
+"where is traversal explained"
+
+Please use ONLY the information in these chunks to answer the question.
+Mention the video title and timestamp in your answer.
+If you don't know the answer, say you don't know.
+If user asks unrelated question, tell him that you can only answer questions related to the content of the videos.

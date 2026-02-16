@@ -1,0 +1,4373 @@
+{
+    "chunks": [
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 0.0,
+            "end": 6.66,
+            "text": " So guys, in this course of data structures, we read about the abstract data type."
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 6.66,
+            "end": 9.9,
+            "text": " And you guys have understood that abstract data type is not something,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 9.9,
+            "end": 12.4,
+            "text": " it is just an influx of a new data type,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 12.4,
+            "end": 18.3,
+            "text": " which we defined some of our set of values and operations."
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 18.3,
+            "end": 24.740000000000002,
+            "text": " Now abstract data type is the type that we can link to the object to the 20th programming."
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 24.74,
+            "end": 28.839999999999996,
+            "text": " The abstract data type was made to make a custom data type,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 28.839999999999996,
+            "end": 34.18,
+            "text": " that you can make your user the data type of the work of its user."
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 34.18,
+            "end": 37.3,
+            "text": " Now what I have done here is to make a one node notebook."
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 37.3,
+            "end": 39.64,
+            "text": " I have made a folder of a notebook called folder."
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 39.64,
+            "end": 42.739999999999995,
+            "text": " I want to show you the folder of the folder in the form I am doing."
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 42.739999999999995,
+            "end": 45.44,
+            "text": " Because when I zip it and then I will give you this thing,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 45.44,
+            "end": 47.54,
+            "text": " then you will know where it is and what is the work."
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 47.54,
+            "end": 49.84,
+            "text": " So I have made a one node notebook."
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 49.84,
+            "end": 53.34,
+            "text": " And here algorithm is called one node notebook,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 53.440000000000005,
+            "end": 55.440000000000005,
+            "text": " I will make all the notebooks of this."
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 55.440000000000005,
+            "end": 59.440000000000005,
+            "text": " I have solved the time complexity of this question."
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 59.440000000000005,
+            "end": 63.24,
+            "text": " Now I will make a new section, I will name it,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 63.24,
+            "end": 67.74000000000001,
+            "text": " ADTs and continue here, the discussion of ADTs."
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 67.74000000000001,
+            "end": 71.04,
+            "text": " So what I will do here is a pen, first of all,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 71.04,
+            "end": 74.24000000000001,
+            "text": " and I will tell you about ADTs."
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 74.24000000000001,
+            "end": 79.74000000000001,
+            "text": " So ADTs first, we will write once more that the ADTs are here."
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 79.83999999999999,
+            "end": 82.64,
+            "text": " I will write here, I will take a line here,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 82.64,
+            "end": 84.64,
+            "text": " the rule line looks good,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 84.64,
+            "end": 89.64,
+            "text": " so I will write ADTs here,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 89.64,
+            "end": 91.64,
+            "text": " I will write ADT here,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 91.64,
+            "end": 94.14,
+            "text": " and it will be a little bit easier to write it in this way,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 94.14,
+            "end": 96.63999999999999,
+            "text": " so you will write it in a little bit,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 96.63999999999999,
+            "end": 99.14,
+            "text": " okay, so I will write ADTs here."
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 99.14,
+            "end": 101.64,
+            "text": " Now what are the ADTs?"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 101.64,
+            "end": 105.64,
+            "text": " I will write here, what are the ADTs?"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 105.74,
+            "end": 109.54,
+            "text": " ADTs are our first set of values,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 109.54,
+            "end": 112.04,
+            "text": " okay, set of values,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 112.04,
+            "end": 115.54,
+            "text": " plus set of operations on them,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 115.54,
+            "end": 117.54,
+            "text": " okay, plus set of operations,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 117.54,
+            "end": 119.54,
+            "text": " and what is the meaning of this?"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 119.54,
+            "end": 121.54,
+            "text": " We will do a work here,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 121.54,
+            "end": 124.54,
+            "text": " we will compare it here in data types,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 124.54,
+            "end": 127.54,
+            "text": " okay, so I will tell you about the indita type,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 127.54,
+            "end": 130.54,
+            "text": " which we know, our integer data type,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 130.54,
+            "end": 133.54,
+            "text": " which indita type is what we know,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 133.54,
+            "end": 136.44,
+            "text": " you can store, you can store it in 10,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 136.44,
+            "end": 138.44,
+            "text": " you can store it in 12,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 138.44,
+            "end": 140.44,
+            "text": " you can store it in any integer,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 140.44,
+            "end": 143.44,
+            "text": " what when you write 9 plus 12,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 143.44,
+            "end": 145.44,
+            "text": " and you get a 1st answer,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 145.44,
+            "end": 147.44,
+            "text": " do you know how this came,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 147.44,
+            "end": 149.44,
+            "text": " how this 1st answer came,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 149.44,
+            "end": 153.44,
+            "text": " now look, the computer in this integer stored,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 153.44,
+            "end": 155.44,
+            "text": " it is 0 and 1 form stored,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 155.44,
+            "end": 156.44,
+            "text": " you know,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 156.44,
+            "end": 158.44,
+            "text": " whenever you have stored,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 158.44,
+            "end": 160.44,
+            "text": " there will be a decimal value,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 160.44,
+            "end": 161.44,
+            "text": " in your computer,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 161.44,
+            "end": 163.44,
+            "text": " there are some bits stored in your computer,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 163.44,
+            "end": 164.44,
+            "text": " you have to do operation,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 164.44,
+            "end": 165.44,
+            "text": " they are integers,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 165.44,
+            "end": 167.44,
+            "text": " but what is the plus operator here,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 167.44,
+            "end": 169.44,
+            "text": " okay, this is an operator,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 169.44,
+            "end": 170.44,
+            "text": " nothing else,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 170.44,
+            "end": 171.44,
+            "text": " now this operator,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 171.44,
+            "end": 172.44,
+            "text": " like a human,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 172.44,
+            "end": 173.44,
+            "text": " it will not be connected,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 173.44,
+            "end": 174.44,
+            "text": " it will not be connected,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 174.44,
+            "end": 175.44,
+            "text": " just keep 12 here,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 175.44,
+            "end": 176.44,
+            "text": " keep 9 here,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 176.44,
+            "end": 178.44,
+            "text": " place the plus sign here,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 178.44,
+            "end": 179.44,
+            "text": " it will be 9,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 179.44,
+            "end": 180.44,
+            "text": " 11,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 180.44,
+            "end": 181.44,
+            "text": " 1 carry over,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 181.44,
+            "end": 183.44,
+            "text": " and this is not the calculation of human,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 183.44,
+            "end": 185.44,
+            "text": " this is the operation in bits,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 185.44,
+            "end": 187.44,
+            "text": " and this is the way it is,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 187.44,
+            "end": 189.44,
+            "text": " to perform operations,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 189.44,
+            "end": 190.44,
+            "text": " now here,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 190.44,
+            "end": 192.44,
+            "text": " what is the 9 plus 12,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 192.44,
+            "end": 194.44,
+            "text": " but we do not know,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 194.44,
+            "end": 195.44,
+            "text": " how this 1st answer came,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 195.44,
+            "end": 196.44,
+            "text": " that is,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 196.44,
+            "end": 198.44,
+            "text": " this detail is abstracted,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 198.44,
+            "end": 199.44,
+            "text": " what is it?"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 199.44,
+            "end": 200.44,
+            "text": " details abstracted,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 200.44,
+            "end": 201.44,
+            "text": " let me write it,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 201.44,
+            "end": 204.44,
+            "text": " details are abstracted,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 204.44,
+            "end": 206.44,
+            "text": " so details,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 206.44,
+            "end": 207.44,
+            "text": " abstracted,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 207.44,
+            "end": 209.44,
+            "text": " okay, so details are abstracted,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 209.44,
+            "end": 211.44,
+            "text": " we have hidden it from us,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 211.44,
+            "end": 213.44,
+            "text": " and we do not know,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 213.44,
+            "end": 214.44,
+            "text": " how it happened,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 214.44,
+            "end": 215.44,
+            "text": " but yes,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 215.44,
+            "end": 216.44,
+            "text": " we know,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 216.44,
+            "end": 217.44,
+            "text": " what happened,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 217.44,
+            "end": 218.44,
+            "text": " and we know,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 218.44,
+            "end": 219.44,
+            "text": " the answer we get,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 219.44,
+            "end": 220.44,
+            "text": " the 1st answer,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 220.44,
+            "end": 221.44,
+            "text": " the 1st answer,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 251.44,
+            "end": 252.44,
+            "text": " I am saying,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 252.44,
+            "end": 253.44,
+            "text": " my mind is,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 253.44,
+            "end": 255.44,
+            "text": " inside it,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 255.44,
+            "end": 258.44,
+            "text": " I want to keep it in this way,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 258.44,
+            "end": 260.44,
+            "text": " that it is an area,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 260.44,
+            "end": 262.44,
+            "text": " and it is a total size,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 262.44,
+            "end": 265.44,
+            "text": " total size,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 265.44,
+            "end": 267.44,
+            "text": " along with it,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 267.44,
+            "end": 268.44,
+            "text": " it is a used size,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 268.44,
+            "end": 270.44,
+            "text": " and I will tell you about it,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 270.44,
+            "end": 272.44,
+            "text": " I have defined this identity,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 272.44,
+            "end": 273.44,
+            "text": " used size,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 273.44,
+            "end": 275.44,
+            "text": " and after that,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 275.44,
+            "end": 277.44,
+            "text": " a dress,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 277.44,
+            "end": 278.44,
+            "text": " a base address,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 278.44,
+            "end": 280.44,
+            "text": " I should write a base address here,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 280.44,
+            "end": 281.44,
+            "text": " I will write a base address,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 281.44,
+            "end": 282.44,
+            "text": " a base address or a pointer,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 282.44,
+            "end": 284.44,
+            "text": " so I will write a base address,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 284.44,
+            "end": 285.44,
+            "text": " a base address,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 285.44,
+            "end": 287.44,
+            "text": " which is the base address,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 287.44,
+            "end": 288.44,
+            "text": " that is,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 288.44,
+            "end": 290.44,
+            "text": " a base address,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 290.44,
+            "end": 292.44,
+            "text": " so what will I do,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 292.44,
+            "end": 294.44,
+            "text": " I will represent this data,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 294.44,
+            "end": 295.44,
+            "text": " okay,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 295.44,
+            "end": 296.44,
+            "text": " my mind is,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 296.44,
+            "end": 297.44,
+            "text": " the identity is,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 297.44,
+            "end": 298.44,
+            "text": " the set of values,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 298.44,
+            "end": 300.44,
+            "text": " the representation is,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 300.44,
+            "end": 301.44,
+            "text": " okay,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 301.44,
+            "end": 302.44,
+            "text": " I will do this,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 302.44,
+            "end": 303.44,
+            "text": " and I will write it,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 303.44,
+            "end": 304.44,
+            "text": " plus,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 304.44,
+            "end": 306.44,
+            "text": " the set of operations,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 306.44,
+            "end": 308.44,
+            "text": " I can define some operations,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 308.44,
+            "end": 309.44,
+            "text": " what operations,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 309.44,
+            "end": 310.44,
+            "text": " what operations,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 310.44,
+            "end": 311.44,
+            "text": " what operations,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 311.44,
+            "end": 312.44,
+            "text": " what operations,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 312.44,
+            "end": 313.44,
+            "text": " what I can define,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 313.44,
+            "end": 314.44,
+            "text": " what I can define,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 314.44,
+            "end": 315.44,
+            "text": " what I can define,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 315.44,
+            "end": 316.44,
+            "text": " how I can,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 316.44,
+            "end": 317.44,
+            "text": " I will say,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 317.44,
+            "end": 319.44,
+            "text": " I want a get operation,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 319.44,
+            "end": 321.44,
+            "text": " then set operation,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 321.44,
+            "end": 322.44,
+            "text": " what will I do,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 322.44,
+            "end": 324.44,
+            "text": " I will come in the get,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 324.44,
+            "end": 326.44,
+            "text": " because I want that index,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 326.44,
+            "end": 328.44,
+            "text": " whatever I want,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 328.44,
+            "end": 330.44,
+            "text": " I want to take value in this area,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 330.44,
+            "end": 332.44,
+            "text": " then I want to set the item index,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 332.44,
+            "end": 333.44,
+            "text": " from this number,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 333.44,
+            "end": 335.44,
+            "text": " then along with it,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 335.44,
+            "end": 336.44,
+            "text": " I have also told you,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 336.44,
+            "end": 337.44,
+            "text": " operations,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 337.44,
+            "end": 338.44,
+            "text": " now,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 338.44,
+            "end": 340.44,
+            "text": " if I want to add,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 340.44,
+            "end": 342.44,
+            "text": " and I want to add,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 342.44,
+            "end": 343.44,
+            "text": " then I want to add,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 343.44,
+            "end": 344.44,
+            "text": " and return,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 344.44,
+            "end": 345.44,
+            "text": " and return,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 345.44,
+            "end": 346.44,
+            "text": " then,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 346.44,
+            "end": 347.44,
+            "text": " this way,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 347.44,
+            "end": 348.44,
+            "text": " operations,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 348.44,
+            "end": 349.44,
+            "text": " we can define a lot,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 349.44,
+            "end": 350.44,
+            "text": " and we can make our custom data type,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 350.44,
+            "end": 351.44,
+            "text": " so,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 351.44,
+            "end": 352.44,
+            "text": " abstract data type,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 352.44,
+            "end": 353.44,
+            "text": " I have made a new area,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 353.44,
+            "end": 354.44,
+            "text": " but here,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 354.44,
+            "end": 355.44,
+            "text": " once again,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 355.44,
+            "end": 357.44,
+            "text": " I want to go to that detail,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 357.44,
+            "end": 358.44,
+            "text": " in which I told you,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 358.44,
+            "end": 359.44,
+            "text": " that,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 359.44,
+            "end": 360.44,
+            "text": " the areas in which the memory is,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 360.44,
+            "end": 361.44,
+            "text": " how to take it,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 361.44,
+            "end": 362.44,
+            "text": " in this node,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 362.44,
+            "end": 363.44,
+            "text": " we will make another one,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 363.44,
+            "end": 364.44,
+            "text": " and here,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 364.44,
+            "end": 365.44,
+            "text": " I have recently,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 365.44,
+            "end": 367.44,
+            "text": " started using it on this channel,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 367.44,
+            "end": 368.44,
+            "text": " because I think,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 368.44,
+            "end": 369.44,
+            "text": " it will be a little right,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 369.44,
+            "end": 370.44,
+            "text": " we will use one node,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 370.44,
+            "end": 371.44,
+            "text": " so,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 371.44,
+            "end": 373.44,
+            "text": " I have made a new page,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 373.44,
+            "end": 374.44,
+            "text": " I can return it,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 374.44,
+            "end": 375.44,
+            "text": " and here,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 375.44,
+            "end": 376.44,
+            "text": " you can see,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 376.44,
+            "end": 377.44,
+            "text": " I am making a new page,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 377.44,
+            "end": 378.44,
+            "text": " you can also see,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 378.44,
+            "end": 379.44,
+            "text": " how I am doing it,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 379.44,
+            "end": 380.44,
+            "text": " because,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 380.44,
+            "end": 381.44,
+            "text": " I don't want to abstract,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 381.44,
+            "end": 382.44,
+            "text": " I want to cut it,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 382.44,
+            "end": 383.44,
+            "text": " but I want you to see,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 383.44,
+            "end": 384.44,
+            "text": " how I am doing it,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 384.44,
+            "end": 385.44,
+            "text": " how I am using it,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 385.44,
+            "end": 386.44,
+            "text": " how I am using it,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 386.44,
+            "end": 387.44,
+            "text": " how I am doing it,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 387.44,
+            "end": 388.44,
+            "text": " and you can use it,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 388.44,
+            "end": 389.44,
+            "text": " at least,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 389.44,
+            "end": 390.44,
+            "text": " I am making videos,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 390.44,
+            "end": 391.44,
+            "text": " you can see,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 391.44,
+            "end": 392.44,
+            "text": " okay,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 392.44,
+            "end": 393.44,
+            "text": " so,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 393.44,
+            "end": 394.44,
+            "text": " what I will do here,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 394.44,
+            "end": 395.44,
+            "text": " I have made a presentation,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 395.44,
+            "end": 397.44,
+            "text": " so, I will make a diagram from back,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 397.44,
+            "end": 398.44,
+            "text": " so, I will do a work here,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 398.44,
+            "end": 400.44,
+            "text": " I will insert the shapes,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 400.44,
+            "end": 402.44,
+            "text": " and I will insert the shape,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 402.44,
+            "end": 403.44,
+            "text": " and I will make it better,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 403.44,
+            "end": 404.44,
+            "text": " so,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 404.44,
+            "end": 405.44,
+            "text": " insert shape,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 405.44,
+            "end": 406.44,
+            "text": " where is the shape?"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 406.44,
+            "end": 408.44,
+            "text": " Actually, it is in the draw,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 408.44,
+            "end": 409.44,
+            "text": " okay,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 409.44,
+            "end": 410.44,
+            "text": " so, what I will do here,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 410.44,
+            "end": 411.44,
+            "text": " is that,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 411.44,
+            "end": 412.44,
+            "text": " I will come here,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 412.44,
+            "end": 414.44,
+            "text": " and make a rectangle,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 414.44,
+            "end": 415.44,
+            "text": " okay, a simple rectangle,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 415.44,
+            "end": 416.44,
+            "text": " I don't know,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 416.44,
+            "end": 417.44,
+            "text": " I have made a rectangle,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 417.44,
+            "end": 418.44,
+            "text": " this is my memory,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 418.44,
+            "end": 419.44,
+            "text": " okay, so,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 419.44,
+            "end": 420.44,
+            "text": " what I will do,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 420.44,
+            "end": 421.44,
+            "text": " I will take this memory,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 421.44,
+            "end": 422.44,
+            "text": " this is my memory,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 422.44,
+            "end": 423.44,
+            "text": " okay,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 423.44,
+            "end": 424.44,
+            "text": " so, I will insert the memory,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 424.44,
+            "end": 426.44,
+            "text": " so, this is my memory,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 426.44,
+            "end": 427.44,
+            "text": " that means,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 427.44,
+            "end": 428.44,
+            "text": " that is RAM,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 428.44,
+            "end": 429.44,
+            "text": " and,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 429.44,
+            "end": 430.44,
+            "text": " my memory,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 430.44,
+            "end": 431.44,
+            "text": " from its height,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 431.44,
+            "end": 432.44,
+            "text": " what I will do,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 432.44,
+            "end": 433.44,
+            "text": " I will load the"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 433.44,
+            "end": 435.44,
+            "text": " programming in my memory,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 435.44,
+            "end": 436.44,
+            "text": " from its height,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 436.44,
+            "end": 437.44,
+            "text": " I will run the program,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 437.44,
+            "end": 438.44,
+            "text": " first of all,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 438.44,
+            "end": 439.44,
+            "text": " what happened,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 439.44,
+            "end": 440.44,
+            "text": " the program is in the main memory,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 440.44,
+            "end": 441.44,
+            "text": " okay, so,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 441.44,
+            "end": 442.44,
+            "text": " I have written the memory,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 442.44,
+            "end": 443.44,
+            "text": " okay, this is my memory,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 443.44,
+            "end": 444.44,
+            "text": " now, in this memory,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 444.44,
+            "end": 445.44,
+            "text": " I told you,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 445.44,
+            "end": 446.44,
+            "text": " that,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 446.44,
+            "end": 447.44,
+            "text": " we have a lot of segments,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 447.44,
+            "end": 448.44,
+            "text": " like,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 448.44,
+            "end": 449.44,
+            "text": " we have a code segment,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 449.44,
+            "end": 450.44,
+            "text": " which is all the codes,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 450.44,
+            "end": 451.44,
+            "text": " so,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 451.44,
+            "end": 452.44,
+            "text": " I will do a work here,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 452.44,
+            "end": 453.44,
+            "text": " I will give you a line,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 453.44,
+            "end": 454.44,
+            "text": " from this side,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 454.44,
+            "end": 455.44,
+            "text": " a very rough line,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 455.44,
+            "end": 457.44,
+            "text": " here, this is the code segment,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 457.44,
+            "end": 459.44,
+            "text": " okay, I will write the code segment,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 459.44,
+            "end": 460.44,
+            "text": " then,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 460.44,
+            "end": 462.44,
+            "text": " I told you,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 462.44,
+            "end": 463.44,
+            "text": " in the first video,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 463.44,
+            "end": 464.44,
+            "text": " that,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 464.44,
+            "end": 465.44,
+            "text": " initialize,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 465.44,
+            "end": 466.44,
+            "text": " initialize,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 466.44,
+            "end": 467.44,
+            "text": " segments,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 467.44,
+            "end": 468.44,
+            "text": " that is also here,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 468.44,
+            "end": 469.44,
+            "text": " I will write the U and I,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 469.44,
+            "end": 470.44,
+            "text": " then,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 470.44,
+            "end": 471.44,
+            "text": " I want to do the main,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 471.44,
+            "end": 472.44,
+            "text": " stack and heap,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 472.44,
+            "end": 473.44,
+            "text": " so, this is stack,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 473.44,
+            "end": 475.44,
+            "text": " and this is heap,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 475.44,
+            "end": 477.44,
+            "text": " the stack,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 477.44,
+            "end": 478.44,
+            "text": " this is the starting memory,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 478.44,
+            "end": 479.44,
+            "text": " this is the dynamic memory,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 479.44,
+            "end": 480.44,
+            "text": " this is the dynamic memory,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 480.44,
+            "end": 481.44,
+            "text": " we have seen,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 481.44,
+            "end": 482.44,
+            "text": " now,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 482.44,
+            "end": 483.44,
+            "text": " if I want to make an array,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 483.44,
+            "end": 484.44,
+            "text": " what can I do?"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 484.44,
+            "end": 485.44,
+            "text": " here,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 485.44,
+            "end": 486.44,
+            "text": " I am,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 486.44,
+            "end": 487.44,
+            "text": " create an array in the stack,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 487.44,
+            "end": 488.44,
+            "text": " which is,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 488.44,
+            "end": 489.44,
+            "text": " the main function of the stack,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 489.44,
+            "end": 490.44,
+            "text": " that is,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 490.44,
+            "end": 491.44,
+            "text": " ok, this is my main stack,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 491.44,
+            "end": 493.44,
+            "text": " can write a main here,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 493.44,
+            "end": 494.44,
+            "text": " then,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 494.44,
+            "end": 495.44,
+            "text": " here,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 495.44,
+            "end": 496.44,
+            "text": " create an array here,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 496.44,
+            "end": 497.44,
+            "text": " okay,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 497.44,
+            "end": 498.44,
+            "text": " from this side,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 498.44,
+            "end": 499.44,
+            "text": " and its value,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 499.44,
+            "end": 500.44,
+            "text": " these doubles,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 500.44,
+            "end": 501.44,
+            "text": " or,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 501.44,
+            "end": 502.44,
+            "text": " what can I do here?"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 502.44,
+            "end": 503.44,
+            "text": " just,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 503.44,
+            "end": 504.44,
+            "text": " create a point,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 504.44,
+            "end": 505.44,
+            "text": " and make an integer point,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 505.44,
+            "end": 506.44,
+            "text": " what is the point?"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 506.44,
+            "end": 508.44,
+            "text": " which is the stored value,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 508.44,
+            "end": 509.44,
+            "text": " I told you,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 509.44,
+            "end": 510.44,
+            "text": " in the previous video,"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 570.44,
+            "end": 574.44,
+            "text": " Start off size of operator and end"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 574.44,
+            "end": 578.44,
+            "text": " In your architecture, the amount of integer value is not that high"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 578.44,
+            "end": 584.44,
+            "text": " If you want to get 4 or 2, the amount of byte you get is set from value"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 584.44,
+            "end": 587.44,
+            "text": " So I hope EG is clear"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 587.44,
+            "end": 591.44,
+            "text": " You can make it like this, you can make it in heap"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 591.44,
+            "end": 597.44,
+            "text": " If you want to make this array, you can not make this array directly"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 597.44,
+            "end": 599.44,
+            "text": " You can not make it with realoc"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 599.44,
+            "end": 602.44,
+            "text": " I was commenting that you can resize it with realoc"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 602.44,
+            "end": 606.44,
+            "text": " But you can not make it directly with realoc"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 606.44,
+            "end": 610.44,
+            "text": " You can do it with realoc"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 610.44,
+            "end": 612.44,
+            "text": " You can request another memory"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 612.44,
+            "end": 615.44,
+            "text": " But you can not extend the same memory"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 615.44,
+            "end": 619.44,
+            "text": " And there is no guarantee that it will extend"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 619.44,
+            "end": 622.44,
+            "text": " So you cannot extend using realoc"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 622.44,
+            "end": 623.44,
+            "text": " Okay"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 624.44,
+            "end": 627.44,
+            "text": " So you cannot extend it with realoc"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 627.44,
+            "end": 632.44,
+            "text": " You can make a new memory and then you can point out the base address"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 632.44,
+            "end": 635.44,
+            "text": " If you want to resize it, you can resize it"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 635.44,
+            "end": 637.44,
+            "text": " But you can see that in the later video"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 637.44,
+            "end": 641.44,
+            "text": " You can request a array in stack"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 641.44,
+            "end": 643.44,
+            "text": " You can request it in heap"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 643.44,
+            "end": 646.44,
+            "text": " In the form of dynamic memory, I will come back"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 646.44,
+            "end": 649.44,
+            "text": " And write a miss here"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 649.44,
+            "end": 651.44,
+            "text": " Type it here"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 651.44,
+            "end": 655.44,
+            "text": " And write a stack here"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 655.44,
+            "end": 659.44,
+            "text": " Why am I writing like this?"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 659.44,
+            "end": 663.44,
+            "text": " I will write a stack here"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 663.44,
+            "end": 667.44,
+            "text": " So you can see the number of the stack"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 667.44,
+            "end": 671.44,
+            "text": " And I will write the ADTs"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 671.44,
+            "end": 673.44,
+            "text": " And this is the stack"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 673.44,
+            "end": 675.44,
+            "text": " So I wrote the ADTs here"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 675.44,
+            "end": 677.44,
+            "text": " AppStackDataTypes"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 677.44,
+            "end": 680.44,
+            "text": " I saw the SATA value and operation"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 680.44,
+            "end": 682.44,
+            "text": " And we can make our own array"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 682.44,
+            "end": 687.44,
+            "text": " Which we define, total size, use size, base address"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 687.44,
+            "end": 690.44,
+            "text": " And after that, what we will do?"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 690.44,
+            "end": 693.44,
+            "text": " We will define some operations"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 693.44,
+            "end": 695.44,
+            "text": " And I will write here"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 695.44,
+            "end": 698.44,
+            "text": " This is the representation"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 698.44,
+            "end": 702.44,
+            "text": " And after that, we will come to the operations"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 703.44,
+            "end": 706.44,
+            "text": " Operations"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 706.44,
+            "end": 710.44,
+            "text": " So this is the operation"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 710.44,
+            "end": 712.44,
+            "text": " And we want to apply it on the abstract data type"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 712.44,
+            "end": 714.44,
+            "text": " Okay? So I will apply it here too"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 714.44,
+            "end": 716.44,
+            "text": " I did not write it in a more detailed way"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 716.44,
+            "end": 717.44,
+            "text": " And I am proud of that"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 717.44,
+            "end": 720.44,
+            "text": " You will understand what is good"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 720.44,
+            "end": 722.44,
+            "text": " Now how we will code it?"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 722.44,
+            "end": 726.44,
+            "text": " If I talk about this, I will give you the idea"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 726.44,
+            "end": 728.44,
+            "text": " So what I will do?"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 729.44,
+            "end": 732.44,
+            "text": " I will set the code"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 732.44,
+            "end": 734.44,
+            "text": " I will write the code"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 734.44,
+            "end": 737.44,
+            "text": " This code is from the way it is"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 737.44,
+            "end": 740.44,
+            "text": " I am writing the assembly code"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 740.44,
+            "end": 744.44,
+            "text": " So that you can see what I have done in the page"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 744.44,
+            "end": 746.44,
+            "text": " So I will talk about the code"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 746.44,
+            "end": 749.44,
+            "text": " If we are doing the C language, we will do the structure"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 749.44,
+            "end": 751.44,
+            "text": " So I will write the code in C language"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 751.44,
+            "end": 754.44,
+            "text": " So I will write C language"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 755.44,
+            "end": 758.44,
+            "text": " I will write C language"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 758.44,
+            "end": 761.44,
+            "text": " And I will write C language in C language"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 761.44,
+            "end": 763.44,
+            "text": " So what I will do?"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 763.44,
+            "end": 765.44,
+            "text": " I will use the structure"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 765.44,
+            "end": 767.44,
+            "text": " And to use the structure"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 767.44,
+            "end": 770.44,
+            "text": " I will use the structure"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 770.44,
+            "end": 773.44,
+            "text": " And here I will convert the Maya"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 773.44,
+            "end": 776.44,
+            "text": " So what is the use size of Maya?"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 776.44,
+            "end": 778.44,
+            "text": " It is a base address"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 778.44,
+            "end": 780.44,
+            "text": " So what is this?"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 780.44,
+            "end": 782.44,
+            "text": " I will tell you"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 782.44,
+            "end": 784.44,
+            "text": " I have made a array"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 784.44,
+            "end": 786.44,
+            "text": " Let's change the color"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 786.44,
+            "end": 789.44,
+            "text": " And I will make the array"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 789.44,
+            "end": 791.44,
+            "text": " So I have made an array"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 791.44,
+            "end": 793.44,
+            "text": " In which the Maya"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 793.44,
+            "end": 794.44,
+            "text": " It is called"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 794.44,
+            "end": 796.44,
+            "text": " Storke"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 796.44,
+            "end": 798.44,
+            "text": " Let us say 20 elements"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 798.44,
+            "end": 800.44,
+            "text": " Okay, let us say"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 800.44,
+            "end": 802.44,
+            "text": " I will make a small element"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 802.44,
+            "end": 804.44,
+            "text": " I will make it small"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 804.44,
+            "end": 806.44,
+            "text": " Maya is going to my array"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 806.44,
+            "end": 810.44,
+            "text": " 0,1,2,3,4 and 5"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 810.44,
+            "end": 814.44,
+            "text": " So I can store 6 elements"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 814.44,
+            "end": 816.44,
+            "text": " 0 to 5"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 816.44,
+            "end": 820.44,
+            "text": " Okay, now my 6 will be total size"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 820.44,
+            "end": 823.44,
+            "text": " I will store 6 elements"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 823.44,
+            "end": 826.44,
+            "text": " Now I will use all the elements"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 826.44,
+            "end": 830.44,
+            "text": " I can use 3 elements"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 830.44,
+            "end": 832.44,
+            "text": " I will use some values"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 832.44,
+            "end": 834.44,
+            "text": " 17,18,22"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 834.44,
+            "end": 836.44,
+            "text": " And this is my same"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 836.44,
+            "end": 838.44,
+            "text": " This is my extra memory"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 838.44,
+            "end": 840.44,
+            "text": " It is for later use"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 840.44,
+            "end": 842.44,
+            "text": " I will extend the array"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 842.44,
+            "end": 844.44,
+            "text": " So I will use it"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 844.44,
+            "end": 846.44,
+            "text": " So I will use this as a file"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 846.44,
+            "end": 848.44,
+            "text": " I can store all the elements"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 848.44,
+            "end": 852.44,
+            "text": " But if I define the array as long as it is long"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 852.44,
+            "end": 854.44,
+            "text": " I will have to copy the entire array"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 854.44,
+            "end": 856.44,
+            "text": " So I will have to understand the value"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 856.44,
+            "end": 858.44,
+            "text": " If I understand the value"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 858.44,
+            "end": 862.44,
+            "text": " I will make Maya array name"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 862.44,
+            "end": 864.44,
+            "text": " What I will do?"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 864.44,
+            "end": 866.44,
+            "text": " I will make my array name as ADT"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 866.44,
+            "end": 868.44,
+            "text": " Now your goal is"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 868.44,
+            "end": 870.44,
+            "text": " What do you define the abstract data type?"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 870.44,
+            "end": 872.44,
+            "text": " If you want to do other types of data type"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 872.44,
+            "end": 874.44,
+            "text": " Then you can present"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 874.44,
+            "end": 876.44,
+            "text": " And operations"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 876.44,
+            "end": 878.44,
+            "text": " So I have written the blueprint"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 878.44,
+            "end": 880.44,
+            "text": " And can give a data structure"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 880.44,
+            "end": 882.44,
+            "text": " You can implement it"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 882.44,
+            "end": 884.44,
+            "text": " In any programming language"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 884.44,
+            "end": 886.44,
+            "text": " And we will use the structure"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 886.44,
+            "end": 888.44,
+            "text": " Which is total size"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 888.44,
+            "end": 890.44,
+            "text": " Use size, base address"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 890.44,
+            "end": 892.44,
+            "text": " What will be base address"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 892.44,
+            "end": 894.44,
+            "text": " The first element address is where the array is pointing"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 894.44,
+            "end": 896.44,
+            "text": " So this is the point"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 896.44,
+            "end": 898.44,
+            "text": " Which will store"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 898.44,
+            "end": 901.44,
+            "text": " My first element is 0,3"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 901.44,
+            "end": 903.44,
+            "text": " So that I can access this array"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 903.44,
+            "end": 905.44,
+            "text": " You will know that the array is"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 905.44,
+            "end": 907.44,
+            "text": " Contiguous blocks of memory"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 907.44,
+            "end": 909.44,
+            "text": " So the length of this is"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 909.44,
+            "end": 911.44,
+            "text": " The length of the 6 elements is"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 911.44,
+            "end": 913.44,
+            "text": " I can't extend it"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 913.44,
+            "end": 916.44,
+            "text": " Because it is not necessary that the memory of the array is"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 916.44,
+            "end": 918.44,
+            "text": " Contiguous blocks"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 918.44,
+            "end": 920.44,
+            "text": " The most important requirement in the array"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 920.44,
+            "end": 922.44,
+            "text": " Is that we want a contiguous block"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 922.44,
+            "end": 924.44,
+            "text": " If you have a colony"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 924.44,
+            "end": 926.44,
+            "text": " If you have a colony"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 926.44,
+            "end": 928.44,
+            "text": " Number 1,2,3,4,5,6"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 928.44,
+            "end": 930.44,
+            "text": " So you can see the number 7"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 930.44,
+            "end": 932.44,
+            "text": " Which is owner"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 932.44,
+            "end": 934.44,
+            "text": " If you don't buy it"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 934.44,
+            "end": 936.44,
+            "text": " Then why will you get it?"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 936.44,
+            "end": 938.44,
+            "text": " If you say that I have 7"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 938.44,
+            "end": 940.44,
+            "text": " Then you will get another one"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 940.44,
+            "end": 942.44,
+            "text": " Which is 6 elements"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 942.44,
+            "end": 944.44,
+            "text": " Which is the next element"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 944.44,
+            "end": 945.44,
+            "text": " So the result will be"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 945.44,
+            "end": 946.44,
+            "text": " Why won't you get it?"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 946.44,
+            "end": 948.44,
+            "text": " So you have to read it"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 948.44,
+            "end": 950.44,
+            "text": " If your fate is good, you can get it"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 950.44,
+            "end": 952.44,
+            "text": " But you will get it"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 952.44,
+            "end": 954.44,
+            "text": " If you talk about it"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 954.44,
+            "end": 956.44,
+            "text": " The next 50 elements"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 956.44,
+            "end": 958.44,
+            "text": " Which will be 10 elements"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 958.44,
+            "end": 960.44,
+            "text": " Which will be the memory of your array"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 960.44,
+            "end": 962.44,
+            "text": " So no guarantee is free"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 962.44,
+            "end": 964.44,
+            "text": " Because your computer"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 964.44,
+            "end": 966.44,
+            "text": " Will store your data"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 966.44,
+            "end": 968.44,
+            "text": " With the help of your computer"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 968.44,
+            "end": 970.44,
+            "text": " And you will only do the same thing"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 970.44,
+            "end": 972.44,
+            "text": " Because you only asked for 6 blocks"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 972.44,
+            "end": 974.44,
+            "text": " If you have made a integer array"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 974.44,
+            "end": 976.44,
+            "text": " Then you asked for 6 blocks"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 976.44,
+            "end": 978.44,
+            "text": " And you asked for 6 blocks"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 978.44,
+            "end": 980.44,
+            "text": " So why won't you get the memory of your future?"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 980.44,
+            "end": 982.44,
+            "text": " So you can do this"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 982.44,
+            "end": 984.44,
+            "text": " You can buy 6 blocks from the beginning"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 984.44,
+            "end": 986.44,
+            "text": " And use 3 blocks"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 986.44,
+            "end": 988.44,
+            "text": " And you can use another block"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 988.44,
+            "end": 990.44,
+            "text": " Because the power of the array"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 990.44,
+            "end": 992.44,
+            "text": " Which is your updation"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 992.44,
+            "end": 994.44,
+            "text": " And the axis"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 994.44,
+            "end": 996.44,
+            "text": " It is very fast"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 996.44,
+            "end": 998.44,
+            "text": " So the biggest advantage"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 998.44,
+            "end": 1000.44,
+            "text": " In the array"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1000.44,
+            "end": 1002.44,
+            "text": " That is the way you can access"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1002.44,
+            "end": 1004.44,
+            "text": " The element can be calculated"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1004.44,
+            "end": 1006.44,
+            "text": " From the base to the base"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1006.44,
+            "end": 1008.44,
+            "text": " You can calculate from the base"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1008.44,
+            "end": 1010.44,
+            "text": " What will be the 4th element?"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1010.44,
+            "end": 1012.44,
+            "text": " And why is that?"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1012.44,
+            "end": 1014.44,
+            "text": " Because it is the same"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1014.44,
+            "end": 1016.44,
+            "text": " So if you buy"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1016.44,
+            "end": 1018.44,
+            "text": " This is your data"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1018.44,
+            "end": 1020.44,
+            "text": " Which is 1 to the power of the array"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1020.44,
+            "end": 1022.44,
+            "text": " Each kilometer is 1"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1022.44,
+            "end": 1024.44,
+            "text": " Milestone"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1024.44,
+            "end": 1026.44,
+            "text": " And 1 kilometer"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1026.44,
+            "end": 1028.44,
+            "text": " And 2 kilometers"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1028.44,
+            "end": 1030.44,
+            "text": " And 4 kilometers"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1030.44,
+            "end": 1032.44,
+            "text": " So you can also"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1032.44,
+            "end": 1034.44,
+            "text": " You can also use this today"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1034.44,
+            "end": 1036.44,
+            "text": " First, second, third"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1036.44,
+            "end": 1038.44,
+            "text": " Fourth, fifth"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1038.44,
+            "end": 1040.44,
+            "text": " If you ask"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1040.44,
+            "end": 1042.44,
+            "text": " How far is this 5-way"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1042.44,
+            "end": 1044.44,
+            "text": " And there"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1044.44,
+            "end": 1046.44,
+            "text": " The condition is so much"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1046.44,
+            "end": 1048.44,
+            "text": " From Delhi"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1048.44,
+            "end": 1050.44,
+            "text": " Which is our"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1050.44,
+            "end": 1052.44,
+            "text": " From there"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1052.44,
+            "end": 1054.44,
+            "text": " And from there"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1054.44,
+            "end": 1056.44,
+            "text": " How many kilometers"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1056.44,
+            "end": 1058.44,
+            "text": " So this is 1.90 kilometers"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1058.44,
+            "end": 1060.44,
+            "text": " So this is 1.91 kilometers"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1060.44,
+            "end": 1062.44,
+            "text": " This is 1.93 kilometers"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1062.44,
+            "end": 1064.44,
+            "text": " This is 1.94 kilometers"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1064.44,
+            "end": 1066.44,
+            "text": " So if someone asks you how far is this"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1066.44,
+            "end": 1068.44,
+            "text": " From Delhi?"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1068.44,
+            "end": 1070.44,
+            "text": " So you can even tell"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1070.44,
+            "end": 1072.44,
+            "text": " This is 1.92 kilometers"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1072.44,
+            "end": 1074.44,
+            "text": " Because you know that this is 1.90 kilometers"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1074.44,
+            "end": 1076.44,
+            "text": " So you can learn from the base"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1076.44,
+            "end": 1078.44,
+            "text": " From the base"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1078.44,
+            "end": 1080.44,
+            "text": " From the base"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1080.44,
+            "end": 1082.44,
+            "text": " From the base"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1082.44,
+            "end": 1084.44,
+            "text": " From the base"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1084.44,
+            "end": 1086.44,
+            "text": " From the base"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1086.44,
+            "end": 1088.44,
+            "text": " From the base"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1088.44,
+            "end": 1089.44,
+            "text": " From the base"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1089.44,
+            "end": 1091.44,
+            "text": " You can also do it"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1091.44,
+            "end": 1093.44,
+            "text": " So we use the access in the arrays"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1093.44,
+            "end": 1095.44,
+            "text": " So I hope you understood"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1095.44,
+            "end": 1097.44,
+            "text": " What we will do next"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1097.44,
+            "end": 1099.44,
+            "text": " We will set our coding environment"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1099.44,
+            "end": 1101.44,
+            "text": " And implement the array on a structure"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1101.44,
+            "end": 1103.44,
+            "text": " So I will implement it"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1103.44,
+            "end": 1105.44,
+            "text": " I will quickly explain in this video"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1105.44,
+            "end": 1107.44,
+            "text": " Then we will do coding"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1107.44,
+            "end": 1109.44,
+            "text": " So what I will do now"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1109.44,
+            "end": 1111.44,
+            "text": " I will make a structure"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1111.44,
+            "end": 1113.44,
+            "text": " I will make a structure"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1113.44,
+            "end": 1115.44,
+            "text": " I will make a structure"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1115.44,
+            "end": 1117.44,
+            "text": " I will use the time depth"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1117.44,
+            "end": 1119.44,
+            "text": " So you will make a structure"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1119.44,
+            "end": 1121.44,
+            "text": " I will open the bracket"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1121.44,
+            "end": 1123.44,
+            "text": " You will give here a size"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1123.44,
+            "end": 1125.44,
+            "text": " So you have given it a size"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1125.44,
+            "end": 1127.44,
+            "text": " So who would have given it a size"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1127.44,
+            "end": 1129.44,
+            "text": " Which size was it?"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1129.44,
+            "end": 1131.44,
+            "text": " Our total size was 1.90"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1131.44,
+            "end": 1133.44,
+            "text": " So you have given it a total size"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1135.44,
+            "end": 1137.44,
+            "text": " What is your size?"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1137.44,
+            "end": 1139.44,
+            "text": " Your size is 1.90"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1141.44,
+            "end": 1143.44,
+            "text": " So you can make this structure"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1143.44,
+            "end": 1145.44,
+            "text": " And you can make this structure"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1145.44,
+            "end": 1147.44,
+            "text": " And you can implement it"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1147.44,
+            "end": 1149.44,
+            "text": " Such that"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1149.44,
+            "end": 1151.44,
+            "text": " Your total size is"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1151.44,
+            "end": 1153.44,
+            "text": " So many memory blocks"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1153.44,
+            "end": 1155.44,
+            "text": " So memory to be reserved"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1155.44,
+            "end": 1157.44,
+            "text": " Memory to be reserved"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1161.44,
+            "end": 1163.44,
+            "text": " So I will resume this memory"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1163.44,
+            "end": 1165.44,
+            "text": " And the size of your user is"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1165.44,
+            "end": 1167.44,
+            "text": " Memory to be used"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1169.44,
+            "end": 1171.44,
+            "text": " To be used"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1171.44,
+            "end": 1173.44,
+            "text": " So what can we do?"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1173.44,
+            "end": 1175.44,
+            "text": " We can dynamically"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1175.44,
+            "end": 1177.44,
+            "text": " Locate the memory"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1177.44,
+            "end": 1179.44,
+            "text": " And then we can use"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1179.44,
+            "end": 1181.44,
+            "text": " Some of the memory"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1181.44,
+            "end": 1183.44,
+            "text": " Some parts"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1183.44,
+            "end": 1185.44,
+            "text": " And one of our pointers"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1185.44,
+            "end": 1187.44,
+            "text": " Will we store the area"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1187.44,
+            "end": 1189.44,
+            "text": " With the base address"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1189.44,
+            "end": 1191.44,
+            "text": " So we will see the implementation"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1191.44,
+            "end": 1193.44,
+            "text": " So what happens in the next video"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1193.44,
+            "end": 1195.44,
+            "text": " We will see the implementation"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1195.44,
+            "end": 1197.44,
+            "text": " And I will complete this in ID"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1197.44,
+            "end": 1199.44,
+            "text": " So we will see the implementation"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1199.44,
+            "end": 1201.44,
+            "text": " In the next video"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1201.44,
+            "end": 1203.44,
+            "text": " What do you want?"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1203.44,
+            "end": 1205.44,
+            "text": " To complete this implementation"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1205.44,
+            "end": 1207.44,
+            "text": " So you can do this in the comments"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1207.44,
+            "end": 1209.44,
+            "text": " And I will be very happy"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1209.44,
+            "end": 1211.44,
+            "text": " If you do this"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1211.44,
+            "end": 1213.44,
+            "text": " And I will show you the chat room"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1213.44,
+            "end": 1215.44,
+            "text": " But in the next video"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1215.44,
+            "end": 1217.44,
+            "text": " We will not be able to do this in the next video"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1217.44,
+            "end": 1219.44,
+            "text": " So I will share this note"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1219.44,
+            "end": 1221.44,
+            "text": " And I will do a comment"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1221.44,
+            "end": 1223.44,
+            "text": " What to do"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1223.44,
+            "end": 1225.44,
+            "text": " And give the folder"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1225.44,
+            "end": 1227.44,
+            "text": " To you"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1227.44,
+            "end": 1229.44,
+            "text": " What will happen?"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1229.44,
+            "end": 1231.44,
+            "text": " I have made PDF"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1231.44,
+            "end": 1233.44,
+            "text": " I have made many drawings"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1233.44,
+            "end": 1235.44,
+            "text": " And I will share the data"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1235.44,
+            "end": 1237.44,
+            "text": " All the work in this course"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1237.44,
+            "end": 1239.44,
+            "text": " All the work in this course"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1239.44,
+            "end": 1241.44,
+            "text": " You guys have to share my playlist"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1241.44,
+            "end": 1243.44,
+            "text": " With friends"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1243.44,
+            "end": 1245.44,
+            "text": " If you do this"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1245.44,
+            "end": 1247.44,
+            "text": " I will make all the notes"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1247.44,
+            "end": 1249.44,
+            "text": " For the sake of the video"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1249.44,
+            "end": 1251.44,
+            "text": " I will make all the details"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1251.44,
+            "end": 1253.44,
+            "text": " And"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1253.44,
+            "end": 1255.44,
+            "text": " I will never be able to do this"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1255.44,
+            "end": 1257.44,
+            "text": " And you have to watch the video"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1257.44,
+            "end": 1259.44,
+            "text": " After 6 months"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1259.44,
+            "end": 1261.44,
+            "text": " Because you will keep the notes"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1261.44,
+            "end": 1263.44,
+            "text": " So you have to course one time"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1263.44,
+            "end": 1265.44,
+            "text": " And after that you will have to share the work"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1265.44,
+            "end": 1267.44,
+            "text": " With the data structure"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1267.44,
+            "end": 1269.44,
+            "text": " And tell me the answer"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1269.44,
+            "end": 1271.44,
+            "text": " Please like this video"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1271.44,
+            "end": 1273.44,
+            "text": " I will start the video"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1273.44,
+            "end": 1275.44,
+            "text": " I will like the video"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1275.44,
+            "end": 1277.44,
+            "text": " I will just like the one"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1277.44,
+            "end": 1279.44,
+            "text": " If you keep the tempo"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1279.44,
+            "end": 1281.44,
+            "text": " I will keep the tempo"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1281.44,
+            "end": 1283.44,
+            "text": " So I hope"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1283.44,
+            "end": 1285.44,
+            "text": " You will learn"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1285.44,
+            "end": 1287.44,
+            "text": " We will implement"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1287.44,
+            "end": 1289.44,
+            "text": " In the videos of this ADT"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1289.44,
+            "end": 1291.44,
+            "text": " And I hope you will share"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1291.44,
+            "end": 1293.44,
+            "text": " And tell me the answers"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1293.44,
+            "end": 1295.44,
+            "text": " Thank you so much guys"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1295.44,
+            "end": 1297.44,
+            "text": " For watching this video"
+        },
+        {
+            "number": "07",
+            "title": "Array as An Abstract Data Type in Data Structures(With Notes)",
+            "start": 1297.44,
+            "end": 1299.44,
+            "text": " And I will see you next time"
+        }
+    ],
+    "text": " So guys, in this course of data structures, we read about the abstract data type. And you guys have understood that abstract data type is not something, it is just an influx of a new data type, which we defined some of our set of values and operations. Now abstract data type is the type that we can link to the object to the 20th programming. The abstract data type was made to make a custom data type, that you can make your user the data type of the work of its user. Now what I have done here is to make a one node notebook. I have made a folder of a notebook called folder. I want to show you the folder of the folder in the form I am doing. Because when I zip it and then I will give you this thing, then you will know where it is and what is the work. So I have made a one node notebook. And here algorithm is called one node notebook, I will make all the notebooks of this. I have solved the time complexity of this question. Now I will make a new section, I will name it, ADTs and continue here, the discussion of ADTs. So what I will do here is a pen, first of all, and I will tell you about ADTs. So ADTs first, we will write once more that the ADTs are here. I will write here, I will take a line here, the rule line looks good, so I will write ADTs here, I will write ADT here, and it will be a little bit easier to write it in this way, so you will write it in a little bit, okay, so I will write ADTs here. Now what are the ADTs? I will write here, what are the ADTs? ADTs are our first set of values, okay, set of values, plus set of operations on them, okay, plus set of operations, and what is the meaning of this? We will do a work here, we will compare it here in data types, okay, so I will tell you about the indita type, which we know, our integer data type, which indita type is what we know, you can store, you can store it in 10, you can store it in 12, you can store it in any integer, what when you write 9 plus 12, and you get a 1st answer, do you know how this came, how this 1st answer came, now look, the computer in this integer stored, it is 0 and 1 form stored, you know, whenever you have stored, there will be a decimal value, in your computer, there are some bits stored in your computer, you have to do operation, they are integers, but what is the plus operator here, okay, this is an operator, nothing else, now this operator, like a human, it will not be connected, it will not be connected, just keep 12 here, keep 9 here, place the plus sign here, it will be 9, 11, 1 carry over, and this is not the calculation of human, this is the operation in bits, and this is the way it is, to perform operations, now here, what is the 9 plus 12, but we do not know, how this 1st answer came, that is, this detail is abstracted, what is it? details abstracted, let me write it, details are abstracted, so details, abstracted, okay, so details are abstracted, we have hidden it from us, and we do not know, how it happened, but yes, we know, what happened, and we know, the answer we get, the 1st answer, the 1st answer, I am saying, my mind is, inside it, I want to keep it in this way, that it is an area, and it is a total size, total size, along with it, it is a used size, and I will tell you about it, I have defined this identity, used size, and after that, a dress, a base address, I should write a base address here, I will write a base address, a base address or a pointer, so I will write a base address, a base address, which is the base address, that is, a base address, so what will I do, I will represent this data, okay, my mind is, the identity is, the set of values, the representation is, okay, I will do this, and I will write it, plus, the set of operations, I can define some operations, what operations, what operations, what operations, what operations, what I can define, what I can define, what I can define, how I can, I will say, I want a get operation, then set operation, what will I do, I will come in the get, because I want that index, whatever I want, I want to take value in this area, then I want to set the item index, from this number, then along with it, I have also told you, operations, now, if I want to add, and I want to add, then I want to add, and return, and return, then, this way, operations, we can define a lot, and we can make our custom data type, so, abstract data type, I have made a new area, but here, once again, I want to go to that detail, in which I told you, that, the areas in which the memory is, how to take it, in this node, we will make another one, and here, I have recently, started using it on this channel, because I think, it will be a little right, we will use one node, so, I have made a new page, I can return it, and here, you can see, I am making a new page, you can also see, how I am doing it, because, I don't want to abstract, I want to cut it, but I want you to see, how I am doing it, how I am using it, how I am using it, how I am doing it, and you can use it, at least, I am making videos, you can see, okay, so, what I will do here, I have made a presentation, so, I will make a diagram from back, so, I will do a work here, I will insert the shapes, and I will insert the shape, and I will make it better, so, insert shape, where is the shape? Actually, it is in the draw, okay, so, what I will do here, is that, I will come here, and make a rectangle, okay, a simple rectangle, I don't know, I have made a rectangle, this is my memory, okay, so, what I will do, I will take this memory, this is my memory, okay, so, I will insert the memory, so, this is my memory, that means, that is RAM, and, my memory, from its height, what I will do, I will load the programming in my memory, from its height, I will run the program, first of all, what happened, the program is in the main memory, okay, so, I have written the memory, okay, this is my memory, now, in this memory, I told you, that, we have a lot of segments, like, we have a code segment, which is all the codes, so, I will do a work here, I will give you a line, from this side, a very rough line, here, this is the code segment, okay, I will write the code segment, then, I told you, in the first video, that, initialize, initialize, segments, that is also here, I will write the U and I, then, I want to do the main, stack and heap, so, this is stack, and this is heap, the stack, this is the starting memory, this is the dynamic memory, this is the dynamic memory, we have seen, now, if I want to make an array, what can I do? here, I am, create an array in the stack, which is, the main function of the stack, that is, ok, this is my main stack, can write a main here, then, here, create an array here, okay, from this side, and its value, these doubles, or, what can I do here? just, create a point, and make an integer point, what is the point? which is the stored value, I told you, in the previous video, Start off size of operator and end In your architecture, the amount of integer value is not that high If you want to get 4 or 2, the amount of byte you get is set from value So I hope EG is clear You can make it like this, you can make it in heap If you want to make this array, you can not make this array directly You can not make it with realoc I was commenting that you can resize it with realoc But you can not make it directly with realoc You can do it with realoc You can request another memory But you can not extend the same memory And there is no guarantee that it will extend So you cannot extend using realoc Okay So you cannot extend it with realoc You can make a new memory and then you can point out the base address If you want to resize it, you can resize it But you can see that in the later video You can request a array in stack You can request it in heap In the form of dynamic memory, I will come back And write a miss here Type it here And write a stack here Why am I writing like this? I will write a stack here So you can see the number of the stack And I will write the ADTs And this is the stack So I wrote the ADTs here AppStackDataTypes I saw the SATA value and operation And we can make our own array Which we define, total size, use size, base address And after that, what we will do? We will define some operations And I will write here This is the representation And after that, we will come to the operations Operations So this is the operation And we want to apply it on the abstract data type Okay? So I will apply it here too I did not write it in a more detailed way And I am proud of that You will understand what is good Now how we will code it? If I talk about this, I will give you the idea So what I will do? I will set the code I will write the code This code is from the way it is I am writing the assembly code So that you can see what I have done in the page So I will talk about the code If we are doing the C language, we will do the structure So I will write the code in C language So I will write C language I will write C language And I will write C language in C language So what I will do? I will use the structure And to use the structure I will use the structure And here I will convert the Maya So what is the use size of Maya? It is a base address So what is this? I will tell you I have made a array Let's change the color And I will make the array So I have made an array In which the Maya It is called Storke Let us say 20 elements Okay, let us say I will make a small element I will make it small Maya is going to my array 0,1,2,3,4 and 5 So I can store 6 elements 0 to 5 Okay, now my 6 will be total size I will store 6 elements Now I will use all the elements I can use 3 elements I will use some values 17,18,22 And this is my same This is my extra memory It is for later use I will extend the array So I will use it So I will use this as a file I can store all the elements But if I define the array as long as it is long I will have to copy the entire array So I will have to understand the value If I understand the value I will make Maya array name What I will do? I will make my array name as ADT Now your goal is What do you define the abstract data type? If you want to do other types of data type Then you can present And operations So I have written the blueprint And can give a data structure You can implement it In any programming language And we will use the structure Which is total size Use size, base address What will be base address The first element address is where the array is pointing So this is the point Which will store My first element is 0,3 So that I can access this array You will know that the array is Contiguous blocks of memory So the length of this is The length of the 6 elements is I can't extend it Because it is not necessary that the memory of the array is Contiguous blocks The most important requirement in the array Is that we want a contiguous block If you have a colony If you have a colony Number 1,2,3,4,5,6 So you can see the number 7 Which is owner If you don't buy it Then why will you get it? If you say that I have 7 Then you will get another one Which is 6 elements Which is the next element So the result will be Why won't you get it? So you have to read it If your fate is good, you can get it But you will get it If you talk about it The next 50 elements Which will be 10 elements Which will be the memory of your array So no guarantee is free Because your computer Will store your data With the help of your computer And you will only do the same thing Because you only asked for 6 blocks If you have made a integer array Then you asked for 6 blocks And you asked for 6 blocks So why won't you get the memory of your future? So you can do this You can buy 6 blocks from the beginning And use 3 blocks And you can use another block Because the power of the array Which is your updation And the axis It is very fast So the biggest advantage In the array That is the way you can access The element can be calculated From the base to the base You can calculate from the base What will be the 4th element? And why is that? Because it is the same So if you buy This is your data Which is 1 to the power of the array Each kilometer is 1 Milestone And 1 kilometer And 2 kilometers And 4 kilometers So you can also You can also use this today First, second, third Fourth, fifth If you ask How far is this 5-way And there The condition is so much From Delhi Which is our From there And from there How many kilometers So this is 1.90 kilometers So this is 1.91 kilometers This is 1.93 kilometers This is 1.94 kilometers So if someone asks you how far is this From Delhi? So you can even tell This is 1.92 kilometers Because you know that this is 1.90 kilometers So you can learn from the base From the base From the base From the base From the base From the base From the base From the base You can also do it So we use the access in the arrays So I hope you understood What we will do next We will set our coding environment And implement the array on a structure So I will implement it I will quickly explain in this video Then we will do coding So what I will do now I will make a structure I will make a structure I will make a structure I will use the time depth So you will make a structure I will open the bracket You will give here a size So you have given it a size So who would have given it a size Which size was it? Our total size was 1.90 So you have given it a total size What is your size? Your size is 1.90 So you can make this structure And you can make this structure And you can implement it Such that Your total size is So many memory blocks So memory to be reserved Memory to be reserved So I will resume this memory And the size of your user is Memory to be used To be used So what can we do? We can dynamically Locate the memory And then we can use Some of the memory Some parts And one of our pointers Will we store the area With the base address So we will see the implementation So what happens in the next video We will see the implementation And I will complete this in ID So we will see the implementation In the next video What do you want? To complete this implementation So you can do this in the comments And I will be very happy If you do this And I will show you the chat room But in the next video We will not be able to do this in the next video So I will share this note And I will do a comment What to do And give the folder To you What will happen? I have made PDF I have made many drawings And I will share the data All the work in this course All the work in this course You guys have to share my playlist With friends If you do this I will make all the notes For the sake of the video I will make all the details And I will never be able to do this And you have to watch the video After 6 months Because you will keep the notes So you have to course one time And after that you will have to share the work With the data structure And tell me the answer Please like this video I will start the video I will like the video I will just like the one If you keep the tempo I will keep the tempo So I hope You will learn We will implement In the videos of this ADT And I hope you will share And tell me the answers Thank you so much guys For watching this video And I will see you next time"
+}

@@ -1,0 +1,761 @@
+{
+    "chunks": [
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 0.0,
+            "end": 55.02,
+            "text": " Further?, please share the interesting article of this video.  I have told you that the main component of PC can be done by using the main component.  If you do the mistake, it will be done a little bit.  If you don't get the mistake, it will follow the blueprint.  So, what was here?"
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 55.02,
+            "end": 69.02000000000001,
+            "text": " I gave it a blueprint.  I gave it a blueprint.  It is called a minimal requirement.  This is the PC.  Now, it will make its PC build with its help."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 69.02,
+            "end": 83.02,
+            "text": " Now, what is the use of the app stack data?  What does this mean?  What happens to the PC build?  Maybe you are not talking about the champion.  The thing is, I have told you what processor to use."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 83.02,
+            "end": 97.02,
+            "text": " I have told you what graphics card to use.  I have told you what to use for motherboard.  I will tell you about the RAM chip.  You can use this chip.  You can use it for the Joheck Kingston."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 97.02,
+            "end": 118.02,
+            "text": " I have told you that you can use the main component of PC build with its help.  The app stack data type is also the same as the blueprint.  What does the Joheck do?  The minimal requirement is explained along with some operations.  So, there are some operations here."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 118.02,
+            "end": 134.01999999999998,
+            "text": " And there are some minimal requirements here.  The data type is followed.  So, I will write the minimal requirements here.  So, the app stack data type is a model to make data structure.  I have given the app stack data type once."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 134.01999999999998,
+            "end": 154.02,
+            "text": " So, the app stack data type can be written as the data structure of this data.  And the data structure will be the actual implementation.  So, the app stack data type, if I am talking about areas,  you can implement it in a programming language.  But I will give you some minimal requirements and some operations."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 154.02,
+            "end": 174.02,
+            "text": " So, the app stack data type, I will give you the MRF.  I will not give you the MRF tire or the Batwala.  I will give you the minimal required functionalities.  And this can be a little confusing.  Functionality."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 174.02,
+            "end": 192.02,
+            "text": " It can be a little confusing.  What is the identity of this data?  I have given the basic functionality of this data.  By streaming, gaming, and other functionalities.  And I have told you that all these things should be done."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 192.02,
+            "end": 204.02,
+            "text": " And then, a person can use a cable.  And then, a ram can be used.  And then, a lot of implementation can be done.  And then, a lot of PC can be used.  So, what is the abstract data type?"
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 204.02,
+            "end": 216.02,
+            "text": " I have told you that the minimal required functionality should be done.  You go to CarPenter.  You say, I need a table.  I have already installed an adjust.  I have also coded and I have also coded in the Bat."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 216.02,
+            "end": 232.02,
+            "text": " What else can I do?  I have used Loa, Lackard, Plastic, Minimum, etc.  I will also use some of these.  But, this minimum required functionality should be done.  And then, you can define some operations."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 232.02,
+            "end": 244.02,
+            "text": " You can open a drawer in that table.  You can close the drawer.  You can open an app.  You can close the drawer.  You can give it an operation."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 244.02,
+            "end": 254.02,
+            "text": " I will explain this in an example.  And now, we will talk about the adjust.  I will clear the board.  If you are giving notes, I have made notes for you.  Please download the description."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 254.02,
+            "end": 270.02,
+            "text": " I will put it here.  I will put it here.  I will put it here.  And, we will do the same.  The array of the adjust."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 270.02,
+            "end": 282.02,
+            "text": " Array as an abstract data type.  Arrays as an abstract data type.  By the way, what are the arrays?  You will get a lot of programming languages.  Arrays will be available in C, C++,"
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 282.02,
+            "end": 302.02,
+            "text": " and in Python, list.  But, in arrays, there are some minimal functionalities.  As you can see, I can get a method.  And, if I write get i,  I can set the element of the i-th position."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 302.02,
+            "end": 320.02,
+            "text": " I can set the i-th position in any number.  I can set the index i-th value.  I can set the set with it.  If I am making a custom data type.  I am writing an array of the implementation."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 320.02,
+            "end": 334.02,
+            "text": " I can add a method here.  I can insert a method here.  I can delete a method.  I can add two arrays in the array.  I want to add two arrays."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 334.02,
+            "end": 356.02,
+            "text": " So, I can write a lot of methods in the implementation.  But, minimal functionalities are required to set the set.  And, you can get a resize function.  All these methods are available in the array.  You can perform in arrays."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 356.02,
+            "end": 372.02,
+            "text": " You can use this blueprint to make your custom data type.  And, you will depend on your implementation.  As I will show you by making it from the structure.  You can make it from the C++ class.  If you are making it from the structure."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 372.02,
+            "end": 390.02,
+            "text": " You will depend on your implementation.  When the size of the array is increasing.  How do you do it?  How do you copy all the elements?  How do you copy all the elements?"
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 390.02,
+            "end": 408.02,
+            "text": " How do you keep an auxiliary array?  You can define the data type.  And, you can get many different operations in the array.  Now, you can define all the operations.  And, you can make your own array ADT."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 408.02,
+            "end": 420.02,
+            "text": " What does abstract mean?  What does abstraction mean?  Heading details.  What does abstraction mean?  What does abstraction mean?"
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 420.02,
+            "end": 432.02,
+            "text": " You can eat it.  What does abstraction mean?  You can eat it.  Don't eat it.  You can't get it in the implementation details."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 432.02,
+            "end": 444.02,
+            "text": " You can only use it in the implementation details.  You can use it.  You can use it in the implementation.  We will keep it in the array.  You can use the insert in the array."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 444.02,
+            "end": 456.02,
+            "text": " You don't have to use it.  We have made the structure in the insert.  We have made the pointer.  The inside part of it has some other feature on theuche,  The places using the posterior basically are based on the system."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 456.02,
+            "end": 476.02,
+            "text": " We take\u304b\u3063\u305f  from a laptop to a laptop.  We open this document in method description.  Go to  Instagram, PixivVem by Twitter."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 476.02,
+            "end": 496.97999999999996,
+            "text": " then please do shut down of this video  pew  as there is science  do you know few reports  character"
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 503.97999999999996,
+            "end": 530.02,
+            "text": " so they have penetrated the natural law  Now let's discuss the array of the methods.  Let me explain the array of the methods.  So the array of the elements, collection of elements,  and the array of the elements,"
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 530.02,
+            "end": 544.02,
+            "text": " I have written in the notes, so don't take too much tension,  by index, by index,  index,  I will show you a little bit of the text,  I have written notes, I have written notes,"
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 544.02,
+            "end": 554.02,
+            "text": " yes, think like this,  I have written notes, I have written notes,  so I will explain it quickly,  so what is the array that is available?  Let's see."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 554.02,
+            "end": 568.02,
+            "text": " Let me show you the memory layout of a C program,  there is a code section,  what happens here?  I have initialized and uninitialized segments,  then there is a stack,"
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 568.02,
+            "end": 584.02,
+            "text": " and here is a heap,  the stack is available in the function of the variable,  the local variable is available,  so you will call your function and make your stack,  if you make an array, the array will be here,"
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 584.02,
+            "end": 598.02,
+            "text": " and you will get the memory in the stack,  but if you use a memory like a resource,  if you make an array,  then you should have said that I have given 10 elements,  now here 0, 1, 2, 3,"
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 598.02,
+            "end": 610.02,
+            "text": " this is 9, and the index,  the array of the elements,  is 0, because when we start from 0,  we get some advantage,  I will not go to that,"
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 610.02,
+            "end": 620.02,
+            "text": " but search on the network,  you can see the paper of a Dixstra,  it has explained how to start from 1,  so what will happen?  If we start from 0,"
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 620.02,
+            "end": 630.02,
+            "text": " then why the calculation will be easy,  when we try to access the index,  I will not go to that,  let me tell you what is the array,  now consider that you request an array here,"
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 630.02,
+            "end": 640.02,
+            "text": " in the heap,  then you get the contiguous block of the memory,  that is,  if you add it from the address,  or if you add it from the address,"
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 640.02,
+            "end": 650.02,
+            "text": " and I am getting the integer,  4 bytes,  it is 2 bytes,  but I am getting 4 bytes,  I will depend on architecture,"
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 650.02,
+            "end": 660.02,
+            "text": " 4, 8, 8, 8, 6,  and this is how the address will be,  this is the 4 bytes,  this is the integer,  this is the 4 bytes,"
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 660.02,
+            "end": 670.02,
+            "text": " this is the integer,  and this is the integer,  now consider that it is 6 bytes,  and this will be the 3 bytes,  this will be the 4 bytes,"
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 670.02,
+            "end": 680.02,
+            "text": " and here,  the second memory location will start,  which is not with me,  it is not with me,  and this is the 38 bytes,"
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 680.02,
+            "end": 690.02,
+            "text": " and this is the second memory,  you cannot resize the array,  because if you do resize,  then you need this memory,  this memory,"
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 690.02,
+            "end": 700.02,
+            "text": " consider that you have created this array,  and this is the first memory,  you need to take 10 to 8 bytes,  and this is the block of memory,  and you will get it,"
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 700.02,
+            "end": 710.02,
+            "text": " and now,  if you go to shop,  and you have this,  you can give this to the shop,  and you go,"
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 710.02,
+            "end": 720.02,
+            "text": " you think this is a good neat-off,  and you say,  you can go back,  and you can do this in shop,  and you can do this in shop,"
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 720.02,
+            "end": 730.02,
+            "text": " and you can go back,  so if you say that  I am giving you a big gift,  then you won't get it.  Why won't you get it?"
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 730.02,
+            "end": 740.02,
+            "text": " If you asked your memory to request,  then I think  that the second application  will be presented to this memory,  and that will be done,"
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 740.02,
+            "end": 750.02,
+            "text": " or that it will be done with this memory,  or that same program  that was available in the same program,  that was allocated to this memory,  so you say that I want to increase this,"
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 750.02,
+            "end": 764.02,
+            "text": " You can't increase it in the array.  You can increase it in the English language but you can't increase it in this language.  Because you asked your memory to the other person.  After that, what is the memory of the memory that you are using?  Who is not using it?"
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 764.02,
+            "end": 777.02,
+            "text": " If you don't use it in every case, you can't increase the compiler's guarantee.  You can give it to the guarantee.  I will give you a size and give it to the array.  So, for the resizing, what you have to do is  1.2.8.12."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 777.02,
+            "end": 791.02,
+            "text": " 2.36.42.  You have to copy all the content array.  You have to copy all the content.  You can do it like this.  You can do it like this."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 791.02,
+            "end": 805.02,
+            "text": " If you are making a heap,  you can make a C++.  If you are making new operator,  you can make a C++.  In Star Meloc."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 805.02,
+            "end": 817.02,
+            "text": " I have not seen my C++ video.  I have put 15 hours with notes.  See, it looks like this.  I have told you about it.  You will skip the practice set."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 817.02,
+            "end": 829.02,
+            "text": " You will get in 6 hours.  I have done a lot of practice.  So, I have put it for 15 hours.  Meloc.  I am adding 10 to 12.16."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 829.02,
+            "end": 842.02,
+            "text": " I am writing it in this way.  I will multiply it with 10.  It is the size of operator and the size of the end.  I have a point here.  It is an end star A."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 842.02,
+            "end": 853.02,
+            "text": " I have an end star A.  I have pointed it out.  I have made an array and it is 10.  I will get 0 to 9.  I have 3 indexes."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 853.02,
+            "end": 871.02,
+            "text": " Now I want to expand it to the array.  Now I want to get the values of 0 to 0.  Because I have to store 20 elements in my array.  So what will happen?  I will make an array to store 20 elements in the array."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 871.02,
+            "end": 886.02,
+            "text": " I will make another pointer.  I will say int star b is equal to int star maloch 20 in size of int.  I will write this as a is equal to b.  I will point this as a is equal to this.  I can do this as a is equal to this."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 886.02,
+            "end": 899.02,
+            "text": " I cannot do this as a is equal to this.  I cannot do this as a is equal to this block.  This is how the array can be used.  Now why I am using the array?  Let's see the array."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 899.02,
+            "end": 911.02,
+            "text": " We have to make the array.  I have 10 addresses.  You will have to tell me what is the fourth element.  I will tell you how to store it.  I have 4-4 elements in a calculation."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 911.02,
+            "end": 929.02,
+            "text": " I have to write it in big or one time.  I will use 10 to get 10.  I will write it in that.  Plus 4 into i.  This address will be i or 20."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 929.02,
+            "end": 938.02,
+            "text": " I have written it in the same way.  If I add i equal to 0 here, I will come here to 10.  I will add i equal to 1.  I will write it here to 0, 1.  I will write it here to 0, 1."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 938.02,
+            "end": 943.02,
+            "text": " 2.  3.  4.  5.  6."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 943.02,
+            "end": 949.02,
+            "text": " I am gonna trust the 5-5 elements.  I have to add 5 elements to the 5-5 elements.  So, what I will do?  I will add 5.  I will add 5."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 949.02,
+            "end": 959.02,
+            "text": " I will add 10 and 20.  I will add 3 directly to the 6-5 elements.  And I will access it.  Then, the first axis is the array.  If I have to access this array,"
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 959.02,
+            "end": 971.02,
+            "text": " I am going from here,  plus plus plus plus plus plus plus plus.  Then, the pointer is.  The traversal.  If I make a variable or make a list or something else,"
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 971.02,
+            "end": 1000.02,
+            "text": " I could have got big of n in it.  I was getting big of 1 in my work.  I can access my work in constant time.  I can access my elements in a big of 1 in constant time.  I can access my work in a very fast run."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 1000.02,
+            "end": 1024.02,
+            "text": " I can access my work in a very fast run.  I will give you the value of this address.  I can also change the value of this address.  I have got a gap.  If I want to insert an element in it,"
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 1024.02,
+            "end": 1041.02,
+            "text": " I want to insert it in the 8th.  If I don't have sufficient size in this area,  I will have to make another area.  I will have to copy these elements.  I will have to insert a new element."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 1041.02,
+            "end": 1056.02,
+            "text": " I will have to copy 3642 here.  I will have to make a new area.  The insertion is slightly costly.  I want to delete that,  I mean that I don't want this element to be unpleasant."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 1056.02,
+            "end": 1075.02,
+            "text": " This deletion is also costly.  I have to do this element and I want to delete it.  and the element that is for the food is n.  So big of n time will be put in the food itself.  And then one of the places will be wasted."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 1075.02,
+            "end": 1088.02,
+            "text": " Let's not worry about that wasteage.  But after that, you must think about all these elements.  So I am asking for the operation that will take the cost.  So we will do our work.  We will write the set very directly."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 1088.02,
+            "end": 1103.02,
+            "text": " So programming language which is provided by default.  If you have created a array in C language, you can implement it in the ARR and set up the set up.  So ARR is equal to n.  So the set of the GATR is very easy in C language.  But we will see some more operations."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 1103.02,
+            "end": 1117.02,
+            "text": " We will implement this array ADD to structure.  Because we will build our PC.  This is our abstract data type.  We will make it from our own.  And we will give more operations to any user who is using it."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 1117.02,
+            "end": 1136.02,
+            "text": " So use it very easily.  And it will not be a problem when using the ARR.  So if you want to add two ARR.  In C language, you will have to write the function program.  But I will add user in my ADD to use my ADD method."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 1136.02,
+            "end": 1151.02,
+            "text": " And directly, you can add many ARRs.  So we will implement this structure.  I hope you understood the ADD.  And I understood the array that we use.  Faster, retrieval, faster, updation."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 1151.02,
+            "end": 1162.02,
+            "text": " And it becomes a gap in the array.  Deletion time and insertion time.  If I want to insert an element, it will cost me.  Because I have to read the case.  This is all continuous memory."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 1162.02,
+            "end": 1173.02,
+            "text": " All the locations are all continuous.  If you want to send it to the end of the 8th,  send it to the end of the 8th.  I want to maintain the order.  And then insertion time."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 1173.02,
+            "end": 1185.02,
+            "text": " I will have a problem there.  And if I need more place,  I will have to make another array for it.  I will have to copy it.  So we use the array."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 1185.02,
+            "end": 1195.02,
+            "text": " Because it is a file.  Now some users will depend on the use.  I will not use it.  I will depend on the problem.  And I will give you the practice."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 1195.02,
+            "end": 1206.02,
+            "text": " Now I want to tell you one thing.  These are the notes of the array.  I will give you this.  I have written it in the AID and ARI.  Now I will show you the notes."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 1206.02,
+            "end": 1216.02,
+            "text": " And with that, you did not do playless access.  Do not do that.  And with that, I have to add content on Instagram.  So if you have not followed Instagram,  then follow."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 1216.02,
+            "end": 1224.02,
+            "text": " Sometimes in future, you will update,  collect the course,  I know that there is no problem with this.  There is no problem with this.  There is no problem with this."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 1224.02,
+            "end": 1233.02,
+            "text": " So if something is different,  then I will update it quickly.  You can check it.  You will find the link in the description.  Now let's go to the notes."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 1233.02,
+            "end": 1244.02,
+            "text": " And after that, we will practice it.  We will take some methods.  And we will understand it.  So guys, this is the PDF that I have written for you.  And from this handwritten PDF,"
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 1244.02,
+            "end": 1258.02,
+            "text": " you will get a little idea of what the abstract data type is.  So I have defined it well.  So remember that the abstract data type,  that means the abstraction type,  is that you are getting the implementation details"
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 1258.02,
+            "end": 1268.02,
+            "text": " of the details that are going on.  And you are getting the correct information.  You are getting the correct information.  You have to do all these operations.  Now there is some minimal functionality."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 1268.02,
+            "end": 1279.02,
+            "text": " Like get set.  All these things that I need.  But here,  minimal required functionality is set  of operations that will be in the abstract data type."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 1279.02,
+            "end": 1289.02,
+            "text": " Now, the area as an Editing is defined.  The implementation of the programming language is done.  The area is an Editing hold.  The collection of element.  It can be float."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 1289.02,
+            "end": 1294.02,
+            "text": " It can be int.  It can be classes.  It can be in C++.  It can be structure.  In C language."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 1294.02,
+            "end": 1308.02,
+            "text": " That is, the similar elements you need.  The items that are similar.  This is an analytic float.  I have told you in the area that if you don't know in C language.  I will show you one side of the video."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 1308.02,
+            "end": 1321.02,
+            "text": " I have made a C language video for 15 hours.  You need to see it.  You need to learn C with 15 hours and notes.  I have told you everything.  I will just tell you one thing."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 1321.02,
+            "end": 1335.02,
+            "text": " I have taken 15 hours because I have done 2 projects in it.  I have taken a lot of time.  I have done time stamping.  I have done time stamping.  If you are watching this video,"
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 1335.02,
+            "end": 1351.02,
+            "text": " you will get time stamp.  You can skip the chapter chapter.  You can skip the chapter chapter.  I will tell you one more thing.  I will talk about the dynamic carries."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 1351.02,
+            "end": 1372.02,
+            "text": " The dynamic carries can be changed.  The area size of the box is not changed in C language.  We can make an ADT that can be made by abstract data type.  The way we can implement this functionality.  The way we can implement this functionality."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 1372.02,
+            "end": 1391.02,
+            "text": " You can copy the old elements in new elements.  The way we can make abstract data type is the dynamic carry.  I have told you all the operations that I have made.  I have made this ADT.  I have made this ADT."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 1391.02,
+            "end": 1405.02,
+            "text": " I will do it in a few days.  You have also told me that I can update the array.  Because I have to do a calculation.  I have taken a constant time.  I will do update."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 1405.02,
+            "end": 1433.02,
+            "text": " You want to do an experiment.  I have written index 0123.  I have written index 144.  I will talk about the language of 0.  I do not want to go to that detail."
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 1433.02,
+            "end": 1445.02,
+            "text": " I have written a series of languages.  you can see it now  if you want to know the truth  about the binary to decimal  to binary bit operations"
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 1445.02,
+            "end": 1455.02,
+            "text": " and it is like the practice  of language and practice  so you can see that i will add many videos  but if you want to stick  in data structures"
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 1455.02,
+            "end": 1465.02,
+            "text": " then i will say that you follow  this course and  you will find it very good  so  in this video"
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 1465.02,
+            "end": 1475.02,
+            "text": " you will find the data structure  and  if you don't have access to this  then you can save it  and i want to request"
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 1475.02,
+            "end": 1485.02,
+            "text": " that i am doing it  specifically  if you can do it  and i don't think you will be able to  share the link in your whatsapp"
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 1485.02,
+            "end": 1495.02,
+            "text": " college, college  and then you will work there  if you do it  then i will get help  and i will also"
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 1495.02,
+            "end": 1505.02,
+            "text": " plan a lot of things  if you want to make  you can share more  more videos  thank you so much guys"
+        },
+        {
+            "number": "06",
+            "title": "Arrays and Abstract Data Type in Data Structure (With Notes)",
+            "start": 1505.02,
+            "end": 1525.02,
+            "text": " for watching this video  and i will see you  next time  bye"
+        }
+    ],
+    "text": " Further?, please share the interesting article of this video. I have told you that the main component of PC can be done by using the main component. If you do the mistake, it will be done a little bit. If you don't get the mistake, it will follow the blueprint. So, what was here? I gave it a blueprint. I gave it a blueprint. It is called a minimal requirement. This is the PC. Now, it will make its PC build with its help. Now, what is the use of the app stack data? What does this mean? What happens to the PC build? Maybe you are not talking about the champion. The thing is, I have told you what processor to use. I have told you what graphics card to use. I have told you what to use for motherboard. I will tell you about the RAM chip. You can use this chip. You can use it for the Joheck Kingston. I have told you that you can use the main component of PC build with its help. The app stack data type is also the same as the blueprint. What does the Joheck do? The minimal requirement is explained along with some operations. So, there are some operations here. And there are some minimal requirements here. The data type is followed. So, I will write the minimal requirements here. So, the app stack data type is a model to make data structure. I have given the app stack data type once. So, the app stack data type can be written as the data structure of this data. And the data structure will be the actual implementation. So, the app stack data type, if I am talking about areas, you can implement it in a programming language. But I will give you some minimal requirements and some operations. So, the app stack data type, I will give you the MRF. I will not give you the MRF tire or the Batwala. I will give you the minimal required functionalities. And this can be a little confusing. Functionality. It can be a little confusing. What is the identity of this data? I have given the basic functionality of this data. By streaming, gaming, and other functionalities. And I have told you that all these things should be done. And then, a person can use a cable. And then, a ram can be used. And then, a lot of implementation can be done. And then, a lot of PC can be used. So, what is the abstract data type? I have told you that the minimal required functionality should be done. You go to CarPenter. You say, I need a table. I have already installed an adjust. I have also coded and I have also coded in the Bat. What else can I do? I have used Loa, Lackard, Plastic, Minimum, etc. I will also use some of these. But, this minimum required functionality should be done. And then, you can define some operations. You can open a drawer in that table. You can close the drawer. You can open an app. You can close the drawer. You can give it an operation. I will explain this in an example. And now, we will talk about the adjust. I will clear the board. If you are giving notes, I have made notes for you. Please download the description. I will put it here. I will put it here. I will put it here. And, we will do the same. The array of the adjust. Array as an abstract data type. Arrays as an abstract data type. By the way, what are the arrays? You will get a lot of programming languages. Arrays will be available in C, C++, and in Python, list. But, in arrays, there are some minimal functionalities. As you can see, I can get a method. And, if I write get i, I can set the element of the i-th position. I can set the i-th position in any number. I can set the index i-th value. I can set the set with it. If I am making a custom data type. I am writing an array of the implementation. I can add a method here. I can insert a method here. I can delete a method. I can add two arrays in the array. I want to add two arrays. So, I can write a lot of methods in the implementation. But, minimal functionalities are required to set the set. And, you can get a resize function. All these methods are available in the array. You can perform in arrays. You can use this blueprint to make your custom data type. And, you will depend on your implementation. As I will show you by making it from the structure. You can make it from the C++ class. If you are making it from the structure. You will depend on your implementation. When the size of the array is increasing. How do you do it? How do you copy all the elements? How do you copy all the elements? How do you keep an auxiliary array? You can define the data type. And, you can get many different operations in the array. Now, you can define all the operations. And, you can make your own array ADT. What does abstract mean? What does abstraction mean? Heading details. What does abstraction mean? What does abstraction mean? You can eat it. What does abstraction mean? You can eat it. Don't eat it. You can't get it in the implementation details. You can only use it in the implementation details. You can use it. You can use it in the implementation. We will keep it in the array. You can use the insert in the array. You don't have to use it. We have made the structure in the insert. We have made the pointer. The inside part of it has some other feature on theuche, The places using the posterior basically are based on the system. We take\u304b\u3063\u305f from a laptop to a laptop. We open this document in method description. Go to Instagram, PixivVem by Twitter. then please do shut down of this video pew as there is science do you know few reports character so they have penetrated the natural law Now let's discuss the array of the methods. Let me explain the array of the methods. So the array of the elements, collection of elements, and the array of the elements, I have written in the notes, so don't take too much tension, by index, by index, index, I will show you a little bit of the text, I have written notes, I have written notes, yes, think like this, I have written notes, I have written notes, so I will explain it quickly, so what is the array that is available? Let's see. Let me show you the memory layout of a C program, there is a code section, what happens here? I have initialized and uninitialized segments, then there is a stack, and here is a heap, the stack is available in the function of the variable, the local variable is available, so you will call your function and make your stack, if you make an array, the array will be here, and you will get the memory in the stack, but if you use a memory like a resource, if you make an array, then you should have said that I have given 10 elements, now here 0, 1, 2, 3, this is 9, and the index, the array of the elements, is 0, because when we start from 0, we get some advantage, I will not go to that, but search on the network, you can see the paper of a Dixstra, it has explained how to start from 1, so what will happen? If we start from 0, then why the calculation will be easy, when we try to access the index, I will not go to that, let me tell you what is the array, now consider that you request an array here, in the heap, then you get the contiguous block of the memory, that is, if you add it from the address, or if you add it from the address, and I am getting the integer, 4 bytes, it is 2 bytes, but I am getting 4 bytes, I will depend on architecture, 4, 8, 8, 8, 6, and this is how the address will be, this is the 4 bytes, this is the integer, this is the 4 bytes, this is the integer, and this is the integer, now consider that it is 6 bytes, and this will be the 3 bytes, this will be the 4 bytes, and here, the second memory location will start, which is not with me, it is not with me, and this is the 38 bytes, and this is the second memory, you cannot resize the array, because if you do resize, then you need this memory, this memory, consider that you have created this array, and this is the first memory, you need to take 10 to 8 bytes, and this is the block of memory, and you will get it, and now, if you go to shop, and you have this, you can give this to the shop, and you go, you think this is a good neat-off, and you say, you can go back, and you can do this in shop, and you can do this in shop, and you can go back, so if you say that I am giving you a big gift, then you won't get it. Why won't you get it? If you asked your memory to request, then I think that the second application will be presented to this memory, and that will be done, or that it will be done with this memory, or that same program that was available in the same program, that was allocated to this memory, so you say that I want to increase this, You can't increase it in the array. You can increase it in the English language but you can't increase it in this language. Because you asked your memory to the other person. After that, what is the memory of the memory that you are using? Who is not using it? If you don't use it in every case, you can't increase the compiler's guarantee. You can give it to the guarantee. I will give you a size and give it to the array. So, for the resizing, what you have to do is 1.2.8.12. 2.36.42. You have to copy all the content array. You have to copy all the content. You can do it like this. You can do it like this. If you are making a heap, you can make a C++. If you are making new operator, you can make a C++. In Star Meloc. I have not seen my C++ video. I have put 15 hours with notes. See, it looks like this. I have told you about it. You will skip the practice set. You will get in 6 hours. I have done a lot of practice. So, I have put it for 15 hours. Meloc. I am adding 10 to 12.16. I am writing it in this way. I will multiply it with 10. It is the size of operator and the size of the end. I have a point here. It is an end star A. I have an end star A. I have pointed it out. I have made an array and it is 10. I will get 0 to 9. I have 3 indexes. Now I want to expand it to the array. Now I want to get the values of 0 to 0. Because I have to store 20 elements in my array. So what will happen? I will make an array to store 20 elements in the array. I will make another pointer. I will say int star b is equal to int star maloch 20 in size of int. I will write this as a is equal to b. I will point this as a is equal to this. I can do this as a is equal to this. I cannot do this as a is equal to this. I cannot do this as a is equal to this block. This is how the array can be used. Now why I am using the array? Let's see the array. We have to make the array. I have 10 addresses. You will have to tell me what is the fourth element. I will tell you how to store it. I have 4-4 elements in a calculation. I have to write it in big or one time. I will use 10 to get 10. I will write it in that. Plus 4 into i. This address will be i or 20. I have written it in the same way. If I add i equal to 0 here, I will come here to 10. I will add i equal to 1. I will write it here to 0, 1. I will write it here to 0, 1. 2. 3. 4. 5. 6. I am gonna trust the 5-5 elements. I have to add 5 elements to the 5-5 elements. So, what I will do? I will add 5. I will add 5. I will add 10 and 20. I will add 3 directly to the 6-5 elements. And I will access it. Then, the first axis is the array. If I have to access this array, I am going from here, plus plus plus plus plus plus plus plus. Then, the pointer is. The traversal. If I make a variable or make a list or something else, I could have got big of n in it. I was getting big of 1 in my work. I can access my work in constant time. I can access my elements in a big of 1 in constant time. I can access my work in a very fast run. I can access my work in a very fast run. I will give you the value of this address. I can also change the value of this address. I have got a gap. If I want to insert an element in it, I want to insert it in the 8th. If I don't have sufficient size in this area, I will have to make another area. I will have to copy these elements. I will have to insert a new element. I will have to copy 3642 here. I will have to make a new area. The insertion is slightly costly. I want to delete that, I mean that I don't want this element to be unpleasant. This deletion is also costly. I have to do this element and I want to delete it. and the element that is for the food is n. So big of n time will be put in the food itself. And then one of the places will be wasted. Let's not worry about that wasteage. But after that, you must think about all these elements. So I am asking for the operation that will take the cost. So we will do our work. We will write the set very directly. So programming language which is provided by default. If you have created a array in C language, you can implement it in the ARR and set up the set up. So ARR is equal to n. So the set of the GATR is very easy in C language. But we will see some more operations. We will implement this array ADD to structure. Because we will build our PC. This is our abstract data type. We will make it from our own. And we will give more operations to any user who is using it. So use it very easily. And it will not be a problem when using the ARR. So if you want to add two ARR. In C language, you will have to write the function program. But I will add user in my ADD to use my ADD method. And directly, you can add many ARRs. So we will implement this structure. I hope you understood the ADD. And I understood the array that we use. Faster, retrieval, faster, updation. And it becomes a gap in the array. Deletion time and insertion time. If I want to insert an element, it will cost me. Because I have to read the case. This is all continuous memory. All the locations are all continuous. If you want to send it to the end of the 8th, send it to the end of the 8th. I want to maintain the order. And then insertion time. I will have a problem there. And if I need more place, I will have to make another array for it. I will have to copy it. So we use the array. Because it is a file. Now some users will depend on the use. I will not use it. I will depend on the problem. And I will give you the practice. Now I want to tell you one thing. These are the notes of the array. I will give you this. I have written it in the AID and ARI. Now I will show you the notes. And with that, you did not do playless access. Do not do that. And with that, I have to add content on Instagram. So if you have not followed Instagram, then follow. Sometimes in future, you will update, collect the course, I know that there is no problem with this. There is no problem with this. There is no problem with this. So if something is different, then I will update it quickly. You can check it. You will find the link in the description. Now let's go to the notes. And after that, we will practice it. We will take some methods. And we will understand it. So guys, this is the PDF that I have written for you. And from this handwritten PDF, you will get a little idea of what the abstract data type is. So I have defined it well. So remember that the abstract data type, that means the abstraction type, is that you are getting the implementation details of the details that are going on. And you are getting the correct information. You are getting the correct information. You have to do all these operations. Now there is some minimal functionality. Like get set. All these things that I need. But here, minimal required functionality is set of operations that will be in the abstract data type. Now, the area as an Editing is defined. The implementation of the programming language is done. The area is an Editing hold. The collection of element. It can be float. It can be int. It can be classes. It can be in C++. It can be structure. In C language. That is, the similar elements you need. The items that are similar. This is an analytic float. I have told you in the area that if you don't know in C language. I will show you one side of the video. I have made a C language video for 15 hours. You need to see it. You need to learn C with 15 hours and notes. I have told you everything. I will just tell you one thing. I have taken 15 hours because I have done 2 projects in it. I have taken a lot of time. I have done time stamping. I have done time stamping. If you are watching this video, you will get time stamp. You can skip the chapter chapter. You can skip the chapter chapter. I will tell you one more thing. I will talk about the dynamic carries. The dynamic carries can be changed. The area size of the box is not changed in C language. We can make an ADT that can be made by abstract data type. The way we can implement this functionality. The way we can implement this functionality. You can copy the old elements in new elements. The way we can make abstract data type is the dynamic carry. I have told you all the operations that I have made. I have made this ADT. I have made this ADT. I will do it in a few days. You have also told me that I can update the array. Because I have to do a calculation. I have taken a constant time. I will do update. You want to do an experiment. I have written index 0123. I have written index 144. I will talk about the language of 0. I do not want to go to that detail. I have written a series of languages. you can see it now if you want to know the truth about the binary to decimal to binary bit operations and it is like the practice of language and practice so you can see that i will add many videos but if you want to stick in data structures then i will say that you follow this course and you will find it very good so in this video you will find the data structure and if you don't have access to this then you can save it and i want to request that i am doing it specifically if you can do it and i don't think you will be able to share the link in your whatsapp college, college and then you will work there if you do it then i will get help and i will also plan a lot of things if you want to make you can share more more videos thank you so much guys for watching this video and i will see you next time bye"
+}

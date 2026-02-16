@@ -1,0 +1,1006 @@
+{
+    "chunks": [
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 0.0,
+            "end": 25.0,
+            "text": " In today's video, we will talk about some of the operations in the area.  Now we will see what operations we want to do on the area.  Now you can do a lot of operations on an area.  You can do any kind of operation, travel, insertion, sorting.  You can skip every two elements and move on to other parts of the area."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 25.0,
+            "end": 48.0,
+            "text": " Now we will talk about the first operation of the operation.  I will discuss about the first operation in the first video.  We will see the first operation in this video.  First, we will see the first one in the insertion.  The third operation will be the deletion."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 48.0,
+            "end": 76.0,
+            "text": " Deletion.  And along with that, we will see the operation searching.  Now you can see the operation in the first video.  We will talk about the first operation in the first video.  Now the first operation in the first video is traversal."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 76.0,
+            "end": 91.0,
+            "text": " Now the traversal is easier to do.  The second one is 2mdb2.  This is the first time I have come here.  But I have to tell you the name of the traversal.  I will not discuss the traversal."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 91.0,
+            "end": 137.0,
+            "text": " I will not waste time here.  If you are a C, you can come here.  You can come here in areas.  I am telling you that this is very important.  I will not put this on board."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 137.0,
+            "end": 152.0,
+            "text": " I will show you the simple form loop.  Now if I tell you the definition of traversal.  If you ask me what is traversal?  I will not say this.  Now I will tell you the meaning of traversal."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 152.0,
+            "end": 168.0,
+            "text": " Every element of the array has to visit me once.  If you have a festival in your house.  And your father says that go to the house of ten relatives.  And bring their blessings there.  So what you will do?"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 168.0,
+            "end": 187.0,
+            "text": " You will do the traversal.  Okay?  So here you have 0, 1, 2, 3.  So you all must visit one more time.  If you have a whole array, then your traversal will be there."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 187.0,
+            "end": 203.0,
+            "text": " And you can do it at any time.  Or you want to print all the elements of this array.  Or you want to set this array.  Or you have created this new array.  You say, I will add some value."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 203.0,
+            "end": 215.0,
+            "text": " I will add some value.  I will add some values.  I will add some values.  I will add some values.  So I will add all the block and integer."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 215.0,
+            "end": 227.0,
+            "text": " I will assume it.  You will have to access the integer block.  You will have to say that you have traversed.  You have traveled.  When you go to the path, you travel in the path."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 227.0,
+            "end": 237.0,
+            "text": " You travel in the area.  Hence the name traversal.  You do not need to print.  You will do it at any time.  You can do it at any time."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 237.0,
+            "end": 248.0,
+            "text": " You can do it at any time.  You can update all the elements of this array.  I want to update them.  I am doing all the other elements of this array.  This is our traversal."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 248.0,
+            "end": 263.0,
+            "text": " So this is clear.  If you are looking at this array, then you will see 0, 1, 2, 3.  Why you have created this array?  Your system is now the same.  You have to see the whole procedure."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 263.0,
+            "end": 273.0,
+            "text": " You have to see the entire procedure.  You have to go there and do the process.  It takes 15 minutes for the rest of the time,  In the morning you wake up with 15 minutes,  When you wake up in the morning,"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 273.0,
+            "end": 279.0,
+            "text": " When you wake up with 15 minutes,  Go to the evening,  Go to the evening,  You wake up with 11.  You wake up with 11."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 279.0,
+            "end": 289.0,
+            "text": " You wake up with 11.  I have written it in 15 hours.  So you can see it in the breaks.  When you can see it easily,  I have done it with practice."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 289.0,
+            "end": 299.0,
+            "text": " So what will happen here?  Let's check the number of elements.  Now I will tell you what I will tell you.  The one that you have made is  You say"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 299.0,
+            "end": 311.0,
+            "text": " You say compiler  Yes, what are you saying?  You say compiler int arr  So what will compiler do?  You will go to the library"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 311.0,
+            "end": 321.0,
+            "text": " You say it is correct.  You have to use the 100 block of memory.  You have to use the 100 block.  You can use the 0 to 90.  Now your goal is"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 321.0,
+            "end": 331.0,
+            "text": " To use the 100 block  Or 5 block  You can use the 3 block  Or 5 block  Or 4 block"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 331.0,
+            "end": 341.0,
+            "text": " Or 5 block  So your goal is  To use the block  This block is your own.  you fall in love"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 341.0,
+            "end": 357.46,
+            "text": " CLIO Listen  You get to your personal\u4e0d\u5230  You will have 1x and 1x.  So your judgment will be  You will know that your Giving"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 357.46,
+            "end": 362.98,
+            "text": " Your visa sir will be  You\uc0ac\ub3c4  You will pay  You can actually get me  You will get my ticket"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 362.98,
+            "end": 373.14,
+            "text": " A few Microsoft  here  So you are saying that these three houses are mine?  I am using them.  So, why are you saying that you are not using this house?"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 373.14,
+            "end": 386.14,
+            "text": " You have reserved them.  This is your whole house.  You can use one house and empty the three houses.  That is your opportunity.  Similarly, I have reserved the house for 100 elements."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 386.14,
+            "end": 392.14,
+            "text": " So, this is my opportunity.  I am using one house.  I am using 2 houses.  I am using 5 houses.  I am using 10 houses."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 392.14,
+            "end": 404.14,
+            "text": " I cannot use 10,000 houses.  But because they are small.  I am using 100 in the entire space of the entire integer.  I cannot use 100 in the entire space.  I cannot use them less."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 404.14,
+            "end": 411.14,
+            "text": " I cannot use them more.  I cannot go to this space.  This is not possible.  This is not possible.  You can go anywhere."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 411.14,
+            "end": 418.14,
+            "text": " When there is a house, and I am using 4 houses,  then I will read them.  I will say that this house is mine.  I will say that why are you saying that it is mine?  Why are you saying that it is mine?"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 418.14,
+            "end": 426.14,
+            "text": " That is the same.  You can also use this house in the area.  I am using 0 to 99.  What you have done?  You have reserved your space."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 426.14,
+            "end": 435.14,
+            "text": " You have just gone from the compiler.  This compiler is 0 to 99.  The space in the integer blocks,  it is called contiguous blocks.  The area in the array is a parivasha."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 435.14,
+            "end": 444.14,
+            "text": " This is the same in the same way in the other hand.  As I told you in the memory,  it takes 4-4 bytes.  If the main low is 0,  this is 4,"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 444.14,
+            "end": 453.14,
+            "text": " this is 8,  then this is 12.  You will get 4-4 gape in the gap.  You will get the address to see the memory.  Because this is contiguous blocks."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 453.14,
+            "end": 462.14,
+            "text": " If you have the command low,  you will need to use the feature in the future.  And the blocks.  You cannot request that.  You will have to copy the new array."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 462.14,
+            "end": 471.14,
+            "text": " In traversal,  we will use 5-4,  we will use all the elements.  We will use them all.  So what can you do?"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 471.14,
+            "end": 482.14,
+            "text": " You can make two variables.  You can make capacity.  You can make a size here.  You can make a size here.  You can use the size of the size."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 482.14,
+            "end": 494.14,
+            "text": " You can use the capacity of the element.  You can use the capacity of the element.  This is so important.  You can make a 10-liter water here.  You can make a 10-liter water here."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 494.14,
+            "end": 504.14,
+            "text": " You can make a 10-liter water here.  If you need 10-liter water,  then I will also store 10-liter water.  So you can reserve more memory.  You can make a size of the capacity of the array."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 504.14,
+            "end": 516.14,
+            "text": " You can use 5-4 bytes.  Now we will use this.  I will write a dot dot.  If you have seen the notes,  then I will show you the notes."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 516.14,
+            "end": 525.14,
+            "text": " I will show you the notes.  Here I have written a dot dot.  Here I have written an array here.  Here I have written a dot dot.  And this dot dot means,"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 525.14,
+            "end": 539.14,
+            "text": " the size of the array is bigger.  The size of the array is larger.  We will keep it.  With that set, our traversal is complete.  We will not take the traversal tension."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 539.14,
+            "end": 553.14,
+            "text": " This is the array we made.  And this is the array.  I have just visited every element once.  And my traversal is complete.  I will make a little place here."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 553.14,
+            "end": 564.14,
+            "text": " And I will tell you the rest of the operations after making a little place.  So the traversal is very easy.  You can put a forward loop.  Till you reach the size of the element,  I will also show you the coding."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 564.14,
+            "end": 575.14,
+            "text": " I will tell you a little bit.  Till you reach the size of the element,  you will keep it.  And then,  you will have to print the entire element."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 575.14,
+            "end": 584.14,
+            "text": " You will have to print it.  Okay, no one is like that.  Let's talk about insertion.  And listen to my array.  Now you say,"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 584.14,
+            "end": 599.14,
+            "text": " I have to insert 5 in index number 2.  That is,  I have to insert 5 in index number 2.  Now listen carefully.  Here, with 0,"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 599.14,
+            "end": 606.14,
+            "text": " here,  8,  here, 9.  Now you have to insert 5 in index number 2.  If you insert 5 in index number 2,"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 606.14,
+            "end": 617.14,
+            "text": " then what will happen to the number?  So this will be the problem.  So we have to keep the 9 in the same place.  And we have to insert 5 in the same place.  Now listen to the case."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 617.14,
+            "end": 630.14,
+            "text": " What is the case 1?  The case 1 is that you want to maintain the order.  That means, if 5 is coming here,  9, 10 and 15 are coming in one order.  So you have to make a gap here."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 630.14,
+            "end": 639.14,
+            "text": " How will the gap be?  How will the gap be?  Shift the element.  So let's see how I do this here.  This was my array."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 639.14,
+            "end": 647.14,
+            "text": " 7, 8, 9.  Okay?  10 or 15.  Let's leave this.  You will get a school 4."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 647.14,
+            "end": 655.14,
+            "text": " Okay, there will be a assembly.  So what happens in this assembly?  It looks like a child.  Okay, this is a child.  Okay, if we are getting something,"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 655.14,
+            "end": 664.14,
+            "text": " we are getting something,  we are getting something.  There is a screen.  And you people are in the line.  Okay, your friend is here."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 664.14,
+            "end": 674.14,
+            "text": " You come here.  You say, this is your friend.  I am getting a lot of pressure in the line.  I am getting a lot of pressure in the line.  So if you want to put it in the line,"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 674.14,
+            "end": 682.14,
+            "text": " then you have to shift it.  Because there are many trains.  Okay,  or this one will be left behind.  Now why will this one be left behind?"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 682.14,
+            "end": 687.14,
+            "text": " It is coming.  It is coming.  It is coming.  So what will we do?  We will put it in the line."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 687.14,
+            "end": 696.14,
+            "text": " And what will happen?  We will shift it all.  So if I have to get 5 index number 2,  then I have to read these books first.  Okay?"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 696.14,
+            "end": 702.14,
+            "text": " Now it seems like you are doing this in the school.  And if you take it first,  then you will be tired.  You have to do it.  What happens here?"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 702.14,
+            "end": 708.14,
+            "text": " You have to make a place first.  So it will be 15.  And here there are many blocks here.  It is going up till 99.  0, 1,"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 708.14,
+            "end": 720.14,
+            "text": " 2, 3.  4.  And this is going up till 99.  So here I have to shift 15.  Okay?"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 720.14,
+            "end": 729.14,
+            "text": " Then I have shifted 15.  So what will happen?  I will shift 10.  Okay?  And I will shift 9."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 729.14,
+            "end": 740.14,
+            "text": " And then I will shift 5.  I will keep it here.  So what I have to do first is to insert.  To insert,  you have to press the elements."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 740.14,
+            "end": 749.14,
+            "text": " Okay?  Now if you are a very lucky person,  you are a very lucky person.  So you will be doing it in the air.  So if you are lucky,"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 749.14,
+            "end": 757.14,
+            "text": " then you will get 5 index number.  I will tell you that you will insert 5.  You will keep it quietly.  If there was no one in the 5th,  and this will be the area of the air,"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 757.14,
+            "end": 765.14,
+            "text": " there will be no problem.  So the best case of this is  how much time it will be,  its computational complexity will be,  big of 1."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 765.14,
+            "end": 777.14,
+            "text": " That means you will be able to insert  in constant time.  I will write you the best case.  The best case insertion will be here.  Big O of 1 time."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 777.14,
+            "end": 788.14,
+            "text": " Now what will happen here?  If I want to do the worst case insertion,  I am a very lucky person.  And the person who is lucky,  then what will happen?"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 788.14,
+            "end": 799.14,
+            "text": " Then I will tell you that I have to put here the element.  Okay?  I have to do all that.  If I have got this insertion,  then I have to insert another one."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 799.14,
+            "end": 810.14,
+            "text": " I have to do the whole area.  I have to put 15 here.  I have to put 10 here.  I have to put 9 here.  I have to put 5 here."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 810.14,
+            "end": 819.14,
+            "text": " I have to put 8 here.  I have to put 5 here.  I will make 1 place here.  I will get an element insert here.  You can write it in the same way."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 819.14,
+            "end": 830.14,
+            "text": " Then I will make a mistake here.  I have to write it in the same way.  I will make 10 here.  I will make 5 here.  I will make 8 here."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 830.14,
+            "end": 842.14,
+            "text": " I will make 7 here.  Now I can insert 3 elements.  Okay?  I will insert 3 here.  I will insert 3 here."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 842.14,
+            "end": 858.14,
+            "text": " I have to put so many elements in the worst case.  I have to put N in the worst case.  So, Bgo of N is my worst case.  Now I told you that no algorithm is yours.  You are in the best case, there is no constant time."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 858.14,
+            "end": 869.14,
+            "text": " There is no such case in the Dhoondi logo,  where you will get constant runtime.  That is why we do not talk about the best case.  We talk about the worst case.  So, we do not talk about the best case."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 869.14,
+            "end": 884.14,
+            "text": " We talk about the worst case.  So, what will happen in the worst case?  In the worst case, Bgo of N will be yours.  So, I will tell you Bgo of N in the complexity of this.  Let us talk about this."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 884.14,
+            "end": 894.14,
+            "text": " This is the case 1.  You have to order and maintain.  What will happen in case 2?  It will be case 2.  I will write here case 2."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 894.14,
+            "end": 911.14,
+            "text": " I will make a little bit of a place here.  Let us put it here.  If I make a little bit of a place.  If someone says that I have to insert 5 here.  Here, I have to insert 5 here."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 911.14,
+            "end": 925.14,
+            "text": " At index 2.  And we do not have to order.  We do not have to order.  I will say 8.  This will go to the end and 5."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 925.14,
+            "end": 935.14,
+            "text": " And space is very big.  And you have to pay attention to one thing.  When you insert in the area.  The size variable is kept.  You are using the element of the element."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 935.14,
+            "end": 944.14,
+            "text": " You must update it in that area.  You must press 1.  If you do traversal, you must miss this element.  So, update the size.  I will show you in coding."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 944.14,
+            "end": 956.14,
+            "text": " So, all these are in notes.  There is no tension.  I have uploaded all the notes.  I want to talk about this.  People say that there are zip files in the phone."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 956.14,
+            "end": 967.14,
+            "text": " I have kept all the zip files for convenience.  Look, search for internet.  How to unzip the file?  If you do not want to unzip the zip.  See, it is very important."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 967.14,
+            "end": 978.14,
+            "text": " You will also work in the future.  I will unzip all the code, source, code, PDF, etc.  If you come to this place, you will be able to download it.  I will give you 10 places.  I will unzip the zip file."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 978.14,
+            "end": 988.14,
+            "text": " I will unzip the computer.  You will have to google this.  I will unzip the video.  I want to make a video.  I will search for the link."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 988.14,
+            "end": 1004.14,
+            "text": " I have inserted the link.  I have inserted it in two cases.  Now, let's talk about the deletion.  We will also get the link in the deletion.  The deletion and insertion are different."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1004.14,
+            "end": 1024.1399999999999,
+            "text": " Let's put the element in the array.  Let's remove it in the deletion.  If you want to delete the book.  I will delete it first.  The only one where I'm going to demount the file."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1024.1399999999999,
+            "end": 1044.82,
+            "text": " This particular file cannot do anything in the delay.  I will  delete the file according to the order recording.  That is the re Command.  3,5,9,10,15"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1044.82,
+            "end": 1058.82,
+            "text": " and here we will see this way  I will make this here, and you can see this  this is how it looks  I have removed this element, so I have to eat all the elements  now you will tell the complexity of the best case"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1058.82,
+            "end": 1068.82,
+            "text": " I will stand here, put it in the comments  with the time stamp  what will happen with the best case  the deletion, what will happen with the worst case  I will also know that you are watching these videos"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1069.82,
+            "end": 1082.82,
+            "text": " come on, now let us post the comment  what is the best case deletion  and what is the worst case deletion  and what is the error in this method  this is the case 1"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1082.82,
+            "end": 1091.82,
+            "text": " ok  let me write it down  I will tell you the same  the best case of bigo of 1  you have to delete the last element"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1091.82,
+            "end": 1101.82,
+            "text": " so bigo of 1  and bigo of 1  if you have to delete the first element  then it is 2  so the case 2 is"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1101.82,
+            "end": 1111.82,
+            "text": " the element's order meter  so what will you do  delete this element  and see the last element  why are we doing this"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1111.82,
+            "end": 1126.82,
+            "text": " because the best option is  if you have to put it in the line  and it says  I don't have anything in the line  so what will you do"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1126.82,
+            "end": 1136.82,
+            "text": " I will put it in your place  so that is the best  if you have to do something else  you should do it  so what will you do"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1136.82,
+            "end": 1147.82,
+            "text": " and if you don't have the order  then what will you do  delete the 15th  so you have deleted the most  and the size is equal to"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1147.82,
+            "end": 1158.82,
+            "text": " 1  so you will do the same  so you will do the same  so you were doing it  so how long were you doing it"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1158.82,
+            "end": 1167.82,
+            "text": " so you were using 7 elements  and now you are doing it  0 to 5 is 6  0 to 5 is 5  sometimes interviews are 6"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1167.82,
+            "end": 1175.82,
+            "text": " you can say  you are using so many elements  so what will happen  so why not  so your alertness"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1175.82,
+            "end": 1182.82,
+            "text": " will be tested  so you can say  you are saying  you are saying  5 is not wrong"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1182.82,
+            "end": 1191.82,
+            "text": " sorry sorry sorry sorry  now you are not  okay so remember  so this is our  case 2"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1191.82,
+            "end": 1198.82,
+            "text": " we will delete the constant time  if we have case 2  the best case  the worst case  here"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1198.82,
+            "end": 1204.82,
+            "text": " the size of the end  will be the same  it will be the same  it will be the same  so this complexity"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1204.82,
+            "end": 1209.82,
+            "text": " you will understand  in case 2  the constant time  will be the same  insertion"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1209.82,
+            "end": 1216.82,
+            "text": " and the delay  okay  but here  another thing  which we have not seen"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1216.82,
+            "end": 1224.82,
+            "text": " is that  if we insert the element  and insert it  then what will we do  after that"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1224.82,
+            "end": 1233.82,
+            "text": " we cannot insert it  then we have 1  then we have 1  then we have to  add 2 to 2"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1233.82,
+            "end": 1239.82,
+            "text": " then we have to copy  we have to make another  we have to copy it  we have to copy all the elements  because"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1239.82,
+            "end": 1247.9399999999998,
+            "text": " if its  element of Panth Responsibility  means ...  its ledge  you consensus"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1247.9399999999998,
+            "end": 1255.82,
+            "text": " Yes  most of you deal with  can you see  what exactly  if we insert on a"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1255.82,
+            "end": 1265.82,
+            "text": " Easy  again  fill 15  and now  look"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1265.82,
+            "end": 1281.82,
+            "text": " how can you say  I talked to you  with many  So, you are going to the area of this area, or the overflow condition, or the overflow condition.  You are going to the area of the stream, or you are breaking the border."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1281.82,
+            "end": 1298.32,
+            "text": " You cannot park here, right?  Line of control, this and this.  Okay, you stay in your country.  Don't go out, without passport visa.  So, here you guys understood how we are going to get a big capacity area."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1298.32,
+            "end": 1309.82,
+            "text": " You can do small size area in third-lead deceptions.  Okay, you can also write code.  So, you see this, you see this.  Let's talk about the searching.  Okay, let me give you all the information."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1309.82,
+            "end": 1322.82,
+            "text": " If you talk about searching, I have talked to you guys.  For some previous videos, by the way, you did not access your playlist.  And you have seen this video.  So, I will say that you will be very good for this.  And you will be able to find the description and post the playlist."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1322.82,
+            "end": 1343.32,
+            "text": " Because, there are all the videos uploaded there.  I made a video, I analyzed two algorithms.  I had named one first, I had named two other algorithms.  And I told you guys that, look at this.  What is the one that is the one that is searching the linear."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1343.32,
+            "end": 1363.32,
+            "text": " If you have this area of 7, 10, and you have 18, then you have 1, then 3.  You have 8 search in this area.  So, you will do this, and search all the elements.  If it is not sorted, then you can search it like this.  You can do this, and search all the elements."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1363.32,
+            "end": 1376.82,
+            "text": " But, if this area is sorted, then you will do binary search.  Let's call it linear search.  And binary search.  Let's see what is binary search.  If this area is sorted,"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1376.82,
+            "end": 1392.82,
+            "text": " then you will find 7, 10, 8, and then 1, then you will find it sorted.  If I am not saying that you will find all the elements.  So, what do you do now?  You will see that this is 7 and 10,  The 8 is 7 and 10,"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1392.82,
+            "end": 1407.82,
+            "text": " You will find this as low.  Now, you will find this as high.  You will first check that this is 7 and 10,  If this is 7 and 10, then what will you do now?  Make the low plus high by 2,"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1407.82,
+            "end": 1418.82,
+            "text": " So, if this is your 0, 1, 2, 3, 4.  So, what will be 0 plus 4 by 2?  Your mid will be your equal.  And you will find this as your greatest,  Now, your mid will be your 2,"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1418.82,
+            "end": 1427.82,
+            "text": " So, the mid will be your 2, then you will be your mid.  You will see that this is a big mid,  This is a small mid.  Now, what will you do?  Make it high,"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1427.82,
+            "end": 1442.82,
+            "text": " Now, my brother is here.  You have started your work,  If you search for it, you have made half of it.  Then you will get the work done similarly.  When your air is finished or your element is available,"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1442.82,
+            "end": 1455.82,
+            "text": " you will convert it.  You will convert it.  And after this convertions, your divorce will be finished.  And finally you will reach the element.  What will you do?"
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1455.82,
+            "end": 1473.82,
+            "text": " You will have to make 2 plus 0 by 2.  The low is your 0 and your high is the 1.  Okay? What will happen?  If you try to convert it again, the low and high will be the same.  That means you will not get the element."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1473.82,
+            "end": 1488.82,
+            "text": " So the benefit of the binary search is that you analyzed it.  I had analyzed the video twice.  I was comparing it with every element.  What was I doing?  I was comparing half of it to you."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1488.82,
+            "end": 1499.82,
+            "text": " Because my air was sorted.  But it is not sorted.  So you should use the linear search.  Otherwise the binary search will not increase your work.  That means you will not increase your time."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1499.82,
+            "end": 1509.82,
+            "text": " That means you will get computationally.  Computationalally.  Computationalally is expensive.  Computationalally is expensive.  You are doing unnecessary computation."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1509.82,
+            "end": 1522.82,
+            "text": " Computationalally is expensive.  Computationalally is cheap.  You are working less time.  You are working less space.  So we have also seen the search."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1522.82,
+            "end": 1533.82,
+            "text": " We will understand these things by coding.  I have kept notes.  You all are doing it.  Now you have no excuses.  You will not learn the data structure."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1533.82,
+            "end": 1545.82,
+            "text": " Now you have no reason to know what was your excuse.  Now you have no reason to know.  I am practicing.  If you have seen the video of the whole Buddha,  then you will understand my guarantee."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1545.82,
+            "end": 1557.82,
+            "text": " I don't think you need anything else.  Let me talk about sorting.  We will cover sorting algorithms.  We will cover sorting.  Assending order and descending order will be less."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1557.82,
+            "end": 1567.82,
+            "text": " Like this.  This is called SADAS 151.  So we have to sort them.  I will do this in increasing order.  This is sorted."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1567.82,
+            "end": 1579.82,
+            "text": " This is sorted.  So you will know what is sorted.  English word.  If you don't know, this is sorted.  This is also our."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1579.82,
+            "end": 1592.82,
+            "text": " So I have made notes for you.  You all are doing it.  You all are doing it in a very comfortable way.  I have summarized all of them.  You all should have a traversal."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1592.82,
+            "end": 1608.82,
+            "text": " Insertion, deletion, search.  I have summarized all of these.  We have also written notes for you.  You should have written it in your hands.  I have tried to make it clean."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1608.82,
+            "end": 1626.82,
+            "text": " I have given you all these.  You should have written notes.  I will show you the data structure of algorithms.  You have not access many people.  I have done this for 14,000 people."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1626.82,
+            "end": 1646.82,
+            "text": " I want all of you to access all of them.  You will see the steps and steps of my course.  You will be able to access the complete course.  You can see the video in the future.  You can see the time complexity of the course."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1646.82,
+            "end": 1662.82,
+            "text": " But if you are a beginner starting,  you will have to access the link in the description.  I hope you all have understood all the operations.  We will do this in the coming videos.  We will code these operations in C language."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1662.82,
+            "end": 1678.82,
+            "text": " You will be able to do it in C++.  If you come to C++,  I have used C++ for obvious reasons.  Initially,  I used Python, Java, etc."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1678.82,
+            "end": 1696.82,
+            "text": " I have also told you the same thing.  I am using C++ here.  Majority of the C++ was the data structure of algorithms.  We will do all the things in the coming videos.  We will understand the more the more the theories we have seen."
+        },
+        {
+            "number": "09",
+            "title": "Operations on Arrays in Data Structures\uff1a Traversal, Insertion, Deletion and Searching",
+            "start": 1696.82,
+            "end": 1707.82,
+            "text": " I hope you all will like this course.  Please share this video with your friends.  Thank you so much for watching this video.  I will see you next time."
+        }
+    ],
+    "text": " In today's video, we will talk about some of the operations in the area. Now we will see what operations we want to do on the area. Now you can do a lot of operations on an area. You can do any kind of operation, travel, insertion, sorting. You can skip every two elements and move on to other parts of the area. Now we will talk about the first operation of the operation. I will discuss about the first operation in the first video. We will see the first operation in this video. First, we will see the first one in the insertion. The third operation will be the deletion. Deletion. And along with that, we will see the operation searching. Now you can see the operation in the first video. We will talk about the first operation in the first video. Now the first operation in the first video is traversal. Now the traversal is easier to do. The second one is 2mdb2. This is the first time I have come here. But I have to tell you the name of the traversal. I will not discuss the traversal. I will not waste time here. If you are a C, you can come here. You can come here in areas. I am telling you that this is very important. I will not put this on board. I will show you the simple form loop. Now if I tell you the definition of traversal. If you ask me what is traversal? I will not say this. Now I will tell you the meaning of traversal. Every element of the array has to visit me once. If you have a festival in your house. And your father says that go to the house of ten relatives. And bring their blessings there. So what you will do? You will do the traversal. Okay? So here you have 0, 1, 2, 3. So you all must visit one more time. If you have a whole array, then your traversal will be there. And you can do it at any time. Or you want to print all the elements of this array. Or you want to set this array. Or you have created this new array. You say, I will add some value. I will add some value. I will add some values. I will add some values. I will add some values. So I will add all the block and integer. I will assume it. You will have to access the integer block. You will have to say that you have traversed. You have traveled. When you go to the path, you travel in the path. You travel in the area. Hence the name traversal. You do not need to print. You will do it at any time. You can do it at any time. You can do it at any time. You can update all the elements of this array. I want to update them. I am doing all the other elements of this array. This is our traversal. So this is clear. If you are looking at this array, then you will see 0, 1, 2, 3. Why you have created this array? Your system is now the same. You have to see the whole procedure. You have to see the entire procedure. You have to go there and do the process. It takes 15 minutes for the rest of the time, In the morning you wake up with 15 minutes, When you wake up in the morning, When you wake up with 15 minutes, Go to the evening, Go to the evening, You wake up with 11. You wake up with 11. You wake up with 11. I have written it in 15 hours. So you can see it in the breaks. When you can see it easily, I have done it with practice. So what will happen here? Let's check the number of elements. Now I will tell you what I will tell you. The one that you have made is You say You say compiler Yes, what are you saying? You say compiler int arr So what will compiler do? You will go to the library You say it is correct. You have to use the 100 block of memory. You have to use the 100 block. You can use the 0 to 90. Now your goal is To use the 100 block Or 5 block You can use the 3 block Or 5 block Or 4 block Or 5 block So your goal is To use the block This block is your own. you fall in love CLIO Listen You get to your personal\u4e0d\u5230 You will have 1x and 1x. So your judgment will be You will know that your Giving Your visa sir will be You\uc0ac\ub3c4 You will pay You can actually get me You will get my ticket A few Microsoft here So you are saying that these three houses are mine? I am using them. So, why are you saying that you are not using this house? You have reserved them. This is your whole house. You can use one house and empty the three houses. That is your opportunity. Similarly, I have reserved the house for 100 elements. So, this is my opportunity. I am using one house. I am using 2 houses. I am using 5 houses. I am using 10 houses. I cannot use 10,000 houses. But because they are small. I am using 100 in the entire space of the entire integer. I cannot use 100 in the entire space. I cannot use them less. I cannot use them more. I cannot go to this space. This is not possible. This is not possible. You can go anywhere. When there is a house, and I am using 4 houses, then I will read them. I will say that this house is mine. I will say that why are you saying that it is mine? Why are you saying that it is mine? That is the same. You can also use this house in the area. I am using 0 to 99. What you have done? You have reserved your space. You have just gone from the compiler. This compiler is 0 to 99. The space in the integer blocks, it is called contiguous blocks. The area in the array is a parivasha. This is the same in the same way in the other hand. As I told you in the memory, it takes 4-4 bytes. If the main low is 0, this is 4, this is 8, then this is 12. You will get 4-4 gape in the gap. You will get the address to see the memory. Because this is contiguous blocks. If you have the command low, you will need to use the feature in the future. And the blocks. You cannot request that. You will have to copy the new array. In traversal, we will use 5-4, we will use all the elements. We will use them all. So what can you do? You can make two variables. You can make capacity. You can make a size here. You can make a size here. You can use the size of the size. You can use the capacity of the element. You can use the capacity of the element. This is so important. You can make a 10-liter water here. You can make a 10-liter water here. You can make a 10-liter water here. If you need 10-liter water, then I will also store 10-liter water. So you can reserve more memory. You can make a size of the capacity of the array. You can use 5-4 bytes. Now we will use this. I will write a dot dot. If you have seen the notes, then I will show you the notes. I will show you the notes. Here I have written a dot dot. Here I have written an array here. Here I have written a dot dot. And this dot dot means, the size of the array is bigger. The size of the array is larger. We will keep it. With that set, our traversal is complete. We will not take the traversal tension. This is the array we made. And this is the array. I have just visited every element once. And my traversal is complete. I will make a little place here. And I will tell you the rest of the operations after making a little place. So the traversal is very easy. You can put a forward loop. Till you reach the size of the element, I will also show you the coding. I will tell you a little bit. Till you reach the size of the element, you will keep it. And then, you will have to print the entire element. You will have to print it. Okay, no one is like that. Let's talk about insertion. And listen to my array. Now you say, I have to insert 5 in index number 2. That is, I have to insert 5 in index number 2. Now listen carefully. Here, with 0, here, 8, here, 9. Now you have to insert 5 in index number 2. If you insert 5 in index number 2, then what will happen to the number? So this will be the problem. So we have to keep the 9 in the same place. And we have to insert 5 in the same place. Now listen to the case. What is the case 1? The case 1 is that you want to maintain the order. That means, if 5 is coming here, 9, 10 and 15 are coming in one order. So you have to make a gap here. How will the gap be? How will the gap be? Shift the element. So let's see how I do this here. This was my array. 7, 8, 9. Okay? 10 or 15. Let's leave this. You will get a school 4. Okay, there will be a assembly. So what happens in this assembly? It looks like a child. Okay, this is a child. Okay, if we are getting something, we are getting something, we are getting something. There is a screen. And you people are in the line. Okay, your friend is here. You come here. You say, this is your friend. I am getting a lot of pressure in the line. I am getting a lot of pressure in the line. So if you want to put it in the line, then you have to shift it. Because there are many trains. Okay, or this one will be left behind. Now why will this one be left behind? It is coming. It is coming. It is coming. So what will we do? We will put it in the line. And what will happen? We will shift it all. So if I have to get 5 index number 2, then I have to read these books first. Okay? Now it seems like you are doing this in the school. And if you take it first, then you will be tired. You have to do it. What happens here? You have to make a place first. So it will be 15. And here there are many blocks here. It is going up till 99. 0, 1, 2, 3. 4. And this is going up till 99. So here I have to shift 15. Okay? Then I have shifted 15. So what will happen? I will shift 10. Okay? And I will shift 9. And then I will shift 5. I will keep it here. So what I have to do first is to insert. To insert, you have to press the elements. Okay? Now if you are a very lucky person, you are a very lucky person. So you will be doing it in the air. So if you are lucky, then you will get 5 index number. I will tell you that you will insert 5. You will keep it quietly. If there was no one in the 5th, and this will be the area of the air, there will be no problem. So the best case of this is how much time it will be, its computational complexity will be, big of 1. That means you will be able to insert in constant time. I will write you the best case. The best case insertion will be here. Big O of 1 time. Now what will happen here? If I want to do the worst case insertion, I am a very lucky person. And the person who is lucky, then what will happen? Then I will tell you that I have to put here the element. Okay? I have to do all that. If I have got this insertion, then I have to insert another one. I have to do the whole area. I have to put 15 here. I have to put 10 here. I have to put 9 here. I have to put 5 here. I have to put 8 here. I have to put 5 here. I will make 1 place here. I will get an element insert here. You can write it in the same way. Then I will make a mistake here. I have to write it in the same way. I will make 10 here. I will make 5 here. I will make 8 here. I will make 7 here. Now I can insert 3 elements. Okay? I will insert 3 here. I will insert 3 here. I have to put so many elements in the worst case. I have to put N in the worst case. So, Bgo of N is my worst case. Now I told you that no algorithm is yours. You are in the best case, there is no constant time. There is no such case in the Dhoondi logo, where you will get constant runtime. That is why we do not talk about the best case. We talk about the worst case. So, we do not talk about the best case. We talk about the worst case. So, what will happen in the worst case? In the worst case, Bgo of N will be yours. So, I will tell you Bgo of N in the complexity of this. Let us talk about this. This is the case 1. You have to order and maintain. What will happen in case 2? It will be case 2. I will write here case 2. I will make a little bit of a place here. Let us put it here. If I make a little bit of a place. If someone says that I have to insert 5 here. Here, I have to insert 5 here. At index 2. And we do not have to order. We do not have to order. I will say 8. This will go to the end and 5. And space is very big. And you have to pay attention to one thing. When you insert in the area. The size variable is kept. You are using the element of the element. You must update it in that area. You must press 1. If you do traversal, you must miss this element. So, update the size. I will show you in coding. So, all these are in notes. There is no tension. I have uploaded all the notes. I want to talk about this. People say that there are zip files in the phone. I have kept all the zip files for convenience. Look, search for internet. How to unzip the file? If you do not want to unzip the zip. See, it is very important. You will also work in the future. I will unzip all the code, source, code, PDF, etc. If you come to this place, you will be able to download it. I will give you 10 places. I will unzip the zip file. I will unzip the computer. You will have to google this. I will unzip the video. I want to make a video. I will search for the link. I have inserted the link. I have inserted it in two cases. Now, let's talk about the deletion. We will also get the link in the deletion. The deletion and insertion are different. Let's put the element in the array. Let's remove it in the deletion. If you want to delete the book. I will delete it first. The only one where I'm going to demount the file. This particular file cannot do anything in the delay. I will delete the file according to the order recording. That is the re Command. 3,5,9,10,15 and here we will see this way I will make this here, and you can see this this is how it looks I have removed this element, so I have to eat all the elements now you will tell the complexity of the best case I will stand here, put it in the comments with the time stamp what will happen with the best case the deletion, what will happen with the worst case I will also know that you are watching these videos come on, now let us post the comment what is the best case deletion and what is the worst case deletion and what is the error in this method this is the case 1 ok let me write it down I will tell you the same the best case of bigo of 1 you have to delete the last element so bigo of 1 and bigo of 1 if you have to delete the first element then it is 2 so the case 2 is the element's order meter so what will you do delete this element and see the last element why are we doing this because the best option is if you have to put it in the line and it says I don't have anything in the line so what will you do I will put it in your place so that is the best if you have to do something else you should do it so what will you do and if you don't have the order then what will you do delete the 15th so you have deleted the most and the size is equal to 1 so you will do the same so you will do the same so you were doing it so how long were you doing it so you were using 7 elements and now you are doing it 0 to 5 is 6 0 to 5 is 5 sometimes interviews are 6 you can say you are using so many elements so what will happen so why not so your alertness will be tested so you can say you are saying you are saying 5 is not wrong sorry sorry sorry sorry now you are not okay so remember so this is our case 2 we will delete the constant time if we have case 2 the best case the worst case here the size of the end will be the same it will be the same it will be the same so this complexity you will understand in case 2 the constant time will be the same insertion and the delay okay but here another thing which we have not seen is that if we insert the element and insert it then what will we do after that we cannot insert it then we have 1 then we have 1 then we have to add 2 to 2 then we have to copy we have to make another we have to copy it we have to copy all the elements because if its element of Panth Responsibility means ... its ledge you consensus Yes most of you deal with can you see what exactly if we insert on a Easy again fill 15 and now look how can you say I talked to you with many So, you are going to the area of this area, or the overflow condition, or the overflow condition. You are going to the area of the stream, or you are breaking the border. You cannot park here, right? Line of control, this and this. Okay, you stay in your country. Don't go out, without passport visa. So, here you guys understood how we are going to get a big capacity area. You can do small size area in third-lead deceptions. Okay, you can also write code. So, you see this, you see this. Let's talk about the searching. Okay, let me give you all the information. If you talk about searching, I have talked to you guys. For some previous videos, by the way, you did not access your playlist. And you have seen this video. So, I will say that you will be very good for this. And you will be able to find the description and post the playlist. Because, there are all the videos uploaded there. I made a video, I analyzed two algorithms. I had named one first, I had named two other algorithms. And I told you guys that, look at this. What is the one that is the one that is searching the linear. If you have this area of 7, 10, and you have 18, then you have 1, then 3. You have 8 search in this area. So, you will do this, and search all the elements. If it is not sorted, then you can search it like this. You can do this, and search all the elements. But, if this area is sorted, then you will do binary search. Let's call it linear search. And binary search. Let's see what is binary search. If this area is sorted, then you will find 7, 10, 8, and then 1, then you will find it sorted. If I am not saying that you will find all the elements. So, what do you do now? You will see that this is 7 and 10, The 8 is 7 and 10, You will find this as low. Now, you will find this as high. You will first check that this is 7 and 10, If this is 7 and 10, then what will you do now? Make the low plus high by 2, So, if this is your 0, 1, 2, 3, 4. So, what will be 0 plus 4 by 2? Your mid will be your equal. And you will find this as your greatest, Now, your mid will be your 2, So, the mid will be your 2, then you will be your mid. You will see that this is a big mid, This is a small mid. Now, what will you do? Make it high, Now, my brother is here. You have started your work, If you search for it, you have made half of it. Then you will get the work done similarly. When your air is finished or your element is available, you will convert it. You will convert it. And after this convertions, your divorce will be finished. And finally you will reach the element. What will you do? You will have to make 2 plus 0 by 2. The low is your 0 and your high is the 1. Okay? What will happen? If you try to convert it again, the low and high will be the same. That means you will not get the element. So the benefit of the binary search is that you analyzed it. I had analyzed the video twice. I was comparing it with every element. What was I doing? I was comparing half of it to you. Because my air was sorted. But it is not sorted. So you should use the linear search. Otherwise the binary search will not increase your work. That means you will not increase your time. That means you will get computationally. Computationalally. Computationalally is expensive. Computationalally is expensive. You are doing unnecessary computation. Computationalally is expensive. Computationalally is cheap. You are working less time. You are working less space. So we have also seen the search. We will understand these things by coding. I have kept notes. You all are doing it. Now you have no excuses. You will not learn the data structure. Now you have no reason to know what was your excuse. Now you have no reason to know. I am practicing. If you have seen the video of the whole Buddha, then you will understand my guarantee. I don't think you need anything else. Let me talk about sorting. We will cover sorting algorithms. We will cover sorting. Assending order and descending order will be less. Like this. This is called SADAS 151. So we have to sort them. I will do this in increasing order. This is sorted. This is sorted. So you will know what is sorted. English word. If you don't know, this is sorted. This is also our. So I have made notes for you. You all are doing it. You all are doing it in a very comfortable way. I have summarized all of them. You all should have a traversal. Insertion, deletion, search. I have summarized all of these. We have also written notes for you. You should have written it in your hands. I have tried to make it clean. I have given you all these. You should have written notes. I will show you the data structure of algorithms. You have not access many people. I have done this for 14,000 people. I want all of you to access all of them. You will see the steps and steps of my course. You will be able to access the complete course. You can see the video in the future. You can see the time complexity of the course. But if you are a beginner starting, you will have to access the link in the description. I hope you all have understood all the operations. We will do this in the coming videos. We will code these operations in C language. You will be able to do it in C++. If you come to C++, I have used C++ for obvious reasons. Initially, I used Python, Java, etc. I have also told you the same thing. I am using C++ here. Majority of the C++ was the data structure of algorithms. We will do all the things in the coming videos. We will understand the more the more the theories we have seen. I hope you all will like this course. Please share this video with your friends. Thank you so much for watching this video. I will see you next time."
+}

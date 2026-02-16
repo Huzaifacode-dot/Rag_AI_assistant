@@ -1,0 +1,915 @@
+{
+    "chunks": [
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 0.0,
+            "end": 21.5,
+            "text": " Then you have two algorithms, one algorithm has written you, Shubham has written you and one algorithm has written you, Rohan has written you.  These two algorithms are written to make someone believe in someone.  So, who is the best algorithm in these two?  And how much better is this?  How will you think of this?"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 21.5,
+            "end": 40.0,
+            "text": " Today's video will be shown to you.  About the asymptotic notation, we will talk a little bit about the order.  If you have not done playlists, then you can access the data structures in the algorithm.  So, do not do any of these, you can go to the description and give everything to everyone.  And I have made these PDF notes in the local, which I have made 8 to Z."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 40.0,
+            "end": 68.0,
+            "text": " All the previous videos are also notes of the previous videos, I will put them in the future videos.  In the description, you should definitely download them.  We will talk about the asymptotic notation in the next video.  For any algorithm, we use the asymptotic notation to compare the two algorithms.  We have three asymptotic notation, Big O, Big Theta and Big Omega."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 68.0,
+            "end": 92.0,
+            "text": " What difference is there in these three?  It is very important, if you look at it from an exam point of view,  but today, I will tell you all the doubts and explain it in such a simple language that if you have seen the whole video,  then I will understand the notation.  With that said, I will start with Big O."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 92.0,
+            "end": 120.0,
+            "text": " Big O definition is about it.  And it is represented by our English.  Now what is Big O? Let's talk about its definition.  A function fn is set to be big O of gn.  If and only if there exists a constant c and a constant and not such that 0 less than equal to fn is less than equal to cgn."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 120.0,
+            "end": 135.0,
+            "text": " Now, do you have any definition?  Obviously not.  I have explained this definition in a graphical way.  When I was saying this definition, I was visualizing the graph in my mind,  and you also said this definition in my mind, as I said."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 135.0,
+            "end": 171.0,
+            "text": " I am not remembering it, I am not remembering it.  I will write here.  A function fn is set to be big O of gn if and only if.  See what condition is here.  There exists a pair of constants."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 171.0,
+            "end": 194.0,
+            "text": " You can write a side definition in notes.  You will not have any problem.  Such that 0 less than equal to fn is less than equal to cgn.  And this is c multiplied by gn.  This is a constant and this is multiplied by gn."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 194.0,
+            "end": 212.0,
+            "text": " What is gn?  The big O inside is like n n square n log n.  The big O inside is visible by the big O of n log n.  This is gn which will be here.  And what will be the function?"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 212.0,
+            "end": 230.0,
+            "text": " I will do the algorithm analysis.  I can do this function automatically.  But when we do the analysis, we compare two algorithms to two algorithms.  Then this fn will be time.  And what is n input?"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 230.0,
+            "end": 249.0,
+            "text": " If I am doing the size of 5 elements for 5 elements,  I am doing the size of 5 elements.  And I am doing the 15 elements for n value.  So n is the input size.  fn is the function of time."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 249.0,
+            "end": 264.0,
+            "text": " The value of your algorithm is the value of time.  And what is gn?  The function of gn will be here.  The function of gn will be here.  And what will be the function of gn?"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 264.0,
+            "end": 276.0,
+            "text": " So I will explain this definition to you.  I say that you write fn here.  And you write 0 here.  And you write gn here.  If you find a constant c."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 277.0,
+            "end": 299.0,
+            "text": " The equation that is satisfied is for all n greater than equal to n naught.  For n greater than equal to n naught, this definition is done.  I will do the pen change.  I will tell you the graph.  But first I will explain the definition to the dung."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 299.0,
+            "end": 312.0,
+            "text": " I will not tell you the graph.  What is the definition?  What is fn?  fn is the function of n square plus n plus 3.  This function can be fn."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 312.0,
+            "end": 327.0,
+            "text": " Now if I want to prove this big of n cube or n square.  Then what I will do?  I will put the function here.  And I will try to find c and n naught.  Such that n greater than equal to n naught."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 327.0,
+            "end": 345.0,
+            "text": " I want to find such a number.  I want to find such a number.  The number that is very big.  I will satisfy this equation.  I will satisfy this equation."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 345.0,
+            "end": 363.0,
+            "text": " Okay.  I want to find such a n.  I will take n from that number.  This equation is the value of the value of the value of n.  If you find a constant c and n naught."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 363.0,
+            "end": 379.0,
+            "text": " Then fn is the big of gn.  If you find a new fn, then this is the mathematical definition.  Okay.  I will give you a simple example.  I will give you n cube plus 1."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 379.0,
+            "end": 391.0,
+            "text": " Okay.  fn is my n cube plus 1.  And gn is my n.  I want to find such a n.  I want to find such a n."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 391.0,
+            "end": 402.0,
+            "text": " I want to find such a n.  I want to check.  I want to find such a n.  Then what I will do?  I will write 0."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 402.0,
+            "end": 418.0,
+            "text": " Then I will write less than equal to fn.  I will try to find such a n.  I will write n to the power 4.  I will try to find such a n.  I want to find such a n."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 418.0,
+            "end": 429.0,
+            "text": " So that n cube plus 1 is small n to the power 4.  Okay.  Let's see it for 2.  What will be 4 for 2?  What will be 16?"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 429.0,
+            "end": 440.0,
+            "text": " And what will be 9?  8 to the power 3.  8 to the power 8 plus 1.  So this equation is satisfied for 2.  If you keep a number from 2 to the power 4."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 440.0,
+            "end": 458.0,
+            "text": " Then you will have to increase it by 3 plus 1.  You can verify this equation by increasing it by increasing it by 4.  You will always see that n to the power 4 is increasing by 3 plus 1.  It is increasing by 4.  And here in the details I don't want to go."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 458.0,
+            "end": 475.0,
+            "text": " You can trust me.  And if you see any number from 4.  It is increasing by 4.  And one of the two is the negligible effect.  So this is equal to 1 and n is not able to satisfy 2."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 475.0,
+            "end": 494.0,
+            "text": " So this is the fn is big of n to the power 4.  Now you guys saw that in the last video we have removed the time complexity.  We had said that 1 hit 2 n to the power 3.  So is this big of n to the power 3 not?  Let's check it."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 494.0,
+            "end": 511.0,
+            "text": " Let's check this.  Is this big of n to the power 3 not?  Now I have a constant c.  I have a constant c.  What is the value of c and n to the power 3?"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 511.0,
+            "end": 526.0,
+            "text": " It is increasing by 1 to the power 3.  Let's check c by 2.  Let's see the value of n to the power 2.  This will be 9.  If I add 2, this will be 8."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 526.0,
+            "end": 547.0,
+            "text": " If I add 2 c value.  If I add 2 c value, then you will see that this will be 16.  Okay.  Then I add 3 to 4 to the power 4 to the power 4 to the power 4 to the power 4 to the power 3.  It is increasing by 1 to the power 3."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 547.0,
+            "end": 569.0,
+            "text": " So let's write n to the power 4.  I have taken 1 to the power 2.  I have taken 2 to the power 2 to the power 2.  If you increase n to the power 4 to the power 3, then you will see that this will be a very good result.  But there is no c and n to the power 4 to the power 4."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 569.0,
+            "end": 603.0,
+            "text": " If you are getting the power 4 to the power 3, then this is the big of n to the power 4.  Now I will tell you that when you calculate big of n to the power 4, then if you have a big of n to the power 3, then it is automatically big of n to the power 4.  And it is also a big of n to the power 5.  So it is definitely not a big of n to the power 3.  So if you don't have a complexity of an algorithm, then you have to understand that big of n to the power 3."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 603.0,
+            "end": 625.0,
+            "text": " Because this is also a big of n to the power 3.  Actually, the mathematical definition is the best answer is that you take the minimum g and g and you report n to the power 3.  You have to report n to the power 3.  We always remember this.  So I have also told you that if you make equation, you do all this work, what does it mean?"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 625.0,
+            "end": 640.0,
+            "text": " What does it mean?  I will tell you from the graph.  And I have told you how I had told you that I had to remember and sit.  No, I didn't.  I will tell you how I had told you that I have told you that I have told you that I have told you that I have to make a function."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 640.0,
+            "end": 650.0,
+            "text": " Okay, I am making a function.  This is fn.  Okay.  And I am making another function here.  This is my cgn."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 650.0,
+            "end": 667.0,
+            "text": " Okay.  Now tell me something.  If I have taken an n to the power 4, then you will see that if I take an n to the power 4, then what is the function?  The thing is that the cgn is not above fn.  It is not above fn, it is not above fn."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 667.0,
+            "end": 679.0,
+            "text": " So this big definition of big is called simply one thing.  It is called big love.  Look at this.  It is called an n to the power of big value.  After which, listen."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 679.0,
+            "end": 699.0,
+            "text": " After which,  it is always above fn.  That is, it is always above fn.  For the first value, then it will be fn big of gn.  So this is the whole story of that cgn is always above fn."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 699.0,
+            "end": 711.0,
+            "text": " Okay.  It is said that it is above fn and it is said that it is above fn.  And cgn is above fn.  It is so important.  Don't do it too complicated."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 711.0,
+            "end": 727.0,
+            "text": " And this is the mathematical definition.  It is said that it is said that the fn is below cgn.  Now if I ask you here that if the n cube is below n,  then it will be above fn.  It will be above fn."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 727.0,
+            "end": 751.0,
+            "text": " I will not find any constant.  If the c is below n, then it will be above c dash and above fn.  I will not find any constant.  So here, after which it is said that the fn is below cgn.  So if you want to report your answer in the big term,"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 751.0,
+            "end": 762.0,
+            "text": " then what will you do?  You will have a big function.  Such that c into gn is below fn.  Okay.  Okay."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 762.0,
+            "end": 773.0,
+            "text": " And you will get the n cube.  There is no problem in this.  You will get the n cube.  If the cgn is above fn.  And what happens before n, forget it."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 774.0,
+            "end": 791.0,
+            "text": " Before n, you are doing some interesting things.  Maybe here, from n, cgn was small with fn.  It does not mean that we do not mean it from this area.  We have taken it for all n greater than equal to n,  it means that we are doing it from this area."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 791.0,
+            "end": 804.0,
+            "text": " So here we will find the n cube and we want to say that cgn is above fn.  This is the bigoky definition.  Okay.  This is the bigoky definition.  Let us see the bigoky definition."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 804.0,
+            "end": 816.0,
+            "text": " I will repair it a little.  I have written it.  And I will put it in the whole board.  I will only put it in the bigoky definition.  You will know one more thing."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 816.0,
+            "end": 830.0,
+            "text": " The bigoky is very related to bigoky.  Look at you guys.  I will do cgn and fn.  Okay.  Let us see how I will get shot."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 830.0,
+            "end": 842.0,
+            "text": " I will do cgn and fn.  I will swap it.  So I will not talk about it.  I wrote fn on this board.  I wrote cgn and I will do it like this."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 842.0,
+            "end": 854.0,
+            "text": " So I changed cgn and fn.  Now it is changed.  So what happens here?  I will put it in an example.  I have changed the dhila."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 854.0,
+            "end": 866.0,
+            "text": " If I change it,  I will also change it in the upper graph.  Now you will understand what is called bigobega.  Bigobega is very simple.  It is said that you can see that"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 866.0,
+            "end": 877.0,
+            "text": " it is always above fn cgn.  Okay.  I have to move my hand here.  But there is no problem.  So here is same definition."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 877.0,
+            "end": 888.0,
+            "text": " It is not a very important definition.  It is the same thing.  This is the fn.  So in this case,  fn is moving towards cgn."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 888.0,
+            "end": 898.0,
+            "text": " Now what happens?  What happens?  It is said that  fn is lower bound.  It is bound from the bottom."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 898.0,
+            "end": 908.0,
+            "text": " Okay.  fn is lower bound.  So fn is bigobega.  I am sorry.  Bigobega."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 908.0,
+            "end": 924.0,
+            "text": " Gn is not a bigobega.  If you do not find c or n or n.  Then what happens?  Your bigobega is not gn.  So you will be clear."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 924.0,
+            "end": 941.0,
+            "text": " It is said that your bigobega was above cgn.  And this is cgn.  What does it mean?  This is the function of fn.  It is always bigger."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 941.0,
+            "end": 957.0,
+            "text": " I can find it in constant.  It is always bigger than fn.  cgn is greater than n.  Now if I take nq plus 1.  This is bigobega of 1."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 957.0,
+            "end": 969.0,
+            "text": " Why is this bigobega of 1?  I have taken one function.  What is my gn1?  I will write c less than equal to 0.  Less than equal to nq plus 1."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 969.0,
+            "end": 986.0,
+            "text": " Now what will I do?  I will take 1 of c value from 0.  1 of nq plus 1 is always satisfied.  1 of nq plus 1 is bigger than 1.  And nq value is not a memory."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 986.0,
+            "end": 1003.0,
+            "text": " I can take 2 or 3.  Now you can see that this equation is satisfied.  So nq plus 1 is bigobega of 1.  You have already said that this bigobega is not a good picture of 2.  It is not a good picture of 2."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1003.0,
+            "end": 1016.0,
+            "text": " So it is not a good picture of 2.  So who will give it?  I will tell you who will give it.  It is big theta.  You have understood bigobega."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1016.0,
+            "end": 1029.0,
+            "text": " I have written this.  I had to write this bigobega.  If you don't have it, you will have to write this bigobega.  You have understood bigobega.  Now I will tell you big theta."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1029.0,
+            "end": 1043.0,
+            "text": " And I will tell you one more thing.  You have to report the big theta.  Now what is big theta?  It is a very simple definition.  Any fn is big theta of gn."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1043.0,
+            "end": 1060.0,
+            "text": " If I give you fn function,  it will be big theta of gn.  If and on leave it is bigo and bigo omega.  I have written bigo again.  When I told bigo omega,"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1060.0,
+            "end": 1078.0,
+            "text": " but you guys have to do bigo omega.  So if any fn is big theta of gn.  Any fn is big theta of gn.  So that big omega is gn.  And bigo is gn."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1078.0,
+            "end": 1093.0,
+            "text": " Both will be at a time.  It is called big theta.  And this fn is bound on both sides.  And this is a good combination.  Tell you the run time of algorithm."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1093.0,
+            "end": 1108.0,
+            "text": " If I compare two algorithms.  A good term gives you algorithm to compare.  So big omega, I will tell you.  I will come to big theta.  I will tell you bigo and bigo omega."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1108.0,
+            "end": 1130.0,
+            "text": " And I will come to big theta.  A function fn is said to be big theta of gn.  If there exists a constant c and a constant and not such that.  Such that because this is big omega.  It is bigo."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1130.0,
+            "end": 1143.0,
+            "text": " So here c of, sorry.  I will put it in the dusters.  It is getting empty.  I will write fn here.  And I will write c of gn."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1143.0,
+            "end": 1153.0,
+            "text": " I will write 0 here.  And this is a constant same.  I will write c1.  Because someone can also write c1.  That is totally fine."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1153.0,
+            "end": 1165.0,
+            "text": " And after doing this.  fn is bigo.  Here fn is bigo.  And c2 is small.  But this one, c2gn is small."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1165.0,
+            "end": 1180.0,
+            "text": " C1gn is big.  So I can't write this equation.  I will do c2gn.  This is less than equal to fn.  This is less than equal to c1gn."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1180.0,
+            "end": 1190.0,
+            "text": " I can write.  This means.  This means.  I also wrote here.  C2gn is below."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1190.0,
+            "end": 1205.0,
+            "text": " And this is along with c1gn.  So what is c1gn above?  So both of you get bounce from both sides.  Lower bounce and upper bounce fn.  This means."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1205.0,
+            "end": 1224.0,
+            "text": " If you are presenting something big theta.  Then you will see the best picture of the algorithm.  So you can ask from you.  If you are presenting big theta.  If there is big theta, then you can also report big theta."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1224.0,
+            "end": 1235.0,
+            "text": " So you will see big theta is your best answer.  I will tell you.  Bigo is your best answer.  Big theta will tell you.  It will be a tighter bounce."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1235.0,
+            "end": 1249.0,
+            "text": " From the bottom to the bottom.  You will see a good picture of fn.  What is your order of fn?  When we talk about big theta.  Big theta means."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1249.0,
+            "end": 1266.0,
+            "text": " The fn is between c2gn and c1gn.  This is sandwiched.  There is sandwiched inside.  This is a slice of cheese on the bice time.  So you should be clear."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1266.0,
+            "end": 1278.0,
+            "text": " What is bigo?  What is bigo?  You have said it is a little more mathematical.  Will this interview be asked in your interview?  All your functions and definitions will not be asked."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1278.0,
+            "end": 1288.0,
+            "text": " But I have told you.  I have to make this graph.  If you have made this graph.  You will say.  I will tell you the big theta definition."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1288.0,
+            "end": 1309.0,
+            "text": " A function fn is set to be big theta of gn.  There exists a constant c1, c2 and n0.  Such that 0 less than equal to fn less than equal to c1gn.  And 0 less than equal to c2gn less than equal to fn.  You can tell."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1309.0,
+            "end": 1323.0,
+            "text": " For all n greater than equal to n0.  You can dictate both these two.  You can see these two questions.  I hope you have heard these questions.  This is a simple thing."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1323.0,
+            "end": 1333.0,
+            "text": " Ask a function.  What is big omega?  What is big theta?  You can solve this equation.  You can get this in gate."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1333.0,
+            "end": 1346.0,
+            "text": " Or you can get it in subjective paper.  But in more than this.  The question of loading is.  Order of this.  Order of this."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1346.0,
+            "end": 1361.0,
+            "text": " I will tell you in a second.  What is the order of this?  So you have to report big theta of n and n and n and n and n.  Which is what you have to report.  Which is as simple as that."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1361.0,
+            "end": 1377.0,
+            "text": " So I hope you have cleared these things.  I have prepared a lot of good notes for you.  I have told you this.  I have used colored pens.  To make your lines."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1377.0,
+            "end": 1391.0,
+            "text": " I have made a different color.  So that you can understand a clear understanding.  So I don't think you have any problem.  If you were taking notes.  That is fine."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1391.0,
+            "end": 1401.0,
+            "text": " But I have made a lot of notes.  I have written a precise one.  I have forgotten to write a big theta.  But you have got the point.  What is big omega?"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1401.0,
+            "end": 1413.0,
+            "text": " So I have made notes.  I will get the video download.  I will start with the description.  I will ask a lot of people to come to this video.  I will not be able to upload videos."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1413.0,
+            "end": 1425.0,
+            "text": " I will post all the information on Instagram.  If you haven't followed my Instagram.  I will give you the Instagram in the description.  You can follow.  You will be updated."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1425.0,
+            "end": 1436.0,
+            "text": " I am uploading some notes.  I will post everything on Instagram.  If you want to get it.  I will do some work.  I will go to my notes."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1436.0,
+            "end": 1446.0,
+            "text": " I will go to my notes.  I will see what is in my notes.  I have structured things.  I will go to my notes.  I will solve a question."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1446.0,
+            "end": 1458.0,
+            "text": " I have made notes for you.  I have written a note.  I have started notes.  I have written a note.  I have started notes."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1458.0,
+            "end": 1468.0,
+            "text": " I have made notes.  I have written a note.  I have written a note.  I have written a note.  I will tell you the important part."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1468.0,
+            "end": 1478.0,
+            "text": " If you haven't done playlists.  I have made a playlist.  If you haven't done this.  If you haven't done this.  A lot of you will get the videos you will get."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1478.0,
+            "end": 1491.0,
+            "text": " I will add lots of videos in future.  You will get a lot of videos.  You can click here to book it.  You can save it.  You can access the playlist and click on the link in the description box."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1491.0,
+            "end": 1512.0,
+            "text": " Along with that, I don't even release the notes of the records.  It takes a lot of time to make videos.  I make notes whenever I want to make them.  I am providing notes that are best.  Whenever I revise them, I think this is the best possible notes for DSL."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1512.0,
+            "end": 1537.0,
+            "text": " If you like and share the playlist, then I will also provide the notes of the records.  Now, we will come to the big notation of the SM-ploded notes.  We have seen the definition of the Fn of the notes.  The Fn of the notes is 0 to C of Gn.  The Bound describes the Fn of the notes."
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1537.0,
+            "end": 1598.28,
+            "text": " We have also seen the Fn of the notes above the CgN.  The CgN is on the TdNet code below the Fn of the notes.  If there is no Fn and B of A along the GbNA string, then until the E \uae30\uc5b5oth alphabet increment.  So if you read this note once and watch the video  I cannot believe that you are not in big, big, big, big, big, I do not understand"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1598.28,
+            "end": 1618.08,
+            "text": " because I have made a lot of simplifies the mathematical definition of this note  and made it with the notes of the video  so I don't think there will be any problem for you  so you should download this video, it is free of cost  and there are many bad players in the market who sell my notes and my work"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1618.08,
+            "end": 1633.3999999999999,
+            "text": " without my permission, I don't even know, my notes are very bad  my recent delay is like this  so share it in your college, there is WhatsApp group  so there are no chances of it to be like this  and more people will reach these notes"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1633.3999999999999,
+            "end": 1652.7199999999998,
+            "text": " so I told you that this is a big, big, big, big, big, big, big, big, big, big  and we used both these equations  and made a new equation and created a graph  and we saw that this is the lower and upper, both the bound F and N  and we can see a bigger picture from this"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1652.7199999999998,
+            "end": 1676.08,
+            "text": " if we say that there is a function, there is a big theta of G and N  so the time complexity of the algorithm  we can see a wider picture of it, we can see a better picture  so whenever you have an order of questions, exams,  so it is highly suggested that you do not use your big theta"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1676.08,
+            "end": 1697.8799999999999,
+            "text": " because if you use big theta, then automatically it will be big O and big O  as we have seen in your definition  that if it is big O and big O, then you always use your big theta  unless you have not specified your examiner, interviewer or whatever  until you have specified it or not, what you have to do?"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1697.96,
+            "end": 1714.0800000000002,
+            "text": " I said that you always report your answer to your big theta  you can drop the graph and verify some functions  as I have given you a question, but before that  which one of these to use?  I have told you that the big theta is a better picture"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1714.0800000000002,
+            "end": 1738.48,
+            "text": " but it means that it is not that big O and big O is not used  if your question is that you verify big O  so definitely you will verify big O, there will be no work of big theta  but if you have a time complexity and you have a question, then you always report your answer to your big theta  this is my advice for you"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1738.48,
+            "end": 1753.8,
+            "text": " and you keep your knowledge of the same thing  big O and big O  whenever you are giving a technical interview, then you can ask a question  so you can question a counter question  or you can question a counter with answer"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1753.8799999999999,
+            "end": 1770.04,
+            "text": " if someone has told you that the time is n square plus n plus 2  then you will say that this is big O of n square  and big theta is n square  but this big O of n to the power 4 is also there  if someone has asked you big O then it can be 4"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1770.04,
+            "end": 1788.6799999999998,
+            "text": " if you have a question order, then you can answer big theta  if you are interviewing or whatever you are testing  then you will be asked that you have big theta, big O  this is a good methodical knowledge of three O  so you will get a different edge in your interview"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1788.6799999999998,
+            "end": 1807.08,
+            "text": " you will be given a reference in front of them  there is no doubt about this  so we will see this much  and now we will solve the questions in the coming videos  so first of all, prove this big O of n square"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1807.08,
+            "end": 1819.16,
+            "text": " I have also asked a question in this way  so I will say that you have to verify it  you have to take the value of constant in equation  and plot it roughly  or do it like this"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1819.16,
+            "end": 1832.3600000000001,
+            "text": " or what do you do  if you are looking for a value of constant in C and n  then you can prove your point in this equation  once again this will be a little methodical  you will get a lot more methodical"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1832.3600000000001,
+            "end": 1844.52,
+            "text": " and you will not be able to remember this  no matter what you just remember  that the big O of n square  what is it that you do  then you will be described as"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1844.52,
+            "end": 1854.52,
+            "text": " your big O of n square  and these notes are for you  so if your interview is in the end  you will see these notes first  and everything will be clear"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1854.52,
+            "end": 1864.52,
+            "text": " you can forget the chance  and after a few days  if you encounter this question  then you can verify the notes  you can verify"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1864.52,
+            "end": 1874.52,
+            "text": " I will show you one more thing  before I finish the video  because I have also added the previous PDF  if you have this PDF  it will be the time for complexity and big O"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1874.52,
+            "end": 1884.52,
+            "text": " and what I did in this  you have added a graph  because I have added a link  from stack and log  and I have shown all the runtimes here"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1884.52,
+            "end": 1894.52,
+            "text": " and then I have shown them  so I have sorted the runtimes  and then I have sorted them  so this is the best  when I am talking about big"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1894.52,
+            "end": 1904.52,
+            "text": " the best is the best  which is big  so here  big O of 1  log n"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1904.52,
+            "end": 1914.52,
+            "text": " and this is in the big graph  this is the RIT  so this is the only time  you will be able to see  you will be able to see"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1914.52,
+            "end": 1924.52,
+            "text": " your algorithm in your career  you will be able to see  more runtimes  so this is the best  common"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1924.52,
+            "end": 1934.52,
+            "text": " so this is the best  table  you should have an idea  if you take any value  log n"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1934.52,
+            "end": 1944.52,
+            "text": " and this is the n  and this is the n  and this is the entire train  and if you have a special point  then you should know"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1944.52,
+            "end": 1954.52,
+            "text": " where it will fit  and the rest  you will ask a simple question  or you will ask  a code"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1954.52,
+            "end": 1964.52,
+            "text": " or you will ask a question  or you will ask a big O  or you will ask a big Theta  so I have told you how to do it  I will tell you"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1964.52,
+            "end": 1974.52,
+            "text": " in the videos  how the code is  n squared  and log n  and all the things"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1974.52,
+            "end": 1984.52,
+            "text": " you will be able to see  with the share of this playlist  please like this video  so that you can make the efforts  in the rest of the courses"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1984.52,
+            "end": 1994.52,
+            "text": " so please do it  thank you for watching  and I will see you  in the next video  so please do it"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 1994.52,
+            "end": 2004.52,
+            "text": " of course  I hope you like this video  and more support  I hope you will be able to do  Thank you very much"
+        },
+        {
+            "number": "03",
+            "title": "Asymptotic Notations\uff1a Big O, Big Omega and Big Theta Explained (With Notes)",
+            "start": 2004.52,
+            "end": 2006.52,
+            "text": " next time"
+        }
+    ],
+    "text": " Then you have two algorithms, one algorithm has written you, Shubham has written you and one algorithm has written you, Rohan has written you. These two algorithms are written to make someone believe in someone. So, who is the best algorithm in these two? And how much better is this? How will you think of this? Today's video will be shown to you. About the asymptotic notation, we will talk a little bit about the order. If you have not done playlists, then you can access the data structures in the algorithm. So, do not do any of these, you can go to the description and give everything to everyone. And I have made these PDF notes in the local, which I have made 8 to Z. All the previous videos are also notes of the previous videos, I will put them in the future videos. In the description, you should definitely download them. We will talk about the asymptotic notation in the next video. For any algorithm, we use the asymptotic notation to compare the two algorithms. We have three asymptotic notation, Big O, Big Theta and Big Omega. What difference is there in these three? It is very important, if you look at it from an exam point of view, but today, I will tell you all the doubts and explain it in such a simple language that if you have seen the whole video, then I will understand the notation. With that said, I will start with Big O. Big O definition is about it. And it is represented by our English. Now what is Big O? Let's talk about its definition. A function fn is set to be big O of gn. If and only if there exists a constant c and a constant and not such that 0 less than equal to fn is less than equal to cgn. Now, do you have any definition? Obviously not. I have explained this definition in a graphical way. When I was saying this definition, I was visualizing the graph in my mind, and you also said this definition in my mind, as I said. I am not remembering it, I am not remembering it. I will write here. A function fn is set to be big O of gn if and only if. See what condition is here. There exists a pair of constants. You can write a side definition in notes. You will not have any problem. Such that 0 less than equal to fn is less than equal to cgn. And this is c multiplied by gn. This is a constant and this is multiplied by gn. What is gn? The big O inside is like n n square n log n. The big O inside is visible by the big O of n log n. This is gn which will be here. And what will be the function? I will do the algorithm analysis. I can do this function automatically. But when we do the analysis, we compare two algorithms to two algorithms. Then this fn will be time. And what is n input? If I am doing the size of 5 elements for 5 elements, I am doing the size of 5 elements. And I am doing the 15 elements for n value. So n is the input size. fn is the function of time. The value of your algorithm is the value of time. And what is gn? The function of gn will be here. The function of gn will be here. And what will be the function of gn? So I will explain this definition to you. I say that you write fn here. And you write 0 here. And you write gn here. If you find a constant c. The equation that is satisfied is for all n greater than equal to n naught. For n greater than equal to n naught, this definition is done. I will do the pen change. I will tell you the graph. But first I will explain the definition to the dung. I will not tell you the graph. What is the definition? What is fn? fn is the function of n square plus n plus 3. This function can be fn. Now if I want to prove this big of n cube or n square. Then what I will do? I will put the function here. And I will try to find c and n naught. Such that n greater than equal to n naught. I want to find such a number. I want to find such a number. The number that is very big. I will satisfy this equation. I will satisfy this equation. Okay. I want to find such a n. I will take n from that number. This equation is the value of the value of the value of n. If you find a constant c and n naught. Then fn is the big of gn. If you find a new fn, then this is the mathematical definition. Okay. I will give you a simple example. I will give you n cube plus 1. Okay. fn is my n cube plus 1. And gn is my n. I want to find such a n. I want to find such a n. I want to find such a n. I want to check. I want to find such a n. Then what I will do? I will write 0. Then I will write less than equal to fn. I will try to find such a n. I will write n to the power 4. I will try to find such a n. I want to find such a n. So that n cube plus 1 is small n to the power 4. Okay. Let's see it for 2. What will be 4 for 2? What will be 16? And what will be 9? 8 to the power 3. 8 to the power 8 plus 1. So this equation is satisfied for 2. If you keep a number from 2 to the power 4. Then you will have to increase it by 3 plus 1. You can verify this equation by increasing it by increasing it by 4. You will always see that n to the power 4 is increasing by 3 plus 1. It is increasing by 4. And here in the details I don't want to go. You can trust me. And if you see any number from 4. It is increasing by 4. And one of the two is the negligible effect. So this is equal to 1 and n is not able to satisfy 2. So this is the fn is big of n to the power 4. Now you guys saw that in the last video we have removed the time complexity. We had said that 1 hit 2 n to the power 3. So is this big of n to the power 3 not? Let's check it. Let's check this. Is this big of n to the power 3 not? Now I have a constant c. I have a constant c. What is the value of c and n to the power 3? It is increasing by 1 to the power 3. Let's check c by 2. Let's see the value of n to the power 2. This will be 9. If I add 2, this will be 8. If I add 2 c value. If I add 2 c value, then you will see that this will be 16. Okay. Then I add 3 to 4 to the power 4 to the power 4 to the power 4 to the power 4 to the power 3. It is increasing by 1 to the power 3. So let's write n to the power 4. I have taken 1 to the power 2. I have taken 2 to the power 2 to the power 2. If you increase n to the power 4 to the power 3, then you will see that this will be a very good result. But there is no c and n to the power 4 to the power 4. If you are getting the power 4 to the power 3, then this is the big of n to the power 4. Now I will tell you that when you calculate big of n to the power 4, then if you have a big of n to the power 3, then it is automatically big of n to the power 4. And it is also a big of n to the power 5. So it is definitely not a big of n to the power 3. So if you don't have a complexity of an algorithm, then you have to understand that big of n to the power 3. Because this is also a big of n to the power 3. Actually, the mathematical definition is the best answer is that you take the minimum g and g and you report n to the power 3. You have to report n to the power 3. We always remember this. So I have also told you that if you make equation, you do all this work, what does it mean? What does it mean? I will tell you from the graph. And I have told you how I had told you that I had to remember and sit. No, I didn't. I will tell you how I had told you that I have told you that I have told you that I have told you that I have to make a function. Okay, I am making a function. This is fn. Okay. And I am making another function here. This is my cgn. Okay. Now tell me something. If I have taken an n to the power 4, then you will see that if I take an n to the power 4, then what is the function? The thing is that the cgn is not above fn. It is not above fn, it is not above fn. So this big definition of big is called simply one thing. It is called big love. Look at this. It is called an n to the power of big value. After which, listen. After which, it is always above fn. That is, it is always above fn. For the first value, then it will be fn big of gn. So this is the whole story of that cgn is always above fn. Okay. It is said that it is above fn and it is said that it is above fn. And cgn is above fn. It is so important. Don't do it too complicated. And this is the mathematical definition. It is said that it is said that the fn is below cgn. Now if I ask you here that if the n cube is below n, then it will be above fn. It will be above fn. I will not find any constant. If the c is below n, then it will be above c dash and above fn. I will not find any constant. So here, after which it is said that the fn is below cgn. So if you want to report your answer in the big term, then what will you do? You will have a big function. Such that c into gn is below fn. Okay. Okay. And you will get the n cube. There is no problem in this. You will get the n cube. If the cgn is above fn. And what happens before n, forget it. Before n, you are doing some interesting things. Maybe here, from n, cgn was small with fn. It does not mean that we do not mean it from this area. We have taken it for all n greater than equal to n, it means that we are doing it from this area. So here we will find the n cube and we want to say that cgn is above fn. This is the bigoky definition. Okay. This is the bigoky definition. Let us see the bigoky definition. I will repair it a little. I have written it. And I will put it in the whole board. I will only put it in the bigoky definition. You will know one more thing. The bigoky is very related to bigoky. Look at you guys. I will do cgn and fn. Okay. Let us see how I will get shot. I will do cgn and fn. I will swap it. So I will not talk about it. I wrote fn on this board. I wrote cgn and I will do it like this. So I changed cgn and fn. Now it is changed. So what happens here? I will put it in an example. I have changed the dhila. If I change it, I will also change it in the upper graph. Now you will understand what is called bigobega. Bigobega is very simple. It is said that you can see that it is always above fn cgn. Okay. I have to move my hand here. But there is no problem. So here is same definition. It is not a very important definition. It is the same thing. This is the fn. So in this case, fn is moving towards cgn. Now what happens? What happens? It is said that fn is lower bound. It is bound from the bottom. Okay. fn is lower bound. So fn is bigobega. I am sorry. Bigobega. Gn is not a bigobega. If you do not find c or n or n. Then what happens? Your bigobega is not gn. So you will be clear. It is said that your bigobega was above cgn. And this is cgn. What does it mean? This is the function of fn. It is always bigger. I can find it in constant. It is always bigger than fn. cgn is greater than n. Now if I take nq plus 1. This is bigobega of 1. Why is this bigobega of 1? I have taken one function. What is my gn1? I will write c less than equal to 0. Less than equal to nq plus 1. Now what will I do? I will take 1 of c value from 0. 1 of nq plus 1 is always satisfied. 1 of nq plus 1 is bigger than 1. And nq value is not a memory. I can take 2 or 3. Now you can see that this equation is satisfied. So nq plus 1 is bigobega of 1. You have already said that this bigobega is not a good picture of 2. It is not a good picture of 2. So it is not a good picture of 2. So who will give it? I will tell you who will give it. It is big theta. You have understood bigobega. I have written this. I had to write this bigobega. If you don't have it, you will have to write this bigobega. You have understood bigobega. Now I will tell you big theta. And I will tell you one more thing. You have to report the big theta. Now what is big theta? It is a very simple definition. Any fn is big theta of gn. If I give you fn function, it will be big theta of gn. If and on leave it is bigo and bigo omega. I have written bigo again. When I told bigo omega, but you guys have to do bigo omega. So if any fn is big theta of gn. Any fn is big theta of gn. So that big omega is gn. And bigo is gn. Both will be at a time. It is called big theta. And this fn is bound on both sides. And this is a good combination. Tell you the run time of algorithm. If I compare two algorithms. A good term gives you algorithm to compare. So big omega, I will tell you. I will come to big theta. I will tell you bigo and bigo omega. And I will come to big theta. A function fn is said to be big theta of gn. If there exists a constant c and a constant and not such that. Such that because this is big omega. It is bigo. So here c of, sorry. I will put it in the dusters. It is getting empty. I will write fn here. And I will write c of gn. I will write 0 here. And this is a constant same. I will write c1. Because someone can also write c1. That is totally fine. And after doing this. fn is bigo. Here fn is bigo. And c2 is small. But this one, c2gn is small. C1gn is big. So I can't write this equation. I will do c2gn. This is less than equal to fn. This is less than equal to c1gn. I can write. This means. This means. I also wrote here. C2gn is below. And this is along with c1gn. So what is c1gn above? So both of you get bounce from both sides. Lower bounce and upper bounce fn. This means. If you are presenting something big theta. Then you will see the best picture of the algorithm. So you can ask from you. If you are presenting big theta. If there is big theta, then you can also report big theta. So you will see big theta is your best answer. I will tell you. Bigo is your best answer. Big theta will tell you. It will be a tighter bounce. From the bottom to the bottom. You will see a good picture of fn. What is your order of fn? When we talk about big theta. Big theta means. The fn is between c2gn and c1gn. This is sandwiched. There is sandwiched inside. This is a slice of cheese on the bice time. So you should be clear. What is bigo? What is bigo? You have said it is a little more mathematical. Will this interview be asked in your interview? All your functions and definitions will not be asked. But I have told you. I have to make this graph. If you have made this graph. You will say. I will tell you the big theta definition. A function fn is set to be big theta of gn. There exists a constant c1, c2 and n0. Such that 0 less than equal to fn less than equal to c1gn. And 0 less than equal to c2gn less than equal to fn. You can tell. For all n greater than equal to n0. You can dictate both these two. You can see these two questions. I hope you have heard these questions. This is a simple thing. Ask a function. What is big omega? What is big theta? You can solve this equation. You can get this in gate. Or you can get it in subjective paper. But in more than this. The question of loading is. Order of this. Order of this. I will tell you in a second. What is the order of this? So you have to report big theta of n and n and n and n and n. Which is what you have to report. Which is as simple as that. So I hope you have cleared these things. I have prepared a lot of good notes for you. I have told you this. I have used colored pens. To make your lines. I have made a different color. So that you can understand a clear understanding. So I don't think you have any problem. If you were taking notes. That is fine. But I have made a lot of notes. I have written a precise one. I have forgotten to write a big theta. But you have got the point. What is big omega? So I have made notes. I will get the video download. I will start with the description. I will ask a lot of people to come to this video. I will not be able to upload videos. I will post all the information on Instagram. If you haven't followed my Instagram. I will give you the Instagram in the description. You can follow. You will be updated. I am uploading some notes. I will post everything on Instagram. If you want to get it. I will do some work. I will go to my notes. I will go to my notes. I will see what is in my notes. I have structured things. I will go to my notes. I will solve a question. I have made notes for you. I have written a note. I have started notes. I have written a note. I have started notes. I have made notes. I have written a note. I have written a note. I have written a note. I will tell you the important part. If you haven't done playlists. I have made a playlist. If you haven't done this. If you haven't done this. A lot of you will get the videos you will get. I will add lots of videos in future. You will get a lot of videos. You can click here to book it. You can save it. You can access the playlist and click on the link in the description box. Along with that, I don't even release the notes of the records. It takes a lot of time to make videos. I make notes whenever I want to make them. I am providing notes that are best. Whenever I revise them, I think this is the best possible notes for DSL. If you like and share the playlist, then I will also provide the notes of the records. Now, we will come to the big notation of the SM-ploded notes. We have seen the definition of the Fn of the notes. The Fn of the notes is 0 to C of Gn. The Bound describes the Fn of the notes. We have also seen the Fn of the notes above the CgN. The CgN is on the TdNet code below the Fn of the notes. If there is no Fn and B of A along the GbNA string, then until the E \uae30\uc5b5oth alphabet increment. So if you read this note once and watch the video I cannot believe that you are not in big, big, big, big, big, I do not understand because I have made a lot of simplifies the mathematical definition of this note and made it with the notes of the video so I don't think there will be any problem for you so you should download this video, it is free of cost and there are many bad players in the market who sell my notes and my work without my permission, I don't even know, my notes are very bad my recent delay is like this so share it in your college, there is WhatsApp group so there are no chances of it to be like this and more people will reach these notes so I told you that this is a big, big, big, big, big, big, big, big, big, big and we used both these equations and made a new equation and created a graph and we saw that this is the lower and upper, both the bound F and N and we can see a bigger picture from this if we say that there is a function, there is a big theta of G and N so the time complexity of the algorithm we can see a wider picture of it, we can see a better picture so whenever you have an order of questions, exams, so it is highly suggested that you do not use your big theta because if you use big theta, then automatically it will be big O and big O as we have seen in your definition that if it is big O and big O, then you always use your big theta unless you have not specified your examiner, interviewer or whatever until you have specified it or not, what you have to do? I said that you always report your answer to your big theta you can drop the graph and verify some functions as I have given you a question, but before that which one of these to use? I have told you that the big theta is a better picture but it means that it is not that big O and big O is not used if your question is that you verify big O so definitely you will verify big O, there will be no work of big theta but if you have a time complexity and you have a question, then you always report your answer to your big theta this is my advice for you and you keep your knowledge of the same thing big O and big O whenever you are giving a technical interview, then you can ask a question so you can question a counter question or you can question a counter with answer if someone has told you that the time is n square plus n plus 2 then you will say that this is big O of n square and big theta is n square but this big O of n to the power 4 is also there if someone has asked you big O then it can be 4 if you have a question order, then you can answer big theta if you are interviewing or whatever you are testing then you will be asked that you have big theta, big O this is a good methodical knowledge of three O so you will get a different edge in your interview you will be given a reference in front of them there is no doubt about this so we will see this much and now we will solve the questions in the coming videos so first of all, prove this big O of n square I have also asked a question in this way so I will say that you have to verify it you have to take the value of constant in equation and plot it roughly or do it like this or what do you do if you are looking for a value of constant in C and n then you can prove your point in this equation once again this will be a little methodical you will get a lot more methodical and you will not be able to remember this no matter what you just remember that the big O of n square what is it that you do then you will be described as your big O of n square and these notes are for you so if your interview is in the end you will see these notes first and everything will be clear you can forget the chance and after a few days if you encounter this question then you can verify the notes you can verify I will show you one more thing before I finish the video because I have also added the previous PDF if you have this PDF it will be the time for complexity and big O and what I did in this you have added a graph because I have added a link from stack and log and I have shown all the runtimes here and then I have shown them so I have sorted the runtimes and then I have sorted them so this is the best when I am talking about big the best is the best which is big so here big O of 1 log n and this is in the big graph this is the RIT so this is the only time you will be able to see you will be able to see your algorithm in your career you will be able to see more runtimes so this is the best common so this is the best table you should have an idea if you take any value log n and this is the n and this is the n and this is the entire train and if you have a special point then you should know where it will fit and the rest you will ask a simple question or you will ask a code or you will ask a question or you will ask a big O or you will ask a big Theta so I have told you how to do it I will tell you in the videos how the code is n squared and log n and all the things you will be able to see with the share of this playlist please like this video so that you can make the efforts in the rest of the courses so please do it thank you for watching and I will see you in the next video so please do it of course I hope you like this video and more support I hope you will be able to do Thank you very much next time"
+}

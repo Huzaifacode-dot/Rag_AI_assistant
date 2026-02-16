@@ -1,0 +1,530 @@
+{
+    "chunks": [
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 0.0,
+            "end": 32.0,
+            "text": " In today's video, we will talk about the insertion.  If you don't know, we talked about the details about the operations.  And what I will do here is that I have given you the operations of the array of operations.  As I told you in the previous video, that the Traversal of the array, I will not tell you.  I will make a file from the docc name and insertion in it."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 32.0,
+            "end": 49.0,
+            "text": " I will put the number in the video and I like the number of videos.  I have done this video in which clarity comes out.  I will rename this video number 10 and underscore 10.  I will not need you to do this.  Because I want to provide this code."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 49.0,
+            "end": 75.0,
+            "text": " I will put a boilerplate template in it.  I have an array of the fillings.  I have done 100.  I have told you that the compiler should store 100 integers.  I have done 100 elements."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 75.0,
+            "end": 103.0,
+            "text": " Now I can do something like this.  I can put the error 1, error 2, the value of the error.  I can write this in the C.  I will do this in the array of the fillings.  I will write the void display."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 103.0,
+            "end": 116.0,
+            "text": " As I told you before, I will not tell you the Traversal.  If you want, I will tell you the Traversal.  It is an address.  There are 4 elements.  There is a 4 loop."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 116.0,
+            "end": 137.0,
+            "text": " I can write the entire 0i, less than equal to n.  I can write this in the array.  I can write the print, percentage, backslash, and n.  I have already told you this.  I will not tell you the exact same thing."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 137.0,
+            "end": 160.0,
+            "text": " This is the array of the fillings.  I will not tell you the same thing.  I have already made a full video of the fillings.  I will run this program from the C language video.  You can see the array of the fillings."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 160.0,
+            "end": 179.0,
+            "text": " I have made a full video of the fillings.  I hope you all understand this.  I have made a full video of the fillings.  I will not give backslash in the array.  This is the array of the fillings."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 179.0,
+            "end": 200.0,
+            "text": " This is the data structure course.  I did the same thing in the display that I have made.  I will visit all the elements.  So this is the Traversal.  I told you that I will not give you the time."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 200.0,
+            "end": 210.0,
+            "text": " I have also done the traversal.  So what will we do here?  The main work is the insertion.  Okay, you can find the area,  how the display is done, you know."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 210.0,
+            "end": 220.0,
+            "text": " I have written the syntax here,  you can see the inside here,  and there are 4 elements here.  So I have done this,  because I am"
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 220.0,
+            "end": 232.0,
+            "text": " using only 4 elements  in my 100 elements.  So I have written it in some way.  If I want,  I can add more elements in the future."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 232.0,
+            "end": 242.0,
+            "text": " Okay?  So I have done this.  Now I will make a function of insertion.  Okay?  So what will happen?"
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 242.0,
+            "end": 254.0,
+            "text": " I will write something here.  Insert it in this ARR.  And I will pass this ARR by address.  Okay? How will I pass it?  I will pass by address."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 254.0,
+            "end": 266.0,
+            "text": " I will do an int size is equal to 4.  I will make a form here.  Which means,  I am using 4 elements of this element.  We have to store 100 elements here."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 266.0,
+            "end": 276.0,
+            "text": " That means, the tanker of 100 liters is  and the tanker of 4 liters is  filled with water.  That means, the tanker of 6 liters of water  is the gujayesh."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 276.0,
+            "end": 286.0,
+            "text": " Now what will we do here?  I will write it in the  sorted insertion.  Okay? So I will make a function of the sorted insertion.  And I will have to give a sorted insertion."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 286.0,
+            "end": 296.0,
+            "text": " I will have to pass it.  And I will have to pass it.  I will have to pass it.  But before that I will have to give it a size.  I will have to give an int element."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 296.0,
+            "end": 305.0,
+            "text": " And I will write an element here.  I will write it in the  manual.  It is an element to be inserted.  I want to insert it in the"
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 305.0,
+            "end": 315.0,
+            "text": " ARR. Okay?  So I will write the element.  And I will do what I will do here.  What will be the capacity of the ARR?  Because the capacity is also important for the"
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 315.0,
+            "end": 325.0,
+            "text": " Janna's Ruri OS function.  I will do it to make it compact.  I will write it here.  So what will happen?  The int size is equal to 4."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 325.0,
+            "end": 335.0,
+            "text": " The element is equal to 45.  The capacity of the ARR.  The capacity of the ARR.  The SOH is here.  So I will send the SOH directly."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 335.0,
+            "end": 347.0,
+            "text": " Or I can write the capacity as 0.00.  I have made the SOH size of the ARR.  I have made the SOH size of the ARR.  I have passed all the things here.  Okay?"
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 347.0,
+            "end": 357.0,
+            "text": " So if I want to insert an sorted ARR in the  int section at an index.  Okay?  So I will say that I want to insert an  indincertion."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 357.0,
+            "end": 367.0,
+            "text": " I want to insert an index.  I want to insert an index  at a given index.  I want to insert an index here.  And I will do what I will do here."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 367.0,
+            "end": 377.0,
+            "text": " I will also write the index.  I want to insert an index.  And what is my?  I want to insert an index.  I want to insert an index."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 377.0,
+            "end": 387.0,
+            "text": " Okay?  So I have written a display function.  And I have printed the ARR in the first print.  So after that, the insertion will be my function.  Because I am going to make it."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 387.0,
+            "end": 397.0,
+            "text": " I will make it in the first print.  I will keep it void.  Because the ARR will simply update the ARR.  This is the ARR.  I will not do anything like this with the ARR."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 397.0,
+            "end": 407.0,
+            "text": " I am not returning the ARR.  I am returning the value.  This is the end insertion.  But I will return an integer.  I will tell you that"
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 407.0,
+            "end": 419.0,
+            "text": " the insertion is successful.  Because I am going to write the first print.  If I write it like this.  This is the ARR.  And here is the end size."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 419.0,
+            "end": 429.0,
+            "text": " I will mark an shortcut.  I will click on the Alt button on my board.  And I will give the end space.  I will give the end space.  It is the end element."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 429.0,
+            "end": 441.0,
+            "text": " The end capacity is the end index.  Now what I will say here?  Look, this is the case.  If you do not have the ARR.  What can you do?"
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 441.0,
+            "end": 455.0,
+            "text": " If your entire ARR is full.  And your size is greater than or equal to capacity.  So I cannot write it.  If your tanker has solid water.  If your tanker has solid water."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 455.0,
+            "end": 465.0,
+            "text": " If you have a single liter.  You will not get water.  So the capacity is the same.  Now you guys.  Go to school."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 465.0,
+            "end": 475.0,
+            "text": " And your exam is full.  If your student says,  Please leave the exam.  I will take you to the corner.  So it is not a place."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 475.0,
+            "end": 491.0,
+            "text": " If your capacity is the same.  I am taking the same amount of information.  If you return the minus.  Our insertion is not successful.  Now I will do it."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 491.0,
+            "end": 503.0,
+            "text": " Insertion is not successful.  If this is not the return.  What is the meaning of this?  I will tell you in one note.  I know this is the area of 188 and 188."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 503.0,
+            "end": 515.0,
+            "text": " And this area is very big.  188 is the index.  If I show you index.  So my index is equal to 3.  So I want to store third index."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 515.0,
+            "end": 525.0,
+            "text": " So when I want to store third index.  I want to store index.  I want to store index size.  I will do it till the end.  I will do it till the end."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 525.0,
+            "end": 537.0,
+            "text": " So I will do it for the fall loop.  Where will the fall loop go?  Where will the end i go?  Where will the index go?  Because you want to do it with index."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 537.0,
+            "end": 551.0,
+            "text": " In fact, the loop will be fine.  I want to do it.  I want to store the last element.  So if my area size is the same.  I will have to store 4 indexes."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 551.0,
+            "end": 565.0,
+            "text": " So if I store this for loop.  I will store it from size.  I will do it for the fall loop.  This area is the same.  I will take this area."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 565.0,
+            "end": 577.0,
+            "text": " 7-8-1227-88  7-8-1227-88  7-8-1227-88  I have taken this area.  7-8-1227-88"
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 577.0,
+            "end": 593.0,
+            "text": " So this area is the index.  So I want to store this area.  I will start from here.  I will start from here.  I will do 5-1."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 593.0,
+            "end": 619.0,
+            "text": " I will start from size-1.  I will say that my ARR is the ARR i plus1.  I will have to do ARR i plus1.  I want to start from size-1.  I want to start from size-1."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 619.0,
+            "end": 639.0,
+            "text": " I want to start from size-1.  I want to start from size-1.  I want to start from size-1.  If I don't want to take this area,  I will have to do it for the first time."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 639.0,
+            "end": 660.0,
+            "text": " I want to insert this index as far as I can.  As soon as my index is kissed, I will index Iis greater than equal to Iis.  As far as I can, I will not use index.  And finally, what I will do is, I will say,  Now put this index element in the element."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 660.0,
+            "end": 673.0,
+            "text": " What should I do?  Now put this index element in the element.  And I write this with the same error.  And return this index.  Return 1 for success."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 673.0,
+            "end": 684.0,
+            "text": " So that it is successful.  I have inserted this index in the element.  So 0, 1, 2, 3.  I want to insert this index as far as I can.  I want to see this index."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 684.0,
+            "end": 695.0,
+            "text": " I will see this index.  So what I will do now?  I will also do the size.  I will do the size plus equal to 1.  Because the size is bigger than Iis."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 695.0,
+            "end": 708.0,
+            "text": " First, I used to have 5 elements.  Now, I have 6 elements.  So after inserting, I will also insert the size.  And after inserting the size, I will display.  And after displaying, I will see my error."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 708.0,
+            "end": 722.0,
+            "text": " What is the effect of insertion?  And here, there is a problem.  1, 2, 7, 1, 2, 6, and 78.  So, I wrote here, 7, 8, 12, 27.  I think I am making some mistakes somewhere."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 722.0,
+            "end": 733.0,
+            "text": " I am doing some mistakes somewhere somewhere.  I will spot it.  Okay, I should have done I minus.  I had placed it.  Now, let's see."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 733.0,
+            "end": 746.0,
+            "text": " And here, the element of the element is inserted.  So, here, 7, 8, 12, 27, 88,  Now, 7, 8, 12, 45.  Index number 3, 11, 45.  So, insertion, we saw here."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 746.0,
+            "end": 760.0,
+            "text": " Here, it is the root of the traversal.  And here, it is the root of insertion.  So, I will write this as traversal.  Code for traversal.  And I will write this as code for insertion."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 760.0,
+            "end": 769.0,
+            "text": " Okay.  Now, what happens now?  When you are inserting the error,  you have to insert a sorted error.  As I will tell you,"
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 769.0,
+            "end": 782.0,
+            "text": " 1, 2, 3, 4, 1, 2, 3, 4, 5,  67, 88, 9.  And you have to insert it in this.  So, if you want to keep this error sorted,  then what will you do?"
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 782.0,
+            "end": 793.0,
+            "text": " You will have to insert 20,  you will have to insert 20 here.  Okay, after 5,  what will you do in that case?  In that case, you will have to insert the index."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 793.0,
+            "end": 805.0,
+            "text": " You will have to insert it after that.  Now, you will have to insert the index.  You can search the binary search,  and then you can insert all the elements.  So, you will see many variations of this problem."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 805.0,
+            "end": 816.0,
+            "text": " You will get the market.  Now, what is the efficient way to solve this problem?  All these things,  you have to think later,  in this way, you will get a lot of modified problems."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 816.0,
+            "end": 824.0,
+            "text": " You will be able to do all these things.  This is our insertion,  okay.  Now, here is our basic insertion,  the error inside."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 824.0,
+            "end": 833.0,
+            "text": " And this is our,  the Travers in this,  I hope you all will understand.  I will come to you in the display function.  I have written the error to show the error,"
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 833.0,
+            "end": 847.0,
+            "text": " to show the error to show the error given and error given the size.  And of course, all the elements have printed.  So, here, the error elements have printed.  Now, I want to insert the index number one,  I mean, I want to see 7 catalysts,"
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 847.0,
+            "end": 857.0,
+            "text": " and I want to see the number of the art.  I mean, this can also be done.  You can see that the number of the art is 188.  Now, you have to do one thing here.  You are a quiz for people."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 857.0,
+            "end": 870.0,
+            "text": " And the quiz is that you have to modify this code.  So, you can also tell that the insertion is successful.  If the insertion is successful,  then you have to display the error,  otherwise you don't have to display the error."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 870.0,
+            "end": 884.0,
+            "text": " So, I will give you this code.  The challenge is that you should implement it  and show me that if the insertion is successful,  then what will you do?  Will you print the error or modify the error?"
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 884.0,
+            "end": 898.0,
+            "text": " Or will you say insertion failed?  And just write it down.  And it will be done by itself.  You guys have understood that I have tried to explain to you.  So guys, I hope that you guys will be very helpful for this course."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 898.0,
+            "end": 907.0,
+            "text": " Many people have access to playlists.  I am so happy to see that.  And you have also downloaded a lot of notes.  It is also very happy.  I am making something here."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 907.0,
+            "end": 915.0,
+            "text": " So, you guys are downloading it.  You guys are downloading it.  I am very happy.  So, you guys are downloading it.  You guys write it for the notes."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 915.0,
+            "end": 924.0,
+            "text": " Download it, read it.  If you guys will come to the issue,  you can watch the video here.  So, you guys have only only notes.  You have only notes."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 924.0,
+            "end": 932.0,
+            "text": " You have only videos.  You have only practice questions.  I am also going to do it.  And I have also uploaded one note book.  So, I am not just uploading it."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 932.0,
+            "end": 943.0,
+            "text": " I am just uploading it here.  I am not giving the note book.  I am uploading this note book too.  So, you guys have to get all the questions.  You guys have to get it."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 943.0,
+            "end": 954.0,
+            "text": " So, I hope that you guys are very helpful.  If you guys are helpful,  I would like to share this with your friends and WhatsApp group.  And on Instagram,  as many people have shared this course."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 954.0,
+            "end": 970.0,
+            "text": " It is the first and foremost of ScreenShotl.  And the second thing is that I have mentioned everything in my story.  So, if you guys are not on Instagram,  you can follow me.  I have given you a link in the description and the pinned comment."
+        },
+        {
+            "number": "10",
+            "title": "Coding Insertion Operation in Array in Data Structures in C language",
+            "start": 970.0,
+            "end": 977.0,
+            "text": " So, if you guys liked this video, then do like.  Thank you so much guys for watching this video.  And I will see you next time."
+        }
+    ],
+    "text": " In today's video, we will talk about the insertion. If you don't know, we talked about the details about the operations. And what I will do here is that I have given you the operations of the array of operations. As I told you in the previous video, that the Traversal of the array, I will not tell you. I will make a file from the docc name and insertion in it. I will put the number in the video and I like the number of videos. I have done this video in which clarity comes out. I will rename this video number 10 and underscore 10. I will not need you to do this. Because I want to provide this code. I will put a boilerplate template in it. I have an array of the fillings. I have done 100. I have told you that the compiler should store 100 integers. I have done 100 elements. Now I can do something like this. I can put the error 1, error 2, the value of the error. I can write this in the C. I will do this in the array of the fillings. I will write the void display. As I told you before, I will not tell you the Traversal. If you want, I will tell you the Traversal. It is an address. There are 4 elements. There is a 4 loop. I can write the entire 0i, less than equal to n. I can write this in the array. I can write the print, percentage, backslash, and n. I have already told you this. I will not tell you the exact same thing. This is the array of the fillings. I will not tell you the same thing. I have already made a full video of the fillings. I will run this program from the C language video. You can see the array of the fillings. I have made a full video of the fillings. I hope you all understand this. I have made a full video of the fillings. I will not give backslash in the array. This is the array of the fillings. This is the data structure course. I did the same thing in the display that I have made. I will visit all the elements. So this is the Traversal. I told you that I will not give you the time. I have also done the traversal. So what will we do here? The main work is the insertion. Okay, you can find the area, how the display is done, you know. I have written the syntax here, you can see the inside here, and there are 4 elements here. So I have done this, because I am using only 4 elements in my 100 elements. So I have written it in some way. If I want, I can add more elements in the future. Okay? So I have done this. Now I will make a function of insertion. Okay? So what will happen? I will write something here. Insert it in this ARR. And I will pass this ARR by address. Okay? How will I pass it? I will pass by address. I will do an int size is equal to 4. I will make a form here. Which means, I am using 4 elements of this element. We have to store 100 elements here. That means, the tanker of 100 liters is and the tanker of 4 liters is filled with water. That means, the tanker of 6 liters of water is the gujayesh. Now what will we do here? I will write it in the sorted insertion. Okay? So I will make a function of the sorted insertion. And I will have to give a sorted insertion. I will have to pass it. And I will have to pass it. I will have to pass it. But before that I will have to give it a size. I will have to give an int element. And I will write an element here. I will write it in the manual. It is an element to be inserted. I want to insert it in the ARR. Okay? So I will write the element. And I will do what I will do here. What will be the capacity of the ARR? Because the capacity is also important for the Janna's Ruri OS function. I will do it to make it compact. I will write it here. So what will happen? The int size is equal to 4. The element is equal to 45. The capacity of the ARR. The capacity of the ARR. The SOH is here. So I will send the SOH directly. Or I can write the capacity as 0.00. I have made the SOH size of the ARR. I have made the SOH size of the ARR. I have passed all the things here. Okay? So if I want to insert an sorted ARR in the int section at an index. Okay? So I will say that I want to insert an indincertion. I want to insert an index. I want to insert an index at a given index. I want to insert an index here. And I will do what I will do here. I will also write the index. I want to insert an index. And what is my? I want to insert an index. I want to insert an index. Okay? So I have written a display function. And I have printed the ARR in the first print. So after that, the insertion will be my function. Because I am going to make it. I will make it in the first print. I will keep it void. Because the ARR will simply update the ARR. This is the ARR. I will not do anything like this with the ARR. I am not returning the ARR. I am returning the value. This is the end insertion. But I will return an integer. I will tell you that the insertion is successful. Because I am going to write the first print. If I write it like this. This is the ARR. And here is the end size. I will mark an shortcut. I will click on the Alt button on my board. And I will give the end space. I will give the end space. It is the end element. The end capacity is the end index. Now what I will say here? Look, this is the case. If you do not have the ARR. What can you do? If your entire ARR is full. And your size is greater than or equal to capacity. So I cannot write it. If your tanker has solid water. If your tanker has solid water. If you have a single liter. You will not get water. So the capacity is the same. Now you guys. Go to school. And your exam is full. If your student says, Please leave the exam. I will take you to the corner. So it is not a place. If your capacity is the same. I am taking the same amount of information. If you return the minus. Our insertion is not successful. Now I will do it. Insertion is not successful. If this is not the return. What is the meaning of this? I will tell you in one note. I know this is the area of 188 and 188. And this area is very big. 188 is the index. If I show you index. So my index is equal to 3. So I want to store third index. So when I want to store third index. I want to store index. I want to store index size. I will do it till the end. I will do it till the end. So I will do it for the fall loop. Where will the fall loop go? Where will the end i go? Where will the index go? Because you want to do it with index. In fact, the loop will be fine. I want to do it. I want to store the last element. So if my area size is the same. I will have to store 4 indexes. So if I store this for loop. I will store it from size. I will do it for the fall loop. This area is the same. I will take this area. 7-8-1227-88 7-8-1227-88 7-8-1227-88 I have taken this area. 7-8-1227-88 So this area is the index. So I want to store this area. I will start from here. I will start from here. I will do 5-1. I will start from size-1. I will say that my ARR is the ARR i plus1. I will have to do ARR i plus1. I want to start from size-1. I want to start from size-1. I want to start from size-1. I want to start from size-1. I want to start from size-1. If I don't want to take this area, I will have to do it for the first time. I want to insert this index as far as I can. As soon as my index is kissed, I will index Iis greater than equal to Iis. As far as I can, I will not use index. And finally, what I will do is, I will say, Now put this index element in the element. What should I do? Now put this index element in the element. And I write this with the same error. And return this index. Return 1 for success. So that it is successful. I have inserted this index in the element. So 0, 1, 2, 3. I want to insert this index as far as I can. I want to see this index. I will see this index. So what I will do now? I will also do the size. I will do the size plus equal to 1. Because the size is bigger than Iis. First, I used to have 5 elements. Now, I have 6 elements. So after inserting, I will also insert the size. And after inserting the size, I will display. And after displaying, I will see my error. What is the effect of insertion? And here, there is a problem. 1, 2, 7, 1, 2, 6, and 78. So, I wrote here, 7, 8, 12, 27. I think I am making some mistakes somewhere. I am doing some mistakes somewhere somewhere. I will spot it. Okay, I should have done I minus. I had placed it. Now, let's see. And here, the element of the element is inserted. So, here, 7, 8, 12, 27, 88, Now, 7, 8, 12, 45. Index number 3, 11, 45. So, insertion, we saw here. Here, it is the root of the traversal. And here, it is the root of insertion. So, I will write this as traversal. Code for traversal. And I will write this as code for insertion. Okay. Now, what happens now? When you are inserting the error, you have to insert a sorted error. As I will tell you, 1, 2, 3, 4, 1, 2, 3, 4, 5, 67, 88, 9. And you have to insert it in this. So, if you want to keep this error sorted, then what will you do? You will have to insert 20, you will have to insert 20 here. Okay, after 5, what will you do in that case? In that case, you will have to insert the index. You will have to insert it after that. Now, you will have to insert the index. You can search the binary search, and then you can insert all the elements. So, you will see many variations of this problem. You will get the market. Now, what is the efficient way to solve this problem? All these things, you have to think later, in this way, you will get a lot of modified problems. You will be able to do all these things. This is our insertion, okay. Now, here is our basic insertion, the error inside. And this is our, the Travers in this, I hope you all will understand. I will come to you in the display function. I have written the error to show the error, to show the error to show the error given and error given the size. And of course, all the elements have printed. So, here, the error elements have printed. Now, I want to insert the index number one, I mean, I want to see 7 catalysts, and I want to see the number of the art. I mean, this can also be done. You can see that the number of the art is 188. Now, you have to do one thing here. You are a quiz for people. And the quiz is that you have to modify this code. So, you can also tell that the insertion is successful. If the insertion is successful, then you have to display the error, otherwise you don't have to display the error. So, I will give you this code. The challenge is that you should implement it and show me that if the insertion is successful, then what will you do? Will you print the error or modify the error? Or will you say insertion failed? And just write it down. And it will be done by itself. You guys have understood that I have tried to explain to you. So guys, I hope that you guys will be very helpful for this course. Many people have access to playlists. I am so happy to see that. And you have also downloaded a lot of notes. It is also very happy. I am making something here. So, you guys are downloading it. You guys are downloading it. I am very happy. So, you guys are downloading it. You guys write it for the notes. Download it, read it. If you guys will come to the issue, you can watch the video here. So, you guys have only only notes. You have only notes. You have only videos. You have only practice questions. I am also going to do it. And I have also uploaded one note book. So, I am not just uploading it. I am just uploading it here. I am not giving the note book. I am uploading this note book too. So, you guys have to get all the questions. You guys have to get it. So, I hope that you guys are very helpful. If you guys are helpful, I would like to share this with your friends and WhatsApp group. And on Instagram, as many people have shared this course. It is the first and foremost of ScreenShotl. And the second thing is that I have mentioned everything in my story. So, if you guys are not on Instagram, you can follow me. I have given you a link in the description and the pinned comment. So, if you guys liked this video, then do like. Thank you so much guys for watching this video. And I will see you next time."
+}
